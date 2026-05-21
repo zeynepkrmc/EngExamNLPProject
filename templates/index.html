@@ -190,23 +190,38 @@
                     </div>
                 </div>
 
-                <div class="row g-4">
+                <div class="row g-4 mb-4">
                     <div class="col-md-6">
                         <div class="glass-card">
-                            <h5 class="card-title">Doğru / Yanlış Dağılımı</h5>
+                            <h5 class="card-title"><i class="bi bi-pie-chart me-2"></i>Doğru / Yanlış Dağılımı</h5>
                             <canvas id="chartPie" height="250"></canvas>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="glass-card">
-                            <h5 class="card-title">Soru Bazlı Sonuçlar</h5>
+                            <h5 class="card-title"><i class="bi bi-layers me-2"></i>N-Gram Katkı Dağılımı</h5>
+                            <canvas id="chartNgram" height="250"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row g-4 mb-4">
+                    <div class="col-md-6">
+                        <div class="glass-card">
+                            <h5 class="card-title"><i class="bi bi-bar-chart me-2"></i>Şık Dağılımı: Tahmin vs Doğru</h5>
+                            <canvas id="chartDistribution" height="250"></canvas>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="glass-card">
+                            <h5 class="card-title"><i class="bi bi-graph-up me-2"></i>Soru Bazlı Sonuçlar</h5>
                             <canvas id="chartBar" height="250"></canvas>
                         </div>
                     </div>
                 </div>
 
                 <div class="glass-card mt-4">
-                    <h5 class="card-title">Detaylı Sonuç Tablosu</h5>
+                    <h5 class="card-title"><i class="bi bi-table me-2"></i>Detaylı Sonuç Tablosu</h5>
                     <div class="table-responsive">
                         <table class="table table-dark table-hover" id="resultsTable">
                             <thead>

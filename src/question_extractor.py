@@ -70,7 +70,7 @@ def extract_cloze_questions(pdf_path):
             continue
 
         # Şıkları çıkar: A) ... B) ... C) ... D) ... E) ...
-        option_pattern = r'([A-E])\)\s*(.*?)(?=\s*[A-E]\)\s|$)'
+        option_pattern = r'([A-E])\)\s*(.*?)(?=\s*[A-E]\)|$)'
         option_matches = re.findall(option_pattern, q_text, re.DOTALL)
 
         if len(option_matches) < 5:

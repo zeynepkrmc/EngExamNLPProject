@@ -98,7 +98,7 @@ def api_predict():
         # Doğrudan soru objesi gönderilmiş
         question = data
 
-    predicted, scores = predictor.predict(question)
+    predicted, scores, breakdowns = predictor.predict(question)
 
     return jsonify({
         'question_id': question.get('id'),
@@ -107,7 +107,8 @@ def api_predict():
         'correct_answer': question.get('correct_answer'),
         'is_correct': predicted == question.get('correct_answer') if question.get('correct_answer') else None,
         'scores': {k: round(v, 2) for k, v in scores.items()},
-        'options': question.get('options', {})
+        'options': question.get('options', {}),
+        'breakdown': breakdowns.get(predicted, {})
     })
 
 

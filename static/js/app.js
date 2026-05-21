@@ -293,6 +293,8 @@ function nextQuestion() {
 // ── SONUÇLAR: TAM TEST ──
 let pieChart = null;
 let barChart = null;
+let ngramChart = null;
+let distChart = null;
 
 async function runFullTest() {
     const btn = document.getElementById('btnRunTest');
@@ -325,7 +327,7 @@ function displayTestResults(data) {
     document.getElementById('metricCorrect').textContent = `${data.correct} / ${data.total}`;
     document.getElementById('metricWrong').textContent = `${data.total - data.correct}`;
 
-    // Pie Chart
+    // ── 1. Pie Chart: Doğru/Yanlış ──
     const ctxPie = document.getElementById('chartPie').getContext('2d');
     if (pieChart) pieChart.destroy();
     pieChart = new Chart(ctxPie, {
@@ -335,20 +337,136 @@ function displayTestResults(data) {
             datasets: [{
                 data: [data.correct, data.total - data.correct],
                 backgroundColor: ['#22c55e', '#ef4444'],
-                borderWidth: 0
+                borderWidth: 0,
+                borderRadius: 4
             }]
         },
         options: {
             responsive: true,
+            cutout: '65%',
             plugins: {
                 legend: {
-                    labels: { color: '#94a3b8', font: { family: 'Inter' } }
+                    labels: { color: '#94a3b8', font: { family: 'Inter', size: 13 } }
                 }
             }
         }
     });
 
-    // Bar Chart — soru bazlı
+    // ── 2. N-Gram Katkı Dağılımı (Radar) ──
+    if (data.ngram_contribution) {
+        const ctxNgram = document.getElementById('chartNgram').getContext('2d');
+        if (ngramChart) ngramChart.destroy();
+
+        const ngLabels = ['Unigram', 'Bigram', 'Trigram', 'Quadgram'];
+        const ngValues = [
+            data.ngram_contribution.unigram || 0,
+            data.ngram_contribution.bigram || 0,
+            data.ngram_contribution.trigram || 0,
+            data.ngram_contribution.quadgram || 0
+        ];
+        const ngCorrectValues = [
+            (data.correct_ngram_contribution || {}).unigram || 0,
+            (data.correct_ngram_contribution || {}).bigram || 0,
+            (data.correct_ngram_contribution || {}).trigram || 0,
+            (data.correct_ngram_contribution || {}).quadgram || 0
+        ];
+
+        ngramChart = new Chart(ctxNgram, {
+            type: 'radar',
+            data: {
+                labels: ngLabels,
+                datasets: [
+                    {
+                        label: 'Tüm Tahminler',
+                        data: ngValues,
+                        borderColor: '#818cf8',
+                        backgroundColor: 'rgba(129, 140, 248, 0.15)',
+                        borderWidth: 2,
+                        pointBackgroundColor: '#818cf8',
+                        pointRadius: 4
+                    },
+                    {
+                        label: 'Doğru Tahminler',
+                        data: ngCorrectValues,
+                        borderColor: '#22c55e',
+                        backgroundColor: 'rgba(34, 197, 94, 0.1)',
+                        borderWidth: 2,
+                        pointBackgroundColor: '#22c55e',
+                        pointRadius: 4
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    r: {
+                        ticks: { color: '#64748b', backdropColor: 'transparent' },
+                        grid: { color: 'rgba(255,255,255,0.06)' },
+                        angleLines: { color: 'rgba(255,255,255,0.08)' },
+                        pointLabels: { color: '#94a3b8', font: { size: 12, family: 'Inter' } }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: { color: '#94a3b8', font: { family: 'Inter', size: 12 } }
+                    }
+                }
+            }
+        });
+    }
+
+    // ── 3. Şık Dağılımı: Tahmin vs Doğru ──
+    if (data.predicted_distribution && data.correct_distribution) {
+        const ctxDist = document.getElementById('chartDistribution').getContext('2d');
+        if (distChart) distChart.destroy();
+
+        const letters = ['A', 'B', 'C', 'D', 'E'];
+        distChart = new Chart(ctxDist, {
+            type: 'bar',
+            data: {
+                labels: letters,
+                datasets: [
+                    {
+                        label: 'Model Tahmini',
+                        data: letters.map(l => data.predicted_distribution[l] || 0),
+                        backgroundColor: 'rgba(129, 140, 248, 0.7)',
+                        borderColor: '#818cf8',
+                        borderWidth: 1,
+                        borderRadius: 6
+                    },
+                    {
+                        label: 'Doğru Cevap',
+                        data: letters.map(l => data.correct_distribution[l] || 0),
+                        backgroundColor: 'rgba(34, 197, 94, 0.7)',
+                        borderColor: '#22c55e',
+                        borderWidth: 1,
+                        borderRadius: 6
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: { color: '#64748b', stepSize: 1 },
+                        grid: { color: 'rgba(255,255,255,0.05)' }
+                    },
+                    x: {
+                        ticks: { color: '#94a3b8', font: { size: 14, weight: 'bold' } },
+                        grid: { display: false }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        labels: { color: '#94a3b8', font: { family: 'Inter', size: 12 } }
+                    }
+                }
+            }
+        });
+    }
+
+    // ── 4. Bar Chart — Soru bazlı ──
     if (data.results && data.results.length > 0) {
         const labels = data.results.map(r => `S${r.id}`);
         const colors = data.results.map(r => r.is_correct ? '#22c55e' : '#ef4444');
@@ -393,7 +511,7 @@ function displayTestResults(data) {
         });
     }
 
-    // Tablo
+    // ── 5. Tablo ──
     const tbody = document.querySelector('#resultsTable tbody');
     tbody.innerHTML = '';
     (data.results || []).forEach(r => {
@@ -415,3 +533,4 @@ function formatNumber(num) {
     if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
     return num.toString();
 }
+

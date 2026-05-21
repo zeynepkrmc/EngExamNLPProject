@@ -2,89 +2,304 @@
   {
     "id": 1,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "Most of the rare gases have been detected in small",
+    "left_context": "Most of the rare gases have been detected in small",
+    "right_context": "",
+    "options": {
+      "A": "intervention",
+      "B": "inaccurately amounts in earth minerals and in meteorites, but are found in greater ---- in the Earth’s atmosphere.",
+      "C": "unconsciously",
+      "D": "inevitably"
+    },
+    "correct_answer": "B",
+    "original_id": 1
+  },
+  {
+    "id": 2,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "Epidemiologists have increasingly focused on pumping out an array of gases. environmental and lifestyle factors, of which diet",
+    "left_context": "Epidemiologists have increasingly focused on pumping out an array of gases. environmental and lifestyle factors, of which diet",
+    "right_context": "",
+    "options": {
+      "A": "priority",
+      "B": "narrows and ---- to carcinogenic chemicals are generally seen as the central risk factors for various cancer",
+      "C": "pollutes",
+      "D": "destroys types."
+    },
+    "correct_answer": "C",
+    "original_id": 2
+  },
+  {
+    "id": 3,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "In a desert, groundwater is a ---- source of life to plants, which can produce roots that are dozens of C)turn down D)give up meters long, to reach down from the dry surface to the water below. E)figure out",
+    "left_context": "In a desert, groundwater is a",
+    "right_context": "source of life to plants, which can produce roots that are dozens of C)turn down D)give up meters long, to reach down from the dry surface to the water below. E)figure out",
+    "options": {
+      "C": "turn down",
+      "D": "give up meters long, to reach down from the dry surface to the water below.",
+      "E": "figure out",
+      "A": "vital",
+      "B": "threatening"
+    },
+    "correct_answer": "A",
+    "original_id": 3
+  },
+  {
+    "id": 4,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "In recent times, a number of prominent scientists ---- 10. Quantum mechanics has radically changed our the question of whether habitable planets ---- or not. views ---- reality and has come to play a critical role ---- today’s most important technologies.",
+    "left_context": "In recent times, a number of prominent scientists",
+    "right_context": "10. Quantum mechanics has radically changed our the question of whether habitable planets ---- or not. views ---- reality and has come to play a critical role ---- today’s most important technologies.",
+    "options": {
+      "A": "to / above",
+      "B": "have taken up / exist",
+      "C": "on / in"
+    },
+    "correct_answer": "B",
+    "original_id": 7
+  },
+  {
+    "id": 5,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "All living things ---- the Earth ---- highly complex",
+    "left_context": "All living things",
+    "right_context": "the Earth ---- highly complex",
+    "options": {
+      "A": "to have inhabited / always formed",
+      "B": "with / below relationships between themselves and with their environments.",
+      "C": "to / off",
+      "D": "under / for"
+    },
+    "correct_answer": "D",
+    "original_id": 8
+  },
+  {
+    "id": 6,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "A few years ago, people in England were surprised to find their cars covered ---- dust that had blown E)accordingly ---- the Sahara Desert.",
+    "left_context": "A few years ago, people in England were surprised to find their cars covered",
+    "right_context": "dust that had blown E)accordingly ---- the Sahara Desert.",
+    "options": {
+      "E": "accordingly ---- the Sahara Desert.",
+      "A": "beyond / away",
+      "B": "to / by",
+      "C": "on / at",
+      "D": "in / from"
+    },
+    "correct_answer": "D",
+    "original_id": 9
+  },
+  {
+    "id": 7,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "---- emissions of greenhouse gases were to halt 16. The normal function of antibodies is to detect immediately, temperatures would be expected to foreign substances and flag them for destruction, rise by about 0.6°C over in this century. ---- helping to fight infection.",
+    "left_context": "",
+    "right_context": "emissions of greenhouse gases were to halt 16. The normal function of antibodies is to detect immediately, temperatures would be expected to foreign substances and flag them for destruction, rise by about 0.6°C over in this century. ---- helping to fight infection.",
+    "options": {
+      "A": "instead",
+      "B": "thus",
+      "C": "While"
+    },
+    "correct_answer": "B",
+    "original_id": 13
+  },
+  {
+    "id": 8,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "Extreme heat due to global warming poses one of 17. ---- repeated attempts, nobody has ever reached the the biggest threats to drivers across the US ---- high bottom of Lake Baikal in Siberia, which is the temperatures cause asphalt to split more quickly. world’s deepest and largest freshwater lake.",
+    "left_context": "Extreme heat due to global warming poses one of 17.",
+    "right_context": "repeated attempts, nobody has ever reached the the biggest threats to drivers across the US ---- high bottom of Lake Baikal in Siberia, which is the temperatures cause asphalt to split more quickly. world’s deepest and largest freshwater lake.",
+    "options": {
+      "A": "Because of",
+      "B": "Despite",
+      "C": "although"
+    },
+    "correct_answer": "B",
+    "original_id": 14
+  },
+  {
+    "id": 9,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "Descartes was the first to publish a detailed account 18. ---- numerous missions to the Red Planet, we now of how to use coordinates for locating points in know that in its early infancy, Mars had a strong space ---- Fermat had developed the concept slightly magnetic field, created by convection currents of earlier. molten metals in the planet’s core.",
+    "left_context": "Descartes was the first to publish a detailed account 18.",
+    "right_context": "numerous missions to the Red Planet, we now of how to use coordinates for locating points in know that in its early infancy, Mars had a strong space ---- Fermat had developed the concept slightly magnetic field, created by convection currents of earlier. molten metals in the planet’s core.",
+    "options": {
+      "A": "In comparison to",
+      "B": "Thanks to",
+      "C": "provided that"
+    },
+    "correct_answer": "A",
+    "original_id": 15
+  },
+  {
+    "id": 10,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "In a double-blind study, ---- the subjects of the experiment ---- the persons administering the experiment know the critical aspects of the experiment so as to avoid experimenter bias as well as placebo effects.",
+    "left_context": "In a double-blind study,",
+    "right_context": "the subjects of the experiment ---- the persons administering the experiment know the critical aspects of the experiment so as to avoid experimenter bias as well as placebo effects.",
+    "options": {
+      "A": "other / than",
+      "B": "such / that",
+      "C": "so / that",
+      "D": "neither / nor",
+      "E": "the more / the more"
+    },
+    "correct_answer": "D",
+    "original_id": 19
+  },
+  {
+    "id": 11,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "A recent scientific paper proposed that orcas may be the only mammals, other than ourselves, ---- genes have actually been changed by culture.",
+    "left_context": "A recent scientific paper proposed that orcas may be the only mammals, other than ourselves,",
+    "right_context": "genes have actually been changed by culture.",
+    "options": {
+      "A": "when",
+      "B": "what",
+      "C": "which",
+      "D": "whose",
+      "E": "why 4 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL 21.-25. sorularda, parçada boş bırakılan yerlere"
+    },
+    "correct_answer": "D",
+    "original_id": 20
+  },
+  {
+    "id": 12,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "left_context": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "regardless of",
+      "B": "for the sake of The field of forensic science is the study and practice of",
+      "C": "contrary to",
+      "D": "instead of the application of natural sciences for the purpose of the law. One of the disciplines in forensic science is forensic",
+      "E": "such as serology, which involves the identification and characterisation of blood and blood fluids, either (21)---- a liquid or dried state, in association with a criminal or civil investigation. The components of blood have the potential of being a highly (22)---- feature for personal identification. Blood and dried bloodstains are two of the most frequently encountered types of evidence in criminal investigation of crimes (23)---- homicides and assaults. Forensic serologists (24)---- to 24. identify blood and bloodstains found at crime scenes"
+    },
+    "correct_answer": "E",
+    "original_id": 23
+  },
+  {
+    "id": 13,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "left_context": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "By",
+      "B": "From The muscles dragonflies use to fly are directly attached",
+      "C": "Above",
+      "D": "For to their wings, which are further strengthened by a number of veins. This means the largest dragonflies can",
+      "E": "Behind reach heights of almost 2,000 metres,(26)---- them to fly above the strongest winds. Their flexible heads serve as a navigation device. They are able to capture up to 175 images per second (27)---- their compound eyes, which are actually made up of 30,000 individual eyes. They can also see a far wider spectrum of colours than humans. The dragonfly also has three so-called simple eyes, which have one lens to measure brightness and act as optical stabilisers. (28)---- their prey, only one 29. hope remains: a sudden summer downpour. As soon as"
+    },
+    "correct_answer": "D",
+    "original_id": 28
+  },
+  {
+    "id": 14,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Because of the changing attitudes towards the richness usefulness of dams and their possible harm to the environment, ----. B) the effects of a drought on the landscape and its",
     "left_context": "Because of the changing attitudes towards the richness usefulness of dams and their possible harm to the environment,",
     "right_context": ". B) the effects of a drought on the landscape and its",
     "options": {
-      "B": "dams were also used to avoid flooding and to facilitate characterised by seasonal droughts transportation D)the intensity of a drought is measured largely by the C)dams were already being built to provide water storage ability of the living things to tolerate it and irrigation even before the advent of written history",
-      "A": "the most famous dam failure in the US was that of the inhabitants may last for years South Fork Dam in May 1889 C)tropical savanna is a type of grassland that is",
-      "E": "more than 500 dam removal projects were carried out in the US during the last decades of the 20th century"
+      "B": "dams were also used to avoid flooding and to facilitate characterised by seasonal droughts transportation",
+      "A": "the most famous dam failure in the US was that of the inhabitants may last for years South Fork Dam in May 1889",
+      "C": "tropical savanna is a type of grassland that is",
+      "D": "the intensity of a drought is measured largely by the"
     },
     "correct_answer": "E",
     "original_id": 31
   },
   {
-    "id": 2,
+    "id": 15,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "----, but there have been several periods during which climate has drastically shifted, either locally B) honey is, today, still valued as a sweetener and is or globally. used to some extent in medicine",
     "left_context": "",
     "right_context": ", but there have been several periods during which climate has drastically shifted, either locally B) honey is, today, still valued as a sweetener and is or globally. used to some extent in medicine",
     "options": {
-      "B": "There has never been anything directly comparable to the current cycle of human-induced global warming D)honey was a precious commodity in early Roman, Greek, and Egyptian civilisations C)The world's reef systems have been facing overwhelming stress due to global warming",
-      "A": "Global warming has been an important subject of the political debate C)the natural home for a honeybee colony is mainly a hollow tree, log, or cave",
-      "E": "Scientific projections with respect to global warming depend on the study of the past 7 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+      "B": "There has never been anything directly comparable to the current cycle of human-induced global warming",
+      "A": "Global warming has been an important subject of the political debate",
+      "C": "the natural home for a honeybee colony is mainly a hollow tree, log, or cave",
+      "D": "honey was a precious commodity in early Roman, Greek, and Egyptian civilisations"
     },
     "correct_answer": "B",
     "original_id": 32
   },
   {
-    "id": 3,
+    "id": 16,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Many of the tastiest mushroom species can be eaten 37. Viruses do not feed or grow, and they cannot without any risk; ----. reproduce on their own; ----.",
     "left_context": "Many of the tastiest mushroom species can be eaten 37. Viruses do not feed or grow, and they cannot without any risk;",
     "right_context": ". reproduce on their own; ----.",
     "options": {
       "A": "instead, they hijack living cells and force them to make begun in England in the late 18th century copies of themselves",
-      "B": "for example, antibiotics are not effective against similar to those that are deadly poisonous viruses C)for example, mycophobia, the fear of fungus, C)however, the taxonomy of viruses is done by a number is common to some people and cultures of internationally recognised authorities D)on the contrary, a number of fungi are used for D)that is, they can only be seen with an electron medical purposes microscope since they are very small",
-      "E": "thus, mushrooms make their living by absorbing"
+      "B": "for example, antibiotics are not effective against similar to those that are deadly poisonous viruses",
+      "C": "for example, mycophobia, the fear of fungus,"
     },
     "correct_answer": "B",
     "original_id": 35
   },
   {
-    "id": 4,
+    "id": 17,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Because the populations of ducks have been badly 38. Biologists have identified more than 500,000 depleted by overhunting, ----. species of plants in the kingdom Plantae ----.",
     "left_context": "Because the populations of ducks have been badly 38. Biologists have identified more than 500,000 depleted by overhunting,",
     "right_context": ". species of plants in the kingdom Plantae ----.",
     "options": {
       "A": "as roots require oxygen for respiration, which is why relatively shallow water most plants cannot live in soil that lacks air spaces",
-      "B": "since photosynthesis takes place in organelles called kills large numbers of ducks chloroplasts in plants C)the loss of natural cavities has been an important C)although there are still plenty of undiscovered species cause of the decline of the wood duck found in the tropics D)conservation has become a high priority for several D)because the seed plants are the dominant and most governments and private agencies studied group of plants",
-      "E": "the most important breeding habitats for ducks in"
+      "B": "since photosynthesis takes place in organelles called kills large numbers of ducks chloroplasts in plants",
+      "C": "the loss of natural cavities has been an important"
     },
     "correct_answer": "D",
     "original_id": 36
   },
   {
-    "id": 5,
+    "id": 18,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Solar eclipses are not actually rarer than lunar 41. Monitor lizards, like all lizards, are most energetic eclipses, ----. after heated by the morning sun ----.",
     "left_context": "Solar eclipses are not actually rarer than lunar 41. Monitor lizards, like all lizards, are most energetic eclipses,",
     "right_context": ". after heated by the morning sun ----.",
     "options": {
       "A": "since their muscles work much more efficiently when of each per year they are warm",
-      "B": "although cell division contributes to the regeneration of about 480 km wide across the Earth a lizard's tail C)that is, a lunar eclipse occurs when the Earth passes C)while the world’s largest lizard is the extremely between the Moon and the Sun impressive Komodo dragon D)although many people miscalculate when exactly a D)as they grow replacement teeth in the gaps between lunar eclipse will be visible to the eye their mature teeth",
-      "E": "therefore, these events had a religious purpose for"
+      "B": "although cell division contributes to the regeneration of about 480 km wide across the Earth a lizard's tail",
+      "C": "that is, a lunar eclipse occurs when the Earth passes"
     },
     "correct_answer": "A",
     "original_id": 39
   },
   {
-    "id": 6,
+    "id": 19,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "Artificial vision implants are often able to improve one’s ability to recognise shapes and movements ----.",
+    "left_context": "Artificial vision implants are often able to improve one’s ability to recognise shapes and movements",
+    "right_context": ".",
+    "options": {
+      "A": "whereas a number of varying designs are being used in clinical trials",
+      "B": "because they may sometimes not be compatible with the patient",
+      "C": "although the implants have made life easier for those with poor vision",
+      "D": "since the resolution of the artificial systems is an important consideration in their design",
+      "E": "even though none of the currently available technologies restores full vision 9 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL 42.-47. sorularda, verilen İngilizce cümleye"
+    },
+    "correct_answer": "E",
+    "original_id": 40
+  },
+  {
+    "id": 20,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Bir uçakta ne tür bir güç sistemi kullanılırsa 53. Mühürlerin ıslak kil tabletlere basıldığı bir kullanılsın, havacılık mühendisleri sürekli olarak teknolojinin ilk kez Babilliler tarafından kullanılmış uçağın aerodinamik özelliklerini geliştirecek yeni olduğu bilinse de matbaayı muhtemelen Çinliler icat tasarımlar araştırırlar. etmiştir.",
     "left_context": "Bir uçakta ne tür bir güç sistemi kullanılırsa 53. Mühürlerin ıslak kil tabletlere basıldığı bir kullanılsın, havacılık mühendisleri sürekli olarak teknolojinin ilk kez Babilliler tarafından kullanılmış uçağın aerodinamik özelliklerini geliştirecek yeni olduğu bilinse de matbaayı muhtemelen Çinliler icat tasarımlar araştırırlar. etmiştir.",
     "right_context": "",
     "options": {
       "A": "It is claimed that the Chinese invented the printing, but aircraft, aeronautical engineers constantly search for it was the Babylonians who first used a technology in new designs that will improve the aerodynamic which seals were pressed into damp clay tablets. properties of the aircraft.",
-      "B": "Other than the power system that is used in an technology in which seals were pressed into damp aircraft, aeronautical engineers constantly look for new clay tablets, but the Chinese probably invented the designs to improve the aerodynamic properties of the printing. aircraft. C)It is known that the Babylonians first used a C)Aeronautical engineers always search for new designs technology in which seals were pressed into damp that will improve the aerodynamic properties of an clay tablets, but the printing was probably invented by aircraft in addition to the power system used in the the Chinese. aircraft. D)Although a technology in which seals were pressed D)Although aeronautical engineers know what kind of into damp clay tablets is known to have been first used power system is used in an aircraft, they always by the Babylonians, the Chinese probably invented the search for new designs that will improve its printing. aerodynamic properties.",
-      "E": "While a technology in which seals were pressed into"
+      "B": "Other than the power system that is used in an technology in which seals were pressed into damp aircraft, aeronautical engineers constantly look for new clay tablets, but the Chinese probably invented the designs to improve the aerodynamic properties of the printing. aircraft.",
+      "C": "It is known that the Babylonians first used a"
     },
     "correct_answer": "A",
     "original_id": 52
   },
   {
-    "id": 7,
+    "id": 21,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Written numbers, in the form of tallies at first, Asia. According to historical records and early preceded any known form of written words. A major recipes, by the Tang dynasty, wheat had replaced development of the period after the Agricultural millet. As a result, it actually became the region’s Revolution was the invention of ways more complex major crop. Unfortunately, little is known about than tallies to record numbers, leading eventually to exactly how or why this shift occurred. numeration systems. ---- It is not clear how writing",
     "left_context": "Written numbers, in the form of tallies at first, Asia. According to historical records and early preceded any known form of written words. A major recipes, by the Tang dynasty, wheat had replaced development of the period after the Agricultural millet. As a result, it actually became the region’s Revolution was the invention of ways more complex major crop. Unfortunately, little is known about than tallies to record numbers, leading eventually to exactly how or why this shift occurred. numeration systems.",
@@ -92,55 +307,57 @@
     "options": {
       "A": "In Mesopotamia, the early ways of recording numbers",
       "B": "Later, something closer to true geometry also arose in",
-      "C": "Although China is the world’s biggest consumer of both Egypt and Mesopotamia, with improvements in wheat which is mainly used to produce a host of the ability to measure. pastries, it was not always the case. C)In Mesopotamia, the base-60 system of numeration D)Many early writers commented that wheat gruel, led to a mathematics capable of solving quadratic but not millet, was food solely consumed in times of equations. desperation. D)Toward the end of the period, symbols used for zero"
+      "C": "Although China is the world’s biggest consumer of both Egypt and Mesopotamia, with improvements in wheat which is mainly used to produce a host of the ability to measure. pastries, it was not always the case."
     },
     "correct_answer": "A",
     "original_id": 54
   },
   {
-    "id": 8,
+    "id": 22,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Tackling climate change requires cooperation on a 57. ---- They include eyes, olfactory pits, chemotactile global scale, bringing together governments, and mechanotactile sensillae on the arms, and businesses and individuals. We need to gradually statocysts capable of detecting direction and angle end our reliance on fossil fuels and use renewable of acceleration as well as static posture. The eyes energy sources and sustainable transport options. have a cornea and iris diaphragm, amovable lens, ---- Nonetheless, they are not sufficient alone and and a retina, capable of light and dark adaptation. proposed methods to remove carbon dioxide from Under totally controlled experimental conditions, the atmosphere have not yet been tested on a large octopuses can be trained to distinguish visually scale. Although our efforts are beginning to pay off between pairs of geometric figures, and tactilely and carbon dioxide emissions are slowing in some between textures and tastes of different surfaces. parts of the world, experts agree that the transition",
     "left_context": "Tackling climate change requires cooperation on a 57.",
     "right_context": "They include eyes, olfactory pits, chemotactile global scale, bringing together governments, and mechanotactile sensillae on the arms, and businesses and individuals. We need to gradually statocysts capable of detecting direction and angle end our reliance on fossil fuels and use renewable of acceleration as well as static posture. The eyes energy sources and sustainable transport options. have a cornea and iris diaphragm, amovable lens, ---- Nonetheless, they are not sufficient alone and and a retina, capable of light and dark adaptation. proposed methods to remove carbon dioxide from Under totally controlled experimental conditions, the atmosphere have not yet been tested on a large octopuses can be trained to distinguish visually scale. Although our efforts are beginning to pay off between pairs of geometric figures, and tactilely and carbon dioxide emissions are slowing in some between textures and tastes of different surfaces. parts of the world, experts agree that the transition",
     "options": {
       "A": "Environmentally friendly technologies may not be initially welcomed in some countries.",
-      "B": "If left uncontrolled, climate change will have devastating consequences for our planet and its C)Rapid and patterned colour changes are possible in inhabitants. octopuses. C)The increased amount of heat caused by ongoing D)Octopuses can swim by jet propulsion but rarely do so, warming will lead to more tropical storms and except as an escape mechanism. cyclones.",
-      "E": "The sense organs of octopuses are complex and D)New technologies, be it super-efficient solar panels or efficient in discrimination. electric cars, will play a vital role in reducing carbon dioxide emissions."
+      "B": "If left uncontrolled, climate change will have devastating consequences for our planet and its",
+      "C": "Rapid and patterned colour changes are possible in inhabitants. octopuses."
     },
     "correct_answer": "D",
     "original_id": 56
   },
   {
-    "id": 9,
+    "id": 23,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Fruit rots are the most economically important 59. Cave exploration is, by its nature, a potentially diseases of cranberries. ---- Higher temperatures hazardous activity although the relative risk of an during the growing season increase fungal activity accident, and its severity, clearly vary from cave to and the level of disease. High moisture levels also cave. In all but the simplest of cases, rescue of an increase disease, because spore release, spore injured person from a cave poses problems that are germination, and penetration of the host plant are all different from those encountered on the surface. A dependent on the presence of adequate moisture. cave is a relatively hostile environment in which to Bruising during harvest, sorting, or packing perform a rescue. ---- Hence, there is a need for significantly increases the amount of postharvest specialist rescue teams who are aware of the latest fruit rot. rescue techniques .",
     "left_context": "Fruit rots are the most economically important 59. Cave exploration is, by its nature, a potentially diseases of cranberries.",
     "right_context": "Higher temperatures hazardous activity although the relative risk of an during the growing season increase fungal activity accident, and its severity, clearly vary from cave to and the level of disease. High moisture levels also cave. In all but the simplest of cases, rescue of an increase disease, because spore release, spore injured person from a cave poses problems that are germination, and penetration of the host plant are all different from those encountered on the surface. A dependent on the presence of adequate moisture. cave is a relatively hostile environment in which to Bruising during harvest, sorting, or packing perform a rescue. ---- Hence, there is a need for significantly increases the amount of postharvest specialist rescue teams who are aware of the latest fruit rot. rescue techniques .",
     "options": {
       "A": "Many tourists are enthusiastic about visiting caves European countries thanks to sustainable agricultural despite their potential risks. policies.",
-      "B": "Several factors influence the amount of fruit rot that there may be other potential hazards, including water, occurs. low temperatures, and constricted passages. C)Almost 4 years of growth and care are required before C)Throughout the world, there has been a dramatic the first commercial crop is produced. increase in the number of rescue teams with sophisticated equipment. D)Care includes the protection of cranberries from frost in spring and fall. D)When a person is injured, a factor critical to successful rescue is the time taken to alert the rescue",
-      "E": "Practices that reduce fruit rots include rapid drying of organisation. the fruit."
+      "B": "Several factors influence the amount of fruit rot that there may be other potential hazards, including water, occurs. low temperatures, and constricted passages.",
+      "C": "Almost 4 years of growth and care are required before"
     },
     "correct_answer": "B",
     "original_id": 58
   },
   {
-    "id": 10,
+    "id": 24,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "(I) The Moon has played a pivotal role in the development of life as well as human development. (II)In addition to the 24-hour rotation period of the Earth, which may be a direct consequence of lunar formation, ancient people could find their way at night thanks to the moonlight. (III)The Moon is a unique satellite in the Solar System, the largest relative to its planet. (IV)Moreover, lunar tidal effects may have been crucial in providing an environment for life to develop. (V) It is also possible that the Moon has stabilised the Earth, preventing large-scale excursions that might have had catastrophic effects on evolution.",
     "left_context": "(I) The Moon has played a pivotal role in the development of life as well as human development. (II)In addition to the 24-hour rotation period of the Earth, which may be a direct consequence of lunar formation, ancient people could find their way at night thanks to the moonlight. (III)The Moon is a unique satellite in the Solar System, the largest relative to its planet. (IV)Moreover, lunar tidal effects may have been crucial in providing an environment for life to develop. (V) It is also possible that the Moon has stabilised the Earth, preventing large-scale excursions that might have had catastrophic effects on evolution.",
     "right_context": "",
     "options": {
-      "A": "nothing with dark colours could be seen Whiteout is the condition in which the ground, air, and sky are all a uniform white and no landscape features",
-      "B": "there should be snowflakes falling quickly from the sky are visible. Persons exposed to a whiteout lose their perception of depth and quickly become disoriented, so C)the shadows of some objects get darker a whiteout is extremely dangerous. There are two ways in which a whiteout can occur. In calm weather, a D)using a flashlight is not helpful to identify objects uniformly white snow surface may lie beneath low cloud. The cloud diffuses light passing through it, so light falls",
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
       "E": "V 20 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL 66.-68. soruları aşağıda verilen parçaya göre cevaplayınız. 67. According to the passage, there are two ways in which a whiteout occurs, and in both cases, ----."
     },
     "correct_answer": "C",
     "original_id": 65
   },
   {
-    "id": 11,
+    "id": 25,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "It is clearly stated in the passage that in a whiteout, ----. D)The use of a flashlight in the occurrences of whiteout",
     "left_context": "It is clearly stated in the passage that in a whiteout,",
@@ -148,380 +365,1059 @@
     "options": {
       "D": "The use of a flashlight in the occurrences of whiteout",
       "A": "the snowy surface meets harsh cold weather",
-      "E": "the weather is relatively warm with clear skies 21 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL 69.-71. soruları aşağıda verilen parçaya göre cevaplayınız. 70. Which of the following is true about the Florida manatee?",
-      "B": "the ground, air, and sky are alike in terms of colour C)light falls on objects from a certain side D)dark objects become more visible since their distance can be estimated more easily"
+      "E": "A natural phenomenon that has not been clearly understood by scientists yet",
+      "B": "the ground, air, and sky are alike in terms of colour",
+      "C": "light falls on objects from a certain side"
     },
     "correct_answer": "B",
     "original_id": 66
   },
   {
-    "id": 12,
+    "id": 26,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "Which could be understood from the passage? C)To inform the reader about the reasons for the decline",
     "left_context": "Which could be understood from the passage? C)To inform the reader about the reasons for the decline",
     "right_context": "",
     "options": {
       "C": "To inform the reader about the reasons for the decline",
-      "A": "Manatees are still being hunted in large amounts in numbers of the Florida manatee despite measures taken to increase their numbers. D)To highlight that human activities pose serious threats",
+      "A": "Manatees are still being hunted in large amounts in numbers of the Florida manatee despite measures taken to increase their numbers.",
+      "D": "To highlight that human activities pose serious threats",
       "B": "The impact of Native Americans on the manatee’s to the effective protection of manatees decline was much bigger than that of Spanish explorers.",
-      "E": "For native Americans, manatees were not only a source of food but also a material used for different purposes. 22 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL 72.-74. soruları aşağıda verilen parçaya göre cevaplayınız. 73. One can understand from the passage that faster growth of a tree ----."
+      "E": "To encourage the states other than Florida to declare protection areas for manatees"
     },
     "correct_answer": "E",
     "original_id": 69
   },
   {
-    "id": 13,
+    "id": 27,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "According to the passage, it is a common belief that ----.",
     "left_context": "According to the passage, it is a common belief that",
     "right_context": ".",
     "options": {
-      "A": "bombs are heavier than blocks as they are composed of a hot liquid Tephra is the name given to all the material that erupts from a volcano, excluding lava. Tephra comes in all",
-      "B": "volcanic eruptions are accompanied by a change in shapes and sizes, and is also referred to as pyroclastic weather conditions material or fire particles. Geologists classify tephra according to size and believe that ash, block, and C)bombs gain a different form when they come in bombs are the most common types. Ash is a material contact with air smaller than two millimetres that is emitted from an erupting volcano; it can also contain little stones. In a D)ash is transported a short distance by wind if it carries large eruption, ash can accumulate to a great thickness stones and spread out for thousands of kilometres, usually in the direction of the prevailing winds. Blocks, on the",
+      "A": "planting trees helps us to fight against global warming",
+      "B": "the effects of global warming have become more apparent because of shortened lifespan of trees",
+      "C": "the positive effects of planting trees are lessened by global warming",
+      "D": "trees grow more slowly in warm regions, such as the Spanish Pyrenees",
       "E": "a large number of trees can live up to about 800 years 23 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL 75.-77. soruları aşağıda verilen parçaya göre cevaplayınız. 76. It is clear from the passage that ----."
     },
     "correct_answer": "A",
     "original_id": 72
   },
   {
-    "id": 14,
+    "id": 28,
     "source": "YOKDIL1_Ingilizce_fen (1).pdf",
     "question_text": "According to the passage, tephra ----. contributes to volcanic eruptions",
     "left_context": "According to the passage, tephra",
     "right_context": ". contributes to volcanic eruptions",
     "options": {
-      "A": "Some subjects in the first group did not want to deactivate the robot because of emotional concerns. New studies show that we are easily emotionally influenced by humanoid robots. Scientists from a",
-      "B": "is generally shaped by lava D)The definition of tephra together with its widely-known categories C)has the same shape in all categories",
-      "E": "is categorised based on the intensity of a volcanic eruption 24 Diğer sayfaya geçiniz. 2021-YÖKDİL/1/İNGİLİZCE/FEN BİL 78.-80. soruları aşağıda verilen parçaya göre cevaplayınız. 79. Which of the following is true about the study?"
+      "A": "varies depending on whether it includes lava",
+      "C": "has the same shape in all categories",
+      "B": "is generally shaped by lava",
+      "D": "The definition of tephra together with its widely-known categories"
     },
     "correct_answer": "D",
     "original_id": 75
   },
   {
-    "id": 15,
+    "id": 29,
+    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
+    "question_text": "It is understood from the passage that before the test, the subjects ----.",
+    "left_context": "It is understood from the passage that before the test, the subjects",
+    "right_context": ".",
+    "options": {
+      "A": "were not informed that their reactions were going to be observed",
+      "B": "were instructed to think and feel like a humanoid robot",
+      "C": "were asked to treat the robot as if it were a human",
+      "D": "were not willing to play a quiz game with the humanoid robot",
+      "E": "were told that the purpose of the study was to test the level of interaction of humanoid robots TEST BİTTİ. 25 CEVAPLARINIZI KONTROL EDİNİZ. OSYM001"
+    },
+    "correct_answer": "A",
+    "original_id": 78
+  },
+  {
+    "id": 30,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Scientific discoveries may be made simultaneously by scientists working independently, but almost C)adversely D)inconveniently every ---- depends on previous work and theories.",
+    "left_context": "Scientific discoveries may be made simultaneously by scientists working independently, but almost C)adversely D)inconveniently every",
+    "right_context": "depends on previous work and theories.",
+    "options": {
+      "C": "adversely",
+      "D": "inconveniently every ---- depends on previous work and theories.",
+      "A": "expense",
+      "B": "precaution",
+      "E": "elaborately"
+    },
+    "correct_answer": "D",
+    "original_id": 1
+  },
+  {
+    "id": 31,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Artificial selection is the conscious attempt by human beings to change the environments or ---- of C)extracted D)distinguished other organisms so as to alter the evolution of these organisms. E)obtained",
+    "left_context": "Artificial selection is the conscious attempt by human beings to change the environments or",
+    "right_context": "of C)extracted D)distinguished other organisms so as to alter the evolution of these organisms. E)obtained",
+    "options": {
+      "C": "extracted",
+      "D": "distinguished other organisms so as to alter the evolution of these organisms.",
+      "E": "obtained",
+      "A": "instructions",
+      "B": "traits"
+    },
+    "correct_answer": "B",
+    "original_id": 2
+  },
+  {
+    "id": 32,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Taxonomy is the area of biological science comprising three ---- but highly interrelated C)leaves out D)brings down disciplines: classification, naming and identification of organisms. E)puts off",
+    "left_context": "Taxonomy is the area of biological science comprising three",
+    "right_context": "but highly interrelated C)leaves out D)brings down disciplines: classification, naming and identification of organisms. E)puts off",
+    "options": {
+      "C": "leaves out",
+      "D": "brings down disciplines: classification, naming and identification of organisms.",
+      "E": "puts off",
+      "A": "respectable",
+      "B": "regular"
+    },
+    "correct_answer": "C",
+    "original_id": 3
+  },
+  {
+    "id": 33,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "At the end of the 17th century, Isaac Newton ---- his 10. The boiling point of a liquid substance is the laws of motion and gravity, making science more temperature ---- which the vapour pressure of the precise and mathematical than it ---- before. liquid equals the external pressure ---- the liquid.",
+    "left_context": "At the end of the 17th century, Isaac Newton",
+    "right_context": "his 10. The boiling point of a liquid substance is the laws of motion and gravity, making science more temperature ---- which the vapour pressure of the precise and mathematical than it ---- before. liquid equals the external pressure ---- the liquid.",
+    "options": {
+      "A": "of / by",
+      "B": "was setting down / has been",
+      "C": "at / on"
+    },
+    "correct_answer": "C",
+    "original_id": 7
+  },
+  {
+    "id": 34,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Over the past 100 years, the relativity theories and quantum mechanics ---- major triumphs at the cost C)in / at D)by / into of us, ---- our classic conception of time.",
+    "left_context": "Over the past 100 years, the relativity theories and quantum mechanics",
+    "right_context": "major triumphs at the cost C)in / at D)by / into of us, ---- our classic conception of time.",
+    "options": {
+      "C": "in / at",
+      "D": "by / into of us, ---- our classic conception of time.",
+      "A": "have celebrated / losing",
+      "E": "from / through",
+      "B": "celebrated / to have lost"
+    },
+    "correct_answer": "A",
+    "original_id": 8
+  },
+  {
+    "id": 35,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "---- the Earth's long history, scientists divide its 4.5-billion-year existence using the geologic time scale, which makes this history manageable.",
+    "left_context": "",
+    "right_context": "the Earth's long history, scientists divide its 4.5-billion-year existence using the geologic time scale, which makes this history manageable.",
+    "options": {
+      "A": "Unlike",
+      "B": "Except for",
+      "C": "On behalf of",
+      "D": "Because of",
+      "E": "Similar to"
+    },
+    "correct_answer": "D",
+    "original_id": 12
+  },
+  {
+    "id": 36,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "The Enlightenment period saw astronomical observatories grow ---- size and number, ---- a growing emphasis on the housing of larger telescopes.",
+    "left_context": "The Enlightenment period saw astronomical observatories grow",
+    "right_context": "size and number, ---- a growing emphasis on the housing of larger telescopes.",
+    "options": {
+      "A": "by / over",
+      "B": "for / through",
+      "C": "beyond / to",
+      "D": "from / at",
+      "E": "in / with 2 Diğer sayfaya geçiniz. 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "E",
+    "original_id": 9
+  },
+  {
+    "id": 37,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "It takes up to five years ---- a cocoa tree bears fruit, 16. The solid core inside the Moon is similar to that of and it then produces around 1,000 beans a year, but Earth; ----, the Moon’s core is gradually cooling, that is only enough for one kilogramme of which creates cracks on the surface, in contrast to chocolate. the Earth’s warming core.",
+    "left_context": "It takes up to five years",
+    "right_context": "a cocoa tree bears fruit, 16. The solid core inside the Moon is similar to that of and it then produces around 1,000 beans a year, but Earth; ----, the Moon’s core is gradually cooling, that is only enough for one kilogramme of which creates cracks on the surface, in contrast to chocolate. the Earth’s warming core.",
+    "options": {
+      "A": "however",
+      "B": "eventually",
+      "C": "before"
+    },
+    "correct_answer": "C",
+    "original_id": 13
+  },
+  {
+    "id": 38,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "---- continental islands are part of their nearby 17. Atmosphere observation includes such well-known continental land mass, oceanic islands are the instruments as the thermometer and barometer result of undersea volcanoes or tectonic plate ---- less familiar devices such as the radiosonde. activity pushing up the sea floor.",
+    "left_context": "",
+    "right_context": "continental islands are part of their nearby 17. Atmosphere observation includes such well-known continental land mass, oceanic islands are the instruments as the thermometer and barometer result of undersea volcanoes or tectonic plate ---- less familiar devices such as the radiosonde. activity pushing up the sea floor.",
+    "options": {
+      "A": "Unless",
+      "B": "After",
+      "C": "with the purpose of"
+    },
+    "correct_answer": "C",
+    "original_id": 14
+  },
+  {
+    "id": 39,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Like people, animals can also have reactions to appears to be becoming smaller in number ---- the pollen and other environmental allergens, ---- they ongoing global rise in temperatures. have different symptoms than we do and should be",
+    "left_context": "Like people, animals can also have reactions to appears to be becoming smaller in number",
+    "right_context": "the pollen and other environmental allergens, ---- they ongoing global rise in temperatures. have different symptoms than we do and should be",
+    "options": {
+      "A": "as if",
+      "B": "once",
+      "C": "as a consequence of"
+    },
+    "correct_answer": "C",
+    "original_id": 15
+  },
+  {
+    "id": 40,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Studies have shown that flying animals manage well ---- due to the fact that they can escape predators by taking flight, ---- because flight has supplied them with a number of advantageous qualities.",
+    "left_context": "Studies have shown that flying animals manage well",
+    "right_context": "due to the fact that they can escape predators by taking flight, ---- because flight has supplied them with a number of advantageous qualities.",
+    "options": {
+      "A": "such / that",
+      "B": "the more / the more",
+      "C": "neither / nor",
+      "D": "not only / but also",
+      "E": "as / as"
+    },
+    "correct_answer": "D",
+    "original_id": 19
+  },
+  {
+    "id": 41,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Inside the Sun, density and temperature rise steadily toward the core, ---- the pressure is more than 100 billion times greater than the atmospheric pressure on the Earth’s surface.",
+    "left_context": "Inside the Sun, density and temperature rise steadily toward the core,",
+    "right_context": "the pressure is more than 100 billion times greater than the atmospheric pressure on the Earth’s surface.",
+    "options": {
+      "A": "where",
+      "B": "how",
+      "C": "which",
+      "D": "whom",
+      "E": "what 4 Diğer sayfaya geçiniz. 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "A",
+    "original_id": 20
+  },
+  {
+    "id": 42,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "- 25. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 23. ifadeyi bulunuz.",
+    "left_context": "- 25. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 23. ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "urgent",
+      "B": "tedious For thousands of years, humans had relied on animals",
+      "C": "threatening",
+      "D": "redundant and manpower to move heavy loads and drive machinery. This all changed in the late 18th century with",
+      "E": "flexible the arrival of a new invention: the steam engine. Steam engines operate by burning fuel to heat water (21)---- it boils. The resulting hot steam (22)---- the boiling water is trapped to create pressure, which is used to drive machinery. This simple principle opened the way to powerful new engines. Steam engines were more (23)---- than windmills or waterwheels which had to be built in specific places. They were more powerful than humans and animals, and they (24)---- equipment used 24. on farms and in factories. (25)---- all these advantages,"
+    },
+    "correct_answer": "C",
+    "original_id": 21
+  },
+  {
+    "id": 43,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "- 30. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 28. ifadeyi bulunuz.",
+    "left_context": "- 30. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 28. ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "weak",
+      "B": "scarce Before the invention of the microscope, it was",
+      "C": "accidental",
+      "D": "vague impossible to see cells. Some biological theories were therefore based on speculations (26)----scientific",
+      "E": "detailed observation. For example, people believed in 'spontaneous generation’(27)----it was hard to believe that cells would regenerate. Thedevelopmentof the microscope, including that of an electronic version in the 20th century, made (28)---- observation of the internal structure of the cell possible. Robert Hooke was the first (29)---- dead cells in 1665. In 1838, Matthias Schleiden observed living cells, and in 1839, in collaboration (30)----Theodor Schwann, he developed the first theory 29. of cells; that all living organisms consist of cells."
+    },
+    "correct_answer": "C",
+    "original_id": 26
+  },
+  {
+    "id": 44,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "Despite their benefits in farms where pests are B) they are inland bodies of water scattered over the abundant, ----. earth’s surface",
     "left_context": "Despite their benefits in farms where pests are B) they are inland bodies of water scattered over the abundant,",
     "right_context": ". earth’s surface",
     "options": {
-      "B": "pesticides are responsible for about one million poisoning cases globally every year D)young lakes have less organic matter as opposed to old ones C)humans cause much more severe environmental damage than pesticides do",
-      "A": "pesticides are widely used by farmers to increase agricultural productivity C)salt lakes have high levels of chalky deposits at the bottom",
-      "E": "contagious diseases in crops can be prevented by using pesticides"
+      "B": "pesticides are responsible for about one million poisoning cases globally every year",
+      "A": "pesticides are widely used by farmers to increase agricultural productivity",
+      "C": "salt lakes have high levels of chalky deposits at the bottom",
+      "D": "young lakes have less organic matter as opposed to old ones"
     },
     "correct_answer": "B",
     "original_id": 31
   },
   {
-    "id": 16,
+    "id": 45,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "Once it has decided on its target, ----. B) Alaska and Texas were the largest sources of gas in",
     "left_context": "Once it has decided on its target,",
     "right_context": ". B) Alaska and Texas were the largest sources of gas in",
     "options": {
-      "B": "the dragonfly’s menu also features mosquitoes, flies C)it became possible to transport gas over thousands of and butterflies miles C)the dragonfly is often seen over water in the wild D)it was initially inconvenient to store in large amounts D)the dragonfly has hardly changed, proving itself to be",
+      "B": "the dragonfly’s menu also features mosquitoes, flies",
       "A": "the dragonfly attacks the prey in mid-air using its legs the US",
-      "E": "the dragonfly is an insect with a long thin body 7 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+      "C": "the dragonfly is often seen over water in the wild"
     },
     "correct_answer": "A",
     "original_id": 32
   },
   {
-    "id": 17,
+    "id": 46,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "Although traditional recruitment sources such as 37. Fossils may be the body parts or direct traces of newspaper advertisements are still used to recruit activities left behind by animals, plants, fungi, and job applicants, ----. microorganisms; ----.",
     "left_context": "Although traditional recruitment sources such as 37. Fossils may be the body parts or direct traces of newspaper advertisements are still used to recruit activities left behind by animals, plants, fungi, and job applicants,",
     "right_context": ". microorganisms; ----.",
     "options": {
       "A": "thus, they might include a mammalian tooth, a clam threats to personal privacy shell, a leaf or the entire skeleton of a dinosaur",
-      "B": "on the other hand, fossils are real and truly the associated with traditional recruitment methods remains of long-dead organisms C)most people seeking jobs are still looking at C)by comparison, they are usually formed as dead newspaper advertisements instead of using the organisms become buried by layers of sediment Internet D)however, some people have historically studied fossils D)the Internet has changed the way in which many as an interest organisations announce job opportunities",
-      "E": "for example, ancient people used fossils to make"
+      "B": "on the other hand, fossils are real and truly the associated with traditional recruitment methods remains of long-dead organisms",
+      "C": "most people seeking jobs are still looking at"
     },
     "correct_answer": "D",
     "original_id": 35
   },
   {
-    "id": 18,
+    "id": 47,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "Although lead was widely known at a very early date, greatly, ----. ----.",
     "left_context": "Although lead was widely known at a very early date, greatly,",
     "right_context": ". ----.",
     "options": {
       "A": "the first metal to be practically utilised was copper factors that help regulate insect populations",
-      "B": "as it is essential to understand populations and their reproductive capacity C)metallurgical developments originated in mountainous regions C)thus some feed on living plants, others on decaying plants, and still others on animals D)the emergence of rock-melting process started the Copper Age D)given that some species that coexist in an area and interact with each other form an ecological community",
-      "E": "most of the larger metal artefacts were produced in the Middle East"
+      "B": "as it is essential to understand populations and their reproductive capacity",
+      "C": "metallurgical developments originated in mountainous regions"
     },
     "correct_answer": "A",
     "original_id": 36
   },
   {
-    "id": 19,
+    "id": 48,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "Insect-pollinated flowers are usually brightly 41. Chestnut wood can be worked easily to manufacture coloured and sugary-smelling ----. fine furniture and musical instruments; ----.",
     "left_context": "Insect-pollinated flowers are usually brightly 41. Chestnut wood can be worked easily to manufacture coloured and sugary-smelling",
     "right_context": ". fine furniture and musical instruments; ----.",
     "options": {
       "A": "on the other hand, chestnuts are species of trees in landing pads the genus Castanea",
-      "B": "moreover, it is also used for its durability in roof fly as they feed materials and construction timber C)because insects are attracted by vivid colours and C)for example, true chestnut seeds could be confused sweet scents with horse chestnuts D)only when some plants try to shed their shiny pollen D)thus, in 1999, the global crop of sweet chestnut was into the air harvested from about 630,000 acres",
-      "E": "as some flower heads have much larger flowers,"
+      "B": "moreover, it is also used for its durability in roof fly as they feed materials and construction timber",
+      "C": "because insects are attracted by vivid colours and"
     },
     "correct_answer": "C",
     "original_id": 39
   },
   {
-    "id": 20,
+    "id": 49,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Humans have drastically altered wetlands for a variety of reasons; ----.",
+    "left_context": "Humans have drastically altered wetlands for a variety of reasons;",
+    "right_context": ".",
+    "options": {
+      "A": "for example, an estimated 26 per cent of the world’s wetlands have been converted for agricultural purposes alone",
+      "B": "however, more than half of the original wetlands in the United States have been destroyed in the past 200 years",
+      "C": "as a result, people thought that they were nothing more than breeding places for diseases",
+      "D": "on the contrary, wetland birds migrate to cold places during summer months",
+      "E": "in other words, the wetlands are home to a large variety of wildlife 9 Diğer sayfaya geçiniz. 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "A",
+    "original_id": 40
+  },
+  {
+    "id": 50,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "Suspension bridges have many advantages over",
     "left_context": "Suspension bridges have many advantages over",
     "right_context": "",
     "options": {
-      "A": "The first suspension bridge is considered to have been D)There is solid scientific evidence supporting the Big constructed in the 7th century BC by Mayans. Bang theory; however, there are also many details yet unproven and many questions still unanswered.",
-      "B": "This $3.3 billion bridge, which took 12 years to build, is seen as a great engineering masterpiece.",
-      "E": "The Big Bang theory has many details yet unproven and many questions still unanswered, but there is solid C)Furthermore, the wonderful design of these structures scientific evidence to support it. can make you wonder how they stay up. D)However, suspension bridges require careful design and planning to avoid any undesirable consequences."
+      "A": "The first suspension bridge is considered to have been",
+      "B": "While there is solid scientific evidence to support the Akashi-Kaikyo Bridge in Japan, covering an Big Bang theory, there are also many details yet impressive 12,831 feet. ---- For example, if the deck unproven and many questions still unanswered. of the bridge is too thin, it can lose its stability in heavy winds and shake itself to pieces, which is",
+      "C": "Despite the presence of solid scientific evidence to what happened to the Tacoma Narrows Bridge in the support it, the Big Bang theory still has many details United States in 1940. unproven and many questions unanswered.",
+      "D": "There is solid scientific evidence supporting the Big constructed in the 7th century BC by Mayans. Bang theory; however, there are also many details yet unproven and many questions still unanswered."
     },
     "correct_answer": "D",
     "original_id": 54
   },
   {
-    "id": 21,
+    "id": 51,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "The sun’s heat energy passes easily through glass 57. Species have evolved throughout the course of and warms the room beyond, which means windows natural history, and the fossil record is filled with make ideal solar collectors. For maximum capture of evidence of extinctions, some of which have been solar energy, a house needs large south-facing sudden and catastrophic. Ecologists believe that we windows. ---- Even if it cannot be oriented precisely are in such an era of rapid species extinctions north-south, it is still possible to harness a good today. ---- For example, the spotted owl is percentage of the sun’s energy. Also, to adapt an endangered by overharvesting of old-growth forests existing house, there are several options. For in the United Kingdom, and the bald eagle has been instance, bigger windows on southfacing walls nearly rendered extinct in the United States outside could be installed. of Alaska due to poisoning with pesticides.",
     "left_context": "The sun’s heat energy passes easily through glass 57. Species have evolved throughout the course of and warms the room beyond, which means windows natural history, and the fossil record is filled with make ideal solar collectors. For maximum capture of evidence of extinctions, some of which have been solar energy, a house needs large south-facing sudden and catastrophic. Ecologists believe that we windows.",
     "right_context": "Even if it cannot be oriented precisely are in such an era of rapid species extinctions north-south, it is still possible to harness a good today. ---- For example, the spotted owl is percentage of the sun’s energy. Also, to adapt an endangered by overharvesting of old-growth forests existing house, there are several options. For in the United Kingdom, and the bald eagle has been instance, bigger windows on southfacing walls nearly rendered extinct in the United States outside could be installed. of Alaska due to poisoning with pesticides.",
     "options": {
       "A": "Species biodiversity has a number of health benefits efficiently solar energy is captured. for humans.",
-      "B": "Enacted in 1973, the Endangered Species Act the house accordingly. emerged to protect wildlife in the United States. C)The idea is to store heat and to radiate it back after C)Using fossil records to determine which species the sun has gone down. became extinct is a well-established method. D)The most efficient way to do this is with a heat D)The most prominent current cause is human activity, recovery ventilation system. which brings about loss of habitat for species and also causes pollution.",
-      "E": "The sun is a fantastic source of costless heat that can be harnessed very simply."
+      "B": "Enacted in 1973, the Endangered Species Act the house accordingly. emerged to protect wildlife in the United States.",
+      "C": "The idea is to store heat and to radiate it back after"
     },
     "correct_answer": "B",
     "original_id": 55
   },
   {
-    "id": 22,
+    "id": 52,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "Dissolved oxygen is the amount of oxygen present in fresh water, such as a stream, or freshwater lake. A certain amount of dissolved oxygen is required to sustain fish, animals, and other aquatic life. ---- These include fish being killed and loss of aquatic ecosystems.",
+    "left_context": "Dissolved oxygen is the amount of oxygen present in fresh water, such as a stream, or freshwater lake. A certain amount of dissolved oxygen is required to sustain fish, animals, and other aquatic life.",
+    "right_context": "These include fish being killed and loss of aquatic ecosystems.",
+    "options": {
+      "A": "The oxygen is refilled through several mechanisms, one being the simple diffusion of the oxygen from the atmosphere into the water.",
+      "B": "Since most aquatic organisms need oxygen to live, it is important to maintain dissolved oxygen in water.",
+      "C": "Any decrease in dissolved oxygen can cause changes, usually negative, in an aquatic system.",
+      "D": "Determining the amount of dissolved oxygen in an aquatic system aids in the measurement of biochemical oxidation.",
+      "E": "Dissolved minerals such as magnesium and calcium contribute to the hardness of water. 15 Diğer sayfaya geçiniz. 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "C",
+    "original_id": 56
+  },
+  {
+    "id": 53,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "Cold storage through refrigeration or freezing 59. Flash floods are floods that occur extremely makes it possible to extend both the seasons of quickly,usually within several minutes or hours. harvest and the geographic area in which a product They cause streams and rivers to rise rapidly and is available. ---- But now, modern cold storage wash over the land, destroying almost everything in technology makes virtually any product available their path. Their destructiveness is based on several year-round on a global basis. Other technologies factors, including rainfall intensity, duration, surface have been combined with refrigeration to further conditions, and slope of the area. ---- Mountain improve this availability, such as a sealed room regions are also prone to flash flooding, and even where the air is modified to increase its nitrogen deserts and arid regions are vulnerable to flash content to keep food fresh. floods, since many dry regions are known for intense thunderstorms which can produce a lot of",
     "left_context": "Cold storage through refrigeration or freezing 59. Flash floods are floods that occur extremely makes it possible to extend both the seasons of quickly,usually within several minutes or hours. harvest and the geographic area in which a product They cause streams and rivers to rise rapidly and is available.",
     "right_context": "But now, modern cold storage wash over the land, destroying almost everything in technology makes virtually any product available their path. Their destructiveness is based on several year-round on a global basis. Other technologies factors, including rainfall intensity, duration, surface have been combined with refrigeration to further conditions, and slope of the area. ---- Mountain improve this availability, such as a sealed room regions are also prone to flash flooding, and even where the air is modified to increase its nitrogen deserts and arid regions are vulnerable to flash content to keep food fresh. floods, since many dry regions are known for intense thunderstorms which can produce a lot of",
     "options": {
       "A": "Flash floods are very unpredictable and can occur at",
-      "B": "Floodwaters can carry a great deal of sediment and C)Refrigerated warehouses maintain the temperatures debris, coating the inside and outside of a building. required to assure maintenance of quality. C)Flash flooding is considered to be the main reason for D)Food that is placed in cold storage is protected from deaths associated with thunderstorms, especially the degradation that is caused by microorganisms. when they occur at night. D)The destructive potential of flood currents is",
-      "E": "Food products were previously grown locally and had tremendous as they can cause massive amounts of to be marketed within a short period of time. erosion."
+      "B": "Floodwaters can carry a great deal of sediment and",
+      "C": "Refrigerated warehouses maintain the temperatures debris, coating the inside and outside of a building. required to assure maintenance of quality."
     },
     "correct_answer": "E",
     "original_id": 58
   },
   {
-    "id": 23,
+    "id": 54,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "- 68. soruları aşağıda verilen parçaya göre cevaplayınız. 67. According to the passage, Fertilo believes that Mount Etna ----.",
     "left_context": "- 68. soruları aşağıda verilen parçaya göre cevaplayınız. 67. According to the passage, Fertilo believes that Mount Etna",
     "right_context": ".",
     "options": {
-      "A": "The Eruptions of Mount Etna Throughout History Kayla Iacovino, there are simpler alternatives. She has argued that the excess gas could come from deep",
-      "B": "Excess Gas in Mount Etna molten rock that does not enter Etna. C)What Really Feeds Mount Etna? D)Why is Mount Etna Always Active?",
+      "A": "had its largest and most devastating eruption in 2011 One of the most famous volcanoes may be misunderstood. Carmelo Fertilo, a geologist from Italy,",
+      "B": "erupts ten times more lava than gas believes the material feeding Mount Etna’s cone is mostly water, so it is effectively a giant hot spring.",
+      "C": "includes some of the characteristics of a hot spring However, most geologists are unconvinced. Mount Etna is almost always active. It may have spewed 70 million",
+      "D": "is the most unpredictable volcano on Earth tonnes of lava in 2011 alone. What really puzzles the Italian geologist is that Etna also discharges more than",
       "E": "can remain inactive for long periods of time 7 million tonnes of steam, carbon dioxide and sulphur dioxide every year. The normal explanation is that gas bubbles out of magma as it moves up the volcano’s vent. However, Fertilo claims that Etna would need to erupt ten times more lava than it does to account for all the gas. He also argues that Etna is not just fed by magma. He states that its deep plumbing system could hold lots of water, carbon dioxide and sulphur dioxide, making up about 70 percent of the material feeding the volcano. According to Fertilo, such a system is closer to 68. Which could be the best title for this passage? a spring rather than a volcano. However, according to"
     },
     "correct_answer": "A",
     "original_id": 66
   },
   {
-    "id": 24,
+    "id": 55,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "It can be understood from the passage that most geologists ----.",
+    "left_context": "It can be understood from the passage that most geologists",
+    "right_context": ".",
+    "options": {
+      "A": "doubt Fertilo’s arguments about Mount Etna",
+      "B": "have misunderstood Fertilo’s claims about Mount Etna",
+      "C": "agree with Iacovino as well as Fertilo",
+      "D": "claim that Mount Etna is a hot spring",
+      "E": "try to provide new findings to support their own claims 19 Diğer sayfaya geçiniz. 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "A",
+    "original_id": 66
+  },
+  {
+    "id": 56,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_text": "- 71. soruları aşağıda verilen parçaya göre cevaplayınız. 70. According to the passage, stem cells ----.",
     "left_context": "- 71. soruları aşağıda verilen parçaya göre cevaplayınız. 70. According to the passage, stem cells",
     "right_context": ".",
     "options": {
-      "A": "the advances in human cell production under scientific intervention",
-      "B": "the reasons why cell production may not be practical for common use C)different types of cell culture methods used by biologists since the early 1900s",
+      "A": "are cells that do not have the ability to multiply The science behind growing meat without animals is",
+      "B": "are composed of various cells that have different fairly simple. Growing the cells that form cultured meat functions is not hugely different from other ‘cell culture’ methods that biologists have used to study cells since the early",
+      "C": "have the ability to transform into different cells in a 1900s. The process starts with a few ‘satellite’ cells, muscle which can be obtained from a small sample of muscle taken from a live animal. These are stem cells that can",
+      "D": "need to be attached to other cells to form living tissues turn into the different cells found in muscle. Just one cell could, in theory, be used to grow an infinite amount of",
       "E": "decrease in number at the end of the production meat. When fed a nutrient-rich serum, the cells turn into process muscle cells and proliferate, doubling in number roughly every few days. After the cells have multiplied, they are encouraged to form strips, much like how muscle cells form fibres in living tissue. These fibres are attached to a sponge-like scaffold that floods the fibres with nutrients and mechanically stretches them, ‘exercising’ the muscle cells to increase their size and protein content. The resulting tissue can then be harvested, seasoned, cooked and consumed as boneless 71. The passage is mainly about ----. processed meat."
     },
     "correct_answer": "E",
     "original_id": 69
   },
   {
-    "id": 25,
+    "id": 57,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "It is clearly stated in the passage that ----.",
+    "left_context": "It is clearly stated in the passage that",
+    "right_context": ".",
+    "options": {
+      "A": "it is not a must to have a sample cell from a living",
+      "D": "an alternative way of growing meat through animal to produce meat unconventional means",
+      "B": "studying cells is a relatively new concept in the current",
+      "E": "some steps followed by scientists to cure animal decade diseases by producing cells",
+      "C": "producing meat from a muscle cell in a lab is quite a complicated process"
+    },
+    "correct_answer": "E",
+    "original_id": 69
+  },
+  {
+    "id": 58,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "- 74. soruları aşağıda verilen parçaya göre cevaplayınız. 73. The problem with the Aswan High Dam is that ----.",
+    "left_context": "- 74. soruları aşağıda verilen parçaya göre cevaplayınız. 73. The problem with the Aswan High Dam is that",
+    "right_context": ".",
+    "options": {
+      "A": "it cannot provide enough electricity River systems are completely changed when dams are",
+      "B": "it has a negative impact on the currents in the built. The main reason is obvious: dams block the Mediterranean Sea channels, altering the water's direction by decreasing or increasing the amount of water that flows through the",
+      "C": "it is reducing the size of the Nile delta channel – the defined pathway the water follows. In turn, this modifies or completely changes the river's erosional",
+      "D": "the people in the Nile region are still facing problems and depositional characteristics, thus changing the with irrigation channel's landscape and affecting the local environment. Although there are good reasons for dams",
+      "E": "sediment is flooding in from the Mediterranean Sea (mainly to stop flooding in populated areas), there are often just as many potential problems. One in particular is the erosion that occurs just below the main structure holding back the water. Because sediment is no longer transported within the water (the load is dropped in the reservoir), the water from the spillway often erodes the channel immediately below. Another problem can also arise from the fact that because there is less sediment load, there is also less of a delta being formed at the"
+    },
+    "correct_answer": "C",
+    "original_id": 72
+  },
+  {
+    "id": 59,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "The underlined word in the passage 'replenish' is mouth of a river. For example, the Aswan High Dam closest in meaning to ----. along the Nile River in Egypt was finished in 1966, primarily to provide electricity and irrigation. But the",
+    "left_context": "The underlined word in the passage 'replenish' is mouth of a river. For example, the Aswan High Dam closest in meaning to",
+    "right_context": ". along the Nile River in Egypt was finished in 1966, primarily to provide electricity and irrigation. But the",
+    "options": {
+      "A": "reduce",
+      "B": "ruin",
+      "C": "renew water is dammed up in a lake about 280 kilometers long, and this is starving the Nile delta of sediments.",
+      "D": "resist",
+      "E": "restrict Because of this, the currents in the Mediterranean Sea are carrying away more sediment than the river can replenish and causing the delta to slowly erode away."
+    },
+    "correct_answer": "C",
+    "original_id": 74
+  },
+  {
+    "id": 60,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "According to the passage, dams ----.",
+    "left_context": "According to the passage, dams",
+    "right_context": ".",
+    "options": {
+      "A": "do not affect erosional characteristics of a river as much as depositional ones",
+      "B": "provide more beneficial than harmful effects to the local environment",
+      "C": "may adversely affect river systems and the local environment",
+      "D": "can stop flooding but have no other real benefits",
+      "E": "generally increase the amount of water that flows through channels 21 Diğer sayfaya geçiniz. 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "C",
+    "original_id": 72
+  },
+  {
+    "id": 61,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "- 77. soruları aşağıda verilen parçaya göre cevaplayınız. 76. It is stated in the passage that it is a challenge for many teachers to ----.",
+    "left_context": "- 77. soruları aşağıda verilen parçaya göre cevaplayınız. 76. It is stated in the passage that it is a challenge for many teachers to",
+    "right_context": ".",
+    "options": {
+      "A": "prepare students for high-tech careers An 11-year-old boy taps furiously on a laptop, hiding from enemies as he runs through a city. They catch",
+      "B": "adapt themselves to technological changes him before he reaches safety – game over. Frustrated, he opens the game’s programming window, adjusts",
+      "C": "use videogames effectively in class the settings, and this time gets past the bullies. Victory! This could be the future of American education.",
+      "D": "attract and keep students' attention and interest ‘The Quest to Learn’ school opened last September in Manhattan, welcoming the first class of sixth-graders",
+      "E": "help students gain new learning strategies who will learn almost entirely through videogame-inspired activities, an educational strategy developed to keep kids engaged and prepare them for high-tech careers. For many years, videogames have outperformed teachers in one key way: They are exceptionally good at engaging kids, which is, in fact, a serious problem for teachers. Videogames drop kids into complex problems where they fail and fail, but they try again and again. When kids face tough problems in"
+    },
+    "correct_answer": "B",
+    "original_id": 75
+  },
+  {
+    "id": 62,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "The reason why many eighth-graders cannot get school, however, they sometimes just give up, which is proficient math scores is that they ----. why only a third of eighth-graders earn proficient math scores on national assessment tests. The educators",
+    "left_context": "The reason why many eighth-graders cannot get school, however, they sometimes just give up, which is proficient math scores is that they",
+    "right_context": ". why only a third of eighth-graders earn proficient math scores on national assessment tests. The educators",
+    "options": {
+      "A": "spend too much time playing videogames behind ‘The Quest to Learn’ school hope that videogame-based lessons will help to overcome that",
+      "B": "tend to give up when they face a challenge problem.",
+      "C": "are given very complex math problems to solve",
+      "D": "mostly take videogame-based lessons that are not aimed at improving their math skills",
+      "E": "are not adequately prepared by their teachers"
+    },
+    "correct_answer": "B",
+    "original_id": 77
+  },
+  {
+    "id": 63,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "According to the passage, the introduction of videogame-based lessons into American education system ----.",
+    "left_context": "According to the passage, the introduction of videogame-based lessons into American education system",
+    "right_context": ".",
+    "options": {
+      "A": "will dramatically help students to find the easiest way to overcome their problems",
+      "B": "will encourage many students to have high-tech careers",
+      "C": "is necessary to help students adjust to technology",
+      "D": "will assist children in dealing with bullies",
+      "E": "may negatively affect students' self-confidence since they can fail several times 22 Diğer sayfaya geçiniz. 2020-YÖKDİL/1/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "B",
+    "original_id": 75
+  },
+  {
+    "id": 64,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "- 80. soruları aşağıda verilen parçaya göre cevaplayınız. 79. According to the critics of Copenhill, ----.",
+    "left_context": "- 80. soruları aşağıda verilen parçaya göre cevaplayınız. 79. According to the critics of Copenhill,",
+    "right_context": ".",
+    "options": {
+      "A": "waiting until 2050 to start seeing the possible benefits promised by the new facility is far too long With its flat landscape, Copenhagen is an unlikely ski destination. But an innovative project called Copenhill",
+      "B": "the other waste-burning facility is more efficient even aims to pair recreation with renewable energy. Copenhill though it cannot control its carbon dioxide emissions is a massive facility in the city’s industrial area that converts trash to electricity, providing power for 30,000",
+      "C": "it may not be possible to convert trash to electricity if homes in Copenhagen and heat for more than twice that an urban ski park is integrated into the facility number. The new structure will eventually include an urban ski park, a climbing wall, and a cafe on its roof",
+      "D": "the facility is going to result in methane increases with an attractive city view. Copenhill is 25 percent more in landfills, which will ruin the environment efficient than the other waste-burning facility in Copenhagen and will be able to control its own carbon",
+      "E": "recycling waste in order to produce power is not dioxide emissions, in line with Denmark’s ambitious goal reasonable because it promotes high consumption to become carbon-neutral by 2050. The idea of burning garbage has its critics, who say waste-to-energy facilities merely reinforce excessive consumerism. But in 2018, Copenhill processed almost 500,000 tons of garbage. That is better than filling up landfills, which are potent sources of methane – a greenhouse gas that can ruin the prospect of anyone’s enjoyment."
+    },
+    "correct_answer": "B",
+    "original_id": 78
+  },
+  {
+    "id": 65,
+    "source": "YOKDIL1_Ingilizce_fen.pdf",
+    "question_text": "According to the passage, Copenhill ----. E)Ignorant",
+    "left_context": "According to the passage, Copenhill",
+    "right_context": ". E)Ignorant",
+    "options": {
+      "E": "Ignorant",
+      "A": "will be able to power thousands of homes in many cities across Denmark once construction is complete",
+      "B": "will provide several recreational opportunities in the future, such as skiing, climbing and enjoying the city view",
+      "C": "will probably not include a cafe at its roof due to high amounts of carbon dioxide in Copenhagen",
+      "D": "was built in its current location as it is important to construct recycling facilities in flat areas"
+    },
+    "correct_answer": "B",
+    "original_id": 78
+  },
+  {
+    "id": 66,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "Beginning in the 1970s, a number of highly-publicised hazardous waste crises led public C)urgently D)accurately health authorities to recognise hazardous wastes as a significant ---- to the environment. E)slightly",
+    "left_context": "Beginning in the 1970s, a number of highly-publicised hazardous waste crises led public C)urgently D)accurately health authorities to recognise hazardous wastes as a significant",
+    "right_context": "to the environment. E)slightly",
+    "options": {
+      "C": "urgently",
+      "D": "accurately health authorities to recognise hazardous wastes as a significant ---- to the environment.",
+      "E": "slightly",
+      "A": "temptation",
+      "B": "objection"
+    },
+    "correct_answer": "C",
+    "original_id": 1
+  },
+  {
+    "id": 67,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "Like most creatures of wetlands, certain species of C)dissolve D)excavate toads have suffered large population ---- through losses of their natural habitats. E)magnify",
+    "left_context": "Like most creatures of wetlands, certain species of C)dissolve D)excavate toads have suffered large population",
+    "right_context": "through losses of their natural habitats. E)magnify",
+    "options": {
+      "C": "dissolve",
+      "D": "excavate toads have suffered large population ---- through losses of their natural habitats.",
+      "E": "magnify",
+      "A": "attempts",
+      "B": "opportunities"
+    },
+    "correct_answer": "C",
+    "original_id": 2
+  },
+  {
+    "id": 68,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "Engineers have long recognised that the movement C)runs into D)splits up of tidal currents might be an environmentally safe and ---- source of power for human use. E)gets through",
+    "left_context": "Engineers have long recognised that the movement C)runs into D)splits up of tidal currents might be an environmentally safe and",
+    "right_context": "source of power for human use. E)gets through",
+    "options": {
+      "C": "runs into",
+      "D": "splits up of tidal currents might be an environmentally safe and ---- source of power for human use.",
+      "E": "gets through",
+      "A": "challenging",
+      "B": "efficient"
+    },
+    "correct_answer": "B",
+    "original_id": 3
+  },
+  {
+    "id": 69,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "Although humans ---- Mercury from Earth for 10. In the United States, thunderstorms usually occur thousands of years, its close proximity to the Sun ---- summer months, when large amounts of tropical ----it difficult for astronomers to learn much about maritime air move ---- the country. the planet.",
+    "left_context": "Although humans",
+    "right_context": "Mercury from Earth for 10. In the United States, thunderstorms usually occur thousands of years, its close proximity to the Sun ---- summer months, when large amounts of tropical ----it difficult for astronomers to learn much about maritime air move ---- the country. the planet.",
+    "options": {
+      "A": "will observe / made",
+      "B": "at / from",
+      "C": "within / to",
+      "D": "on / through"
+    },
+    "correct_answer": "D",
+    "original_id": 7
+  },
+  {
+    "id": 70,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "In 1957, the Soviet Union ---- the first man-made",
+    "left_context": "In 1957, the Soviet Union",
+    "right_context": "the first man-made",
+    "options": {
+      "A": "has placed / had been developed",
+      "B": "with / on object in orbit around the Earth, and since then, numerous launch vehicles ---- to improve the",
+      "C": "from / within",
+      "D": "into / around reliability and cost of placing objects in orbit."
+    },
+    "correct_answer": "C",
+    "original_id": 8
+  },
+  {
+    "id": 71,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "Because technology should not be confused ---- E)otherwise science, philosophy of technology should be separated ---- philosophy of science.",
+    "left_context": "Because technology should not be confused",
+    "right_context": "E)otherwise science, philosophy of technology should be separated ---- philosophy of science.",
+    "options": {
+      "E": "otherwise science, philosophy of technology should be separated ---- philosophy of science.",
+      "A": "over / into",
+      "B": "with / from",
+      "C": "for / about",
+      "D": "against / among"
+    },
+    "correct_answer": "B",
+    "original_id": 9
+  },
+  {
+    "id": 72,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "DNA has emerged as a potential way to store digital 16. In simple animals, the brain simply functions like a information in recent years, ---- it comes with a switchboard passing information to muscles, ---- significant problem: the molecule is so fragile that in more advanced forms, particularly vertebrates, individual DNA strands rapidly degrade. a more analytical brain coordinates complex behaviours.",
+    "left_context": "DNA has emerged as a potential way to store digital 16. In simple animals, the brain simply functions like a information in recent years,",
+    "right_context": "it comes with a switchboard passing information to muscles, ---- significant problem: the molecule is so fragile that in more advanced forms, particularly vertebrates, individual DNA strands rapidly degrade. a more analytical brain coordinates complex behaviours.",
+    "options": {
+      "A": "unless",
+      "B": "so long as",
+      "C": "on the contrary"
+    },
+    "correct_answer": "D",
+    "original_id": 13
+  },
+  {
+    "id": 73,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "---- climate change intensifies, architects, designers and scientists are devising better ways to deal with 17. Acetone is produced in many parts of the world in almost anything nature throws on our way. great quantities ---- its importance as a solvent and",
+    "left_context": "",
+    "right_context": "climate change intensifies, architects, designers and scientists are devising better ways to deal with 17. Acetone is produced in many parts of the world in almost anything nature throws on our way. great quantities ---- its importance as a solvent and",
+    "options": {
+      "A": "except for",
+      "B": "Although as a starting material for several chemical processes.",
+      "C": "As",
+      "D": "By the time"
+    },
+    "correct_answer": "C",
+    "original_id": 14
+  },
+  {
+    "id": 74,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "No single individual can be given complete credit for the development of radio astronomy; ----, Karl Jansky has long been considered as one of the 18. ---- the apparent impossibility of answering all most important pioneers in the field. philosophical questions through science, quite a",
+    "left_context": "No single individual can be given complete credit for the development of radio astronomy;",
+    "right_context": ", Karl Jansky has long been considered as one of the 18. ---- the apparent impossibility of answering all most important pioneers in the field. philosophical questions through science, quite a",
+    "options": {
+      "A": "By means of",
+      "B": "nevertheless few contemporary philosophers do believe that science is the only legitimate path to knowledge.",
+      "C": "that is",
+      "D": "as a result"
+    },
+    "correct_answer": "B",
+    "original_id": 15
+  },
+  {
+    "id": 75,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "The famous astronomer Carl Sagan was ---- interested in whether life exists elsewhere, ---- in whether intelligent beings might exist.",
+    "left_context": "The famous astronomer Carl Sagan was",
+    "right_context": "interested in whether life exists elsewhere, ---- in whether intelligent beings might exist.",
+    "options": {
+      "A": "not only / but also",
+      "B": "as / to",
+      "C": "so / that",
+      "D": "the more / the more",
+      "E": "no sooner / than"
+    },
+    "correct_answer": "A",
+    "original_id": 19
+  },
+  {
+    "id": 76,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "Metabolism refers to all the chemical reactions in cells ---- fats, carbohydrates, and other compounds are broken down to produce energy.",
+    "left_context": "Metabolism refers to all the chemical reactions in cells",
+    "right_context": "fats, carbohydrates, and other compounds are broken down to produce energy.",
+    "options": {
+      "A": "by which",
+      "B": "that",
+      "C": "when",
+      "D": "what",
+      "E": "to whom 4 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL 21 - 25. sorularda, parçada boş bırakılan yerlere"
+    },
+    "correct_answer": "A",
+    "original_id": 20
+  },
+  {
+    "id": 77,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "left_context": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "similarly",
+      "B": "however The Sun is a changeable star , sometimes calm and",
+      "C": "for example",
+      "D": "once peaceful sometimes erupting with great violence. These changes (21)---- a clear pattern with a cyclical rise and",
+      "E": "only when fall of solar activity every 11 years or so. For the last four centuries, scientists have kept records of the Sun’s activity. (22)----the early 19th century, German astronomer Samuel Heinrich Schwabe spent 17 years trying to spot a planet that he believed existed closer to the Sun than Mercury. He failed to see the silhouette of a new planet against the Sun; (23)----, he did keep 24. accurate records of sunspots. (24)---- his observations,"
+    },
+    "correct_answer": "B",
+    "original_id": 23
+  },
+  {
+    "id": 78,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "left_context": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "such as",
+      "B": "according to Beginning in the 1960s scientists noticed that many of",
+      "C": "due to",
+      "D": "as a consequence of the trees of Central Europe were dying. In particular, in the Black Forest, (26)---- in Southwestern Germany, a",
+      "E": "on behalf of large number of trees showed signs of weakening and dying. The first trees to be struck with the (27)----were the pines, followed by deciduous trees, the one that lose their leaves each year. By 1990, many trees dried out and died, (28)----others dropped leaves or became discoloured. The problem was eventually attributed to acid deposition in the forest. Although several types of 30. remediation techniques, (29)---- replanting trees, were"
+    },
+    "correct_answer": "A",
+    "original_id": 29
+  },
+  {
+    "id": 79,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "Fossil fuels, which is a major source of pollution, cannot be replaced when their limited supplies are B) the human body has numerous essential reflexes used up, ----. like swallowing",
     "left_context": "Fossil fuels, which is a major source of pollution, cannot be replaced when their limited supplies are B) the human body has numerous essential reflexes used up,",
     "right_context": ". like swallowing",
     "options": {
-      "B": "as long as the sun shines, winds blow, waves crash and rivers flow D)the diving response is a breathing reflex triggered by submergence C)though coal, oil, and gas are the most important fossil fuels",
-      "A": "while renewable energy sources will not run out and produce little pollution C)others are conditioned into a person as a result of life experiences",
-      "E": "if windmills have been used to power machines for many centuries"
+      "B": "as long as the sun shines, winds blow, waves crash and rivers flow",
+      "A": "while renewable energy sources will not run out and produce little pollution",
+      "C": "others are conditioned into a person as a result of life experiences",
+      "D": "the diving response is a breathing reflex triggered by submergence"
     },
     "correct_answer": "A",
     "original_id": 31
   },
   {
-    "id": 26,
+    "id": 80,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "----, whereas decay of organic material releases it B) they originally spread into South America, Asia, and back to the atmosphere. Africa from North America",
     "left_context": "",
     "right_context": ", whereas decay of organic material releases it B) they originally spread into South America, Asia, and back to the atmosphere. Africa from North America",
     "options": {
-      "B": "Water vapour is known to be an extremely important gas in the atmosphere D)the most common camel is known as the one-humped Arabian or dromedary camel C)The upper parts of the atmosphere contain a large number of ions",
-      "A": "Soil bacteria and other biological agents remove nitrogen from the atmosphere C)they can interbreed fairly easily and are probably varieties of a single species",
-      "E": "A chemical difference in the composition of lighter gases can occur as they rise 7 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL"
+      "B": "Water vapour is known to be an extremely important gas in the atmosphere",
+      "A": "Soil bacteria and other biological agents remove nitrogen from the atmosphere",
+      "C": "they can interbreed fairly easily and are probably varieties of a single species",
+      "D": "the most common camel is known as the one-humped Arabian or dromedary camel"
     },
     "correct_answer": "A",
     "original_id": 32
   },
   {
-    "id": 27,
+    "id": 81,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "Taking regular doses of vitamin C will not protect us 37. Contrary to popular belief, the Earth's seasons are from catching a cold; ----. not caused by the varying distance from the Sun ----.",
     "left_context": "Taking regular doses of vitamin C will not protect us 37. Contrary to popular belief, the Earth's seasons are from catching a cold;",
     "right_context": ". not caused by the varying distance from the Sun ----.",
     "options": {
       "A": "as our planet's tilt causes the intensity of the sunlight of the immune system to change over the Earth at different times",
-      "B": "so the Earth's orbit has a point at which it is closest to symptoms of cold the Sun and another at which it is farthest from it C)hence, antibiotics such as penicillin are useless C)but they occur because of the tilt of our planet's axis in against the common cold relation to the plane of the Sun D)in short, vitamin C is one of the major antioxidants D)although the Earth does not spin around the Sun in a helping to heal wounds perfect circle but follows an elliptical orbit",
-      "E": "however, high doses of vitamin C may help to alleviate"
+      "B": "so the Earth's orbit has a point at which it is closest to symptoms of cold the Sun and another at which it is farthest from it",
+      "C": "hence, antibiotics such as penicillin are useless"
     },
     "correct_answer": "E",
     "original_id": 35
   },
   {
-    "id": 28,
+    "id": 82,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "Even though birds have different structures for tear 38. The African continent is poor in limestone outcrops production compared to humankind, ----. in general, ----.",
     "left_context": "Even though birds have different structures for tear 38. The African continent is poor in limestone outcrops production compared to humankind,",
     "right_context": ". in general, ----.",
     "options": {
       "A": "yet no remarkable caves have developed due to the more complicated process desert climate",
-      "B": "but its northern zone, Algeria in particular, has levels of protein abundant sources of it C)some components of their tears are present at similar C)so these formations are large reservoirs sustaining the concentrations found in humans base flow of many rivers D)maintaining eye health that is necessary for hunting is D)whereas there is little potential for remarkable of great importance for birds discoveries in some African countries",
-      "E": "researchers have enormous difficulty in collecting"
+      "B": "but its northern zone, Algeria in particular, has levels of protein abundant sources of it",
+      "C": "some components of their tears are present at similar"
     },
     "correct_answer": "C",
     "original_id": 36
   },
   {
-    "id": 29,
+    "id": 83,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "----, those that occur can be catastrophic events 41. Atmospheric chemistry is a very complex science, involving a great loss of life. ----.",
     "left_context": "",
     "right_context": ", those that occur can be catastrophic events 41. Atmospheric chemistry is a very complex science, involving a great loss of life. ----.",
     "options": {
       "A": "as the composition of the atmosphere is in constant instability",
-      "B": "yet much of what happens have been understood very little C)If bad weather alone does not cause an accident C)but radiation from space interacts with the atmosphere D)As the reasons for approach and landing accidents vary D)though millions of different industrial chemicals enter the atmosphere daily",
-      "E": "Since the first consideration is to assist the injured in case of an accident"
+      "B": "yet much of what happens have been understood very little",
+      "C": "If bad weather alone does not cause an accident"
     },
     "correct_answer": "A",
     "original_id": 39
   },
   {
-    "id": 30,
+    "id": 84,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "The moulds that grow indoors can be of particular concern for humans ----.",
+    "left_context": "The moulds that grow indoors can be of particular concern for humans",
+    "right_context": ".",
+    "options": {
+      "A": "as long as the mould varieties used in cheese production are sterilised",
+      "B": "even if the types of mould growing on food are believed to cause cancer",
+      "C": "unless some of the products of mould metabolism have great importance",
+      "D": "even though almost all sorts of mould require a moist surface for growth",
+      "E": "because they can cause allergic reactions in those who are sensitive 9 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL 42 - 47. sorularda, verilen İngilizce cümleye"
+    },
+    "correct_answer": "E",
+    "original_id": 40
+  },
+  {
+    "id": 85,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "The eyes of starfish are extremely simple, are longer compared to the first aqueducts but the located at the tip of each arm, and are primarily hydraulic principles in controlling water carriage have light-sensing dots. ---- The sense of smell, however, always been the same. is quite sensitive. Chemoreceptors on the starfish’s B) Even though modern water pipes are much wider and skin can detect the faintest smell of its prey, and significantly longer than the first aqueducts, the even determine the direction from which it is hydraulic principles controlling water carriage have coming. The starfish then sets off to catch its prey, always remained the same. slowly and deliberately, at the rate of 15.25 cm per minute. C)Although the hydraulic principles in controlling water",
     "left_context": "The eyes of starfish are extremely simple, are longer compared to the first aqueducts but the located at the tip of each arm, and are primarily hydraulic principles in controlling water carriage have light-sensing dots.",
     "right_context": "The sense of smell, however, always been the same. is quite sensitive. Chemoreceptors on the starfish’s B) Even though modern water pipes are much wider and skin can detect the faintest smell of its prey, and significantly longer than the first aqueducts, the even determine the direction from which it is hydraulic principles controlling water carriage have coming. The starfish then sets off to catch its prey, always remained the same. slowly and deliberately, at the rate of 15.25 cm per minute. C)Although the hydraulic principles in controlling water",
     "options": {
-      "B": "Starfish come in a rainbow of colours including bright D)Modern water pipes, which are much wider and red, cobalt blue and yellows. significantly longer than the first aqueducts, have C)Starfish can tell light from dark, but they are unlikely to essentially the same hydraulic principles in controlling see much more than that. water carriage.",
+      "B": "Starfish come in a rainbow of colours including bright",
+      "C": "Although the hydraulic principles in controlling water",
       "A": "Starfish belong to the class Asteroidea including 1500 carriage may be the same, the modern water pipes species inhabiting all the world’s oceans. are much wider and significantly longer than the early aqueducts.",
-      "E": "Starfish must convert their food to liquid form because they lack teeth before ingestion."
+      "D": "Modern water pipes, which are much wider and red, cobalt blue and yellows. significantly longer than the first aqueducts, have"
     },
     "correct_answer": "C",
     "original_id": 54
   },
   {
-    "id": 31,
+    "id": 86,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "Of all the animals, penguins are the primary 56. Dams have been built since ancient times, and inhabitants of Antarctica. They have oily feathers improvements were made at varying intervals as that provide a waterproof coat and a thick layer of engineering technology developed. ---- In the early fat for insulation. ---- While they prevent penguins 1900s, concrete dams became thinner, and a new from flying, they add weight and make it easier for era of thin arch dams began. Earth and rock–fill penguins to dive into the water for food. Because embankment dams became economical during and predators cannot live in the brutally cold climate, after World War II. In 1980, an innovative method of penguins do not need to fly; thus, their wings have using earth-moving and compacting equipment to evolved over the centuries to resemble flippers or place dry concrete greatly improved the economics paddles. of concrete dams.",
     "left_context": "Of all the animals, penguins are the primary 56. Dams have been built since ancient times, and inhabitants of Antarctica. They have oily feathers improvements were made at varying intervals as that provide a waterproof coat and a thick layer of engineering technology developed.",
     "right_context": "In the early fat for insulation. ---- While they prevent penguins 1900s, concrete dams became thinner, and a new from flying, they add weight and make it easier for era of thin arch dams began. Earth and rock–fill penguins to dive into the water for food. Because embankment dams became economical during and predators cannot live in the brutally cold climate, after World War II. In 1980, an innovative method of penguins do not need to fly; thus, their wings have using earth-moving and compacting equipment to evolved over the centuries to resemble flippers or place dry concrete greatly improved the economics paddles. of concrete dams.",
     "options": {
       "A": "However, the twentieth century witnessed rapid 80 km to open sea for food. advances in dam construction.",
-      "B": "They failed to build massive concrete structures for most birds that allow them to fly. water supply and flood control. C)Seven of the 18 known species of penguins live in C)The construction of a dam may require the relocation Antarctica. of existing properties across the land. D)The penguins travel long distances and hunt at various D)On the other hand, numerous dams have been levels in the ocean. constructed in various countries.",
-      "E": "They are the hardiest of all the animals that inhabit the"
+      "B": "They failed to build massive concrete structures for most birds that allow them to fly. water supply and flood control.",
+      "C": "Seven of the 18 known species of penguins live in"
     },
     "correct_answer": "B",
     "original_id": 55
   },
   {
-    "id": 32,
+    "id": 87,
+    "source": "YOKDIL2_Ingilizce_fen (1).pdf",
+    "question_text": "Insects become endangered because of the same destructive forces faced by many other animals. The leading causes include habitat destruction, displacement by introduced species, and chemical pollutants. ---- For example, there are many endangered species of tiger beetles and butterflies and the major threat to most of these species is habitat degradation and loss as well as overcollecting.",
+    "left_context": "Insects become endangered because of the same destructive forces faced by many other animals. The leading causes include habitat destruction, displacement by introduced species, and chemical pollutants.",
+    "right_context": "For example, there are many endangered species of tiger beetles and butterflies and the major threat to most of these species is habitat degradation and loss as well as overcollecting.",
+    "options": {
+      "A": "Insects make up more than 72 percent of global animal diversity based on available information.",
+      "B": "A rare and endangered species of insect is unlikely to determine the fate of a large ecological system.",
+      "C": "Pollution, and water development especially rank as the most frequent causes of habitat degradation.",
+      "D": "The vast majority of at-risk insects are reportedly threatened by more than one of these causes.",
+      "E": "Insects as a group are not at risk because many species are widely distributed. 15 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "D",
+    "original_id": 57
+  },
+  {
+    "id": 88,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "In order to reduce emissions, there is a need to 59. In everyday language, the term ‘safety’ is often used switch to energy sources that do not emit to denote absolute safety, that is, certainty that greenhouse gases. It is already being done, but the accidents or other harms will not occur. ---- speed must be increased. ---- American scientists Therefore, engineers believe that what can be estimate that the rest of the world could do the achieved is relative safety, meaning that it is unlikely same before 2050. If the world acts quickly, it may but not impossible that harm will occur. The safety be possible to create a global network during the requirements in regulations and standards second half of the century that will overcome represent different levels of relative safety. climate-difficulties handling a future in which we Industries with high safety ambitions, such as keep on emitting huge quantities of greenhouse airway traffic, are characterised by continuous gases. endeavours to improve the level of safety.",
     "left_context": "In order to reduce emissions, there is a need to 59. In everyday language, the term ‘safety’ is often used switch to energy sources that do not emit to denote absolute safety, that is, certainty that greenhouse gases. It is already being done, but the accidents or other harms will not occur.",
     "right_context": "speed must be increased. ---- American scientists Therefore, engineers believe that what can be estimate that the rest of the world could do the achieved is relative safety, meaning that it is unlikely same before 2050. If the world acts quickly, it may but not impossible that harm will occur. The safety be possible to create a global network during the requirements in regulations and standards second half of the century that will overcome represent different levels of relative safety. climate-difficulties handling a future in which we Industries with high safety ambitions, such as keep on emitting huge quantities of greenhouse airway traffic, are characterised by continuous gases. endeavours to improve the level of safety.",
     "options": {
       "A": "In engineering practice, safety is an ideal that can be to fulfil the ambition. approached, but never fully attained.",
-      "B": "The protection of people from harm increasingly has Rica, are close to getting 100 percent of their energy been a focus of many fields of engineering since the from green sources. 19th century. C)It should be made mandatory to disclose the C)Safety has often been defined as the antonym of risk, energy-efficiency ratings of all new buildings. but that is only part of the truth. D)The natural disasters such as tsunamis will be more D)Several methods are used by engineers to achieve frequent due to greenhouse gases. safety in the design and operation of potentially dangerous technology.",
-      "E": "In the short run, the emission needs to be confined to 2.1 tonnes per capita per year."
+      "B": "The protection of people from harm increasingly has Rica, are close to getting 100 percent of their energy been a focus of many fields of engineering since the from green sources. 19th century.",
+      "C": "It should be made mandatory to disclose the"
     },
     "correct_answer": "B",
     "original_id": 58
   },
   {
-    "id": 33,
+    "id": 89,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "(I) After decades of special effects and artists’ impressions, the world got its first look at a real black hole in April 2019. (II) The image quickly spread around the globe, hitting the front pages of many newspapers. (III) Scientists are never satisfied, and this is no exception. (IV) It shows an ethereal ring of orange light around the supermassive black hole at the heart of the M87galaxy, 55 million light years from Earth. (V) The image was taken using the combined power of eight radio observatories around the world by the Event Horizon Telescope team comprised of 387 scientists.",
     "left_context": "(I) After decades of special effects and artists’ impressions, the world got its first look at a real black hole in April 2019. (II) The image quickly spread around the globe, hitting the front pages of many newspapers. (III) Scientists are never satisfied, and this is no exception. (IV) It shows an ethereal ring of orange light around the supermassive black hole at the heart of the M87galaxy, 55 million light years from Earth. (V) The image was taken using the combined power of eight radio observatories around the world by the Event Horizon Telescope team comprised of 387 scientists.",
     "right_context": "",
     "options": {
-      "A": "adult geese have always flown without break to their breeding ground Barnacle geese are radically changing their migration",
-      "B": "the Arctic is the most preferred place to breed for all patterns as a result of the warming climate and kinds of migratory birds speeding up their annual trip to reach the best breeding spots, with devastating consequences for chicks. Each C)barnacle geese spend half of the year on breeding in year, the adults migrate 3,000 kilometres from the North the Russian Arctic Sea to breeding grounds in the Russian Arctic. They normally stop on the way for food and rest along the D)stopovers may help the chicks to become strong Baltic Sea, but they have started skipping these rest enough before migrating back breaks to reach the Arctic in time for its increasingly early spring. This has meant they arrive at their",
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
       "E": "V 18 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL 66 - 68. soruları aşağıda verilen parçaya göre cevaplayınız. 67. It is pointed out in the passage that ----."
     },
     "correct_answer": "C",
     "original_id": 65
   },
   {
-    "id": 34,
+    "id": 90,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "According to the passage, barnacle geese ----. B) the Baltic Sea has just become a favourite place for barnacle geese to have a rest",
     "left_context": "According to the passage, barnacle geese",
     "right_context": ". B) the Baltic Sea has just become a favourite place for barnacle geese to have a rest",
     "options": {
-      "B": "usually make stopovers more often than they did less time to replenish their energy before laying eggs before D)early arrival of barnacle geese in their breeding sites C)used to have stopovers on their way to breeding has unfortunate outcomes for the chicks grounds",
-      "A": "changed the content of their source of food C)barnacle geese have successfully adapted to need",
-      "E": "skip the Russian Arctic and prefer the North Sea to lay eggs 19 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL 69 - 71. soruları aşağıda verilen parçaya göre cevaplayınız. 70. It can be understood from the passage that ----."
+      "B": "usually make stopovers more often than they did less time to replenish their energy before laying eggs before",
+      "A": "changed the content of their source of food",
+      "C": "barnacle geese have successfully adapted to need",
+      "D": "early arrival of barnacle geese in their breeding sites"
     },
     "correct_answer": "C",
     "original_id": 66
   },
   {
-    "id": 35,
+    "id": 91,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "We understand from the passage that researchers ----. E) the techniques that researchers use to conduct their",
     "left_context": "We understand from the passage that researchers",
     "right_context": ". E) the techniques that researchers use to conduct their",
     "options": {
-      "E": "used specific technological devices to follow sheep in different locations 20 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL 72 - 74. soruları aşağıda verilen parçaya göre cevaplayınız. 73. Which of the following could be inferred from the passage?",
-      "A": "Solar water heating systems have changed little since Solar water heating systems convert solar radiation into their earliest forms were first used. useable thermal energy in the form of hot water. Domestic solar water heaters can provide households",
-      "B": "could direct most of the bighorn sheep to the new vegetation areas C)forced 65 percent of the sheep to migrate to graze on new vegetation D)found out that most of the translocated sheep migrated like their ancestors did"
+      "E": "the techniques that researchers use to conduct their",
+      "A": "were able to follow migration routes of bighorn sheep study of bighorn sheep only in the spring",
+      "B": "could direct most of the bighorn sheep to the new vegetation areas",
+      "C": "forced 65 percent of the sheep to migrate to graze on new vegetation",
+      "D": "found out that most of the translocated sheep migrated like their ancestors did"
     },
     "correct_answer": "E",
     "original_id": 69
   },
   {
-    "id": 36,
+    "id": 92,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "Which of the following is true for solar water heating systems? B) to give a brief description of the way thermal energy is",
     "left_context": "Which of the following is true for solar water heating systems? B) to give a brief description of the way thermal energy is",
     "right_context": "",
     "options": {
-      "B": "The amount of energy produced through solar water systems far exceeds the amount that could be D)to provide a brief early history of solar water heating essential for typical households. systems C)There are various factors that might be influential on",
-      "A": "The use of solar water heating systems leave no room formed for other energy sources in homes due to their efficiency. C)to describe how the first heating systems were developed",
-      "E": "Solar water heating systems were projected in the 19th century to be appropriate even for uses that involve very large amounts of energy. 21 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL 75 - 77. soruları aşağıda verilen parçaya göre cevaplayınız. 76. It is understood from the passage that modern exploration of space ----."
+      "B": "The amount of energy produced through solar water systems far exceeds the amount that could be",
+      "A": "The use of solar water heating systems leave no room formed for other energy sources in homes due to their efficiency.",
+      "C": "to describe how the first heating systems were developed",
+      "D": "to provide a brief early history of solar water heating essential for typical households. systems"
     },
     "correct_answer": "C",
     "original_id": 72
   },
   {
-    "id": 37,
+    "id": 93,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "According to the passage, early humans ----. C)underlying reasons that encourage humans to improve",
     "left_context": "According to the passage, early humans",
     "right_context": ". C)underlying reasons that encourage humans to improve",
     "options": {
       "C": "underlying reasons that encourage humans to improve",
-      "A": "quickly left Africa to explore whether there were similar science regions to places they were living D)historical development of the understanding of space",
+      "A": "quickly left Africa to explore whether there were similar science regions to places they were living",
+      "D": "historical development of the understanding of space",
       "B": "thought that other planets and stars were nothing exploration different from Earth",
-      "E": "started speculating about the stars and planets even before moving out of Africa 22 Diğer sayfaya geçiniz. 2021-YÖKDİL/2/İNGİLİZCE/FEN BİL 78 - 80. soruları aşağıda verilen parçaya göre cevaplayınız. 79. Which of the following is not true about telegraphy?"
+      "E": "current viewpoints of modern observational exploration"
     },
     "correct_answer": "C",
     "original_id": 75
   },
   {
-    "id": 38,
+    "id": 94,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_text": "According to the passage, telegraph ----. D)were utilised for many purposes",
     "left_context": "According to the passage, telegraph",
@@ -529,334 +1425,891 @@
     "options": {
       "D": "were utilised for many purposes",
       "A": "is the fastest communication tool in the modern world",
-      "E": "has been valued as the biggest communication tool ever TEST BİTTİ. 23 CEVAPLARINIZI KONTROL EDİNİZ.",
-      "B": "did not include a mechanical transmitter before Samuel F. B. Morse’s version C)was not very popular among both local and global companies in its early days D)was used more by governments than the private companies"
+      "E": "ran better before being mechanised",
+      "B": "did not include a mechanical transmitter before Samuel F. B. Morse’s version",
+      "C": "was not very popular among both local and global companies in its early days"
     },
     "correct_answer": "B",
     "original_id": 78
   },
   {
-    "id": 39,
+    "id": 95,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "At just the right distance from the Sun for water to exist in liquid form on the surface, Earth has vast C)privately D)entirely oceans, an oxygen-rich atmosphere, and a huge ---- of life forms from bacteria to plants and animals. E)desperately",
+    "left_context": "At just the right distance from the Sun for water to exist in liquid form on the surface, Earth has vast C)privately D)entirely oceans, an oxygen-rich atmosphere, and a huge",
+    "right_context": "of life forms from bacteria to plants and animals. E)desperately",
+    "options": {
+      "C": "privately",
+      "D": "entirely oceans, an oxygen-rich atmosphere, and a huge ---- of life forms from bacteria to plants and animals.",
+      "E": "desperately",
+      "A": "diversity",
+      "B": "measurement"
+    },
+    "correct_answer": "A",
+    "original_id": 1
+  },
+  {
+    "id": 96,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "Titanium is the element most commonly added to",
+    "left_context": "Titanium is the element most commonly added to",
+    "right_context": "",
+    "options": {
+      "A": "destruction",
+      "B": "regret steel because it increases its strength and ---- to corrosion.",
+      "C": "predict",
+      "D": "differentiate"
+    },
+    "correct_answer": "E",
+    "original_id": 2
+  },
+  {
+    "id": 97,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "From its invention until the telephone became a ---- system, the telegraph was the standard means of C)carried out D)depended on communicating both between and within metropolitan areas. E)worked out",
+    "left_context": "From its invention until the telephone became a",
+    "right_context": "system, the telegraph was the standard means of C)carried out D)depended on communicating both between and within metropolitan areas. E)worked out",
+    "options": {
+      "C": "carried out",
+      "D": "depended on communicating both between and within metropolitan areas.",
+      "E": "worked out",
+      "A": "rare",
+      "B": "sensitive"
+    },
+    "correct_answer": "D",
+    "original_id": 3
+  },
+  {
+    "id": 98,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "In the past 100 years, astrophysicists ---- that 10. Although most of the known amino acids were space-time ---- at an accelerating rate and that the identified ---- the nineteenth century, the chemical universe is about 14 billion years old. structures of many were not known ---- much later.",
+    "left_context": "In the past 100 years, astrophysicists",
+    "right_context": "that 10. Although most of the known amino acids were space-time ---- at an accelerating rate and that the identified ---- the nineteenth century, the chemical universe is about 14 billion years old. structures of many were not known ---- much later.",
+    "options": {
+      "A": "before / by",
+      "B": "have deduced / is expanding",
+      "C": "in / since"
+    },
+    "correct_answer": "B",
+    "original_id": 7
+  },
+  {
+    "id": 99,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "Evidence that drinkable water once flowed on Mars, as ---- by NASA’s Opportunity rover, suggests that C)on / to D)by / over the planet ---- life in the past.",
+    "left_context": "Evidence that drinkable water once flowed on Mars, as",
+    "right_context": "by NASA’s Opportunity rover, suggests that C)on / to D)by / over the planet ---- life in the past.",
+    "options": {
+      "C": "on / to",
+      "D": "by / over the planet ---- life in the past.",
+      "A": "to be found / had harboured",
+      "E": "for / around",
+      "B": "being found / will be harbouring"
+    },
+    "correct_answer": "C",
+    "original_id": 8
+  },
+  {
+    "id": 100,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "An organism’s metabolism is a set of chemical processes by which it obtains energy ---- the E)Given that nutrients it consumes and then uses this energy ---- basic life functions.",
+    "left_context": "An organism’s metabolism is a set of chemical processes by which it obtains energy",
+    "right_context": "the E)Given that nutrients it consumes and then uses this energy ---- basic life functions.",
+    "options": {
+      "E": "Given that nutrients it consumes and then uses this energy ---- basic life functions.",
+      "A": "at / through",
+      "B": "upon / about",
+      "C": "from / for",
+      "D": "into / with"
+    },
+    "correct_answer": "C",
+    "original_id": 9
+  },
+  {
+    "id": 101,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "---- the major technical problems associated with 16. Unlike other waves, tsunami is caused neither by reducing emissions from gasoline-fueled cars are wind nor by tidal movement; ----, it is the result of solved, such reductions alone might not be major disturbances on the ocean floor. sufficient to solve the air pollution problems.",
+    "left_context": "",
+    "right_context": "the major technical problems associated with 16. Unlike other waves, tsunami is caused neither by reducing emissions from gasoline-fueled cars are wind nor by tidal movement; ----, it is the result of solved, such reductions alone might not be major disturbances on the ocean floor. sufficient to solve the air pollution problems.",
+    "options": {
+      "A": "Now that",
+      "B": "Once",
+      "C": "otherwise"
+    },
+    "correct_answer": "C",
+    "original_id": 13
+  },
+  {
+    "id": 102,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "Global warming is likely to make many parts of the Tacoma Narrows Bridge, engineers have developed world uninhabitable, ---- there are ways to limit the methods for making bridges more aerodynamically impact before it is too late. sound.",
+    "left_context": "Global warming is likely to make many parts of the Tacoma Narrows Bridge, engineers have developed world uninhabitable,",
+    "right_context": "there are ways to limit the methods for making bridges more aerodynamically impact before it is too late. sound.",
+    "options": {
+      "A": "As a result of",
+      "B": "On behalf of",
+      "C": "as"
+    },
+    "correct_answer": "D",
+    "original_id": 14
+  },
+  {
+    "id": 103,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "---- jaguars are secretive and rare, biologists have 18. Titan – Saturn’s largest satellite – is the only place in not been able to determine the exact number the solar system ---- Earth that has stable liquid on remaining in the wild. its surface.",
+    "left_context": "",
+    "right_context": "jaguars are secretive and rare, biologists have 18. Titan – Saturn’s largest satellite – is the only place in not been able to determine the exact number the solar system ---- Earth that has stable liquid on remaining in the wild. its surface.",
+    "options": {
+      "A": "instead of",
+      "B": "owing to",
+      "C": "In case"
+    },
+    "correct_answer": "D",
+    "original_id": 15
+  },
+  {
+    "id": 104,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "By analysing the spectrum of light from a star or galaxy, astronomers can tell how fast it is moving, and ---- it is moving toward ---- away from Earth.",
+    "left_context": "By analysing the spectrum of light from a star or galaxy, astronomers can tell how fast it is moving, and",
+    "right_context": "it is moving toward ---- away from Earth.",
+    "options": {
+      "A": "not only / but also",
+      "B": "the more / the less",
+      "C": "neither / nor",
+      "D": "whether / or",
+      "E": "as / as"
+    },
+    "correct_answer": "D",
+    "original_id": 19
+  },
+  {
+    "id": 105,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "Silicon refers to a large group of organic compounds ---- molecules consist of organic groups attached to silicon atoms.",
+    "left_context": "Silicon refers to a large group of organic compounds",
+    "right_context": "molecules consist of organic groups attached to silicon atoms.",
+    "options": {
+      "A": "which",
+      "B": "what",
+      "C": "whose",
+      "D": "that",
+      "E": "who 4 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL 21.-25. sorularda, parçada boş bırakılan yerlere"
+    },
+    "correct_answer": "C",
+    "original_id": 20
+  },
+  {
+    "id": 106,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "left_context": "uygun düşen sözcük ya da ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "with",
+      "B": "by How do you sleep in zero gravity? The crew on the",
+      "C": "for",
+      "D": "from International Space Station (ISS) sleep in sleeping bags (21)---- to the wall with special equipments. On average,",
+      "E": "over crew members get six hours of sleep a night; (22)----, since there is zero gravity, they feel drowsy and tired all the time. Many suffer (23)---- sleep disorders. These are made worse by the fact that the ISS experiences 16 sunrises and sunsets every 24 hours. This frequent switching between day and night (24)---- the production of the hormone melatonin, which regulates our sleep cycle. Another cause of sleep deprivation (25)---- this are solar lightning strikes, which the astronauts can still see 24. with their eyes closed."
+    },
+    "correct_answer": "D",
+    "original_id": 23
+  },
+  {
+    "id": 107,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "",
+    "left_context": "",
+    "right_context": "",
+    "options": {
+      "A": "making",
+      "B": "to make Polar bears are instantly recognisable for their vividly",
+      "C": "to be made",
+      "D": "to be making white coats. But believe it or not, they are not actually white - their fur (26)---- no pigment at all. Each hair is",
+      "E": "to have been made transparent and hollow, and only appears white because it reflects and scatters visible light. (27)---- this, polar bears seem to us masters of disguise, but not every animal sees them this way. While their fur reflects visible light, it absorbs ultraviolet light, (28)---- the polar bears appear black to animals able to see UV light. (29)---- polar bears are in captivity in mild environments, the colour of their fur may turn yellow or green, which may be because algae grow in warmer environments. 29. (30)----the not-so-white fur, polar bears have black skin."
+    },
+    "correct_answer": "A",
+    "original_id": 28
+  },
+  {
+    "id": 108,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "Since so much of the economy has a vested interest in the conventional internal combustion engine B) bumblebees appear to thrive best in the temperate burning gasoline or diesel fuel, ----. zones of the Northern Hemisphere",
     "left_context": "Since so much of the economy has a vested interest in the conventional internal combustion engine B) bumblebees appear to thrive best in the temperate burning gasoline or diesel fuel,",
     "right_context": ". zones of the Northern Hemisphere",
     "options": {
-      "B": "gasoline-powered automobiles are modified to burn a fuel such as ethanol alone D)one had better not go in the vicinity of their nests or massively threaten a single bumblebee C)any short-term move to an alternative fuel will meet environmental air quality regulations",
-      "A": "the energy density of the alternative fuels is considerably less than gasoline C)some bumblebees nest underground, where they take over cavities like mouse tunnels",
-      "E": "a market transition to alternative fuels and vehicles is likely to be slow and gradual"
+      "B": "gasoline-powered automobiles are modified to burn a fuel such as ethanol alone",
+      "A": "the energy density of the alternative fuels is considerably less than gasoline",
+      "C": "some bumblebees nest underground, where they take over cavities like mouse tunnels",
+      "D": "one had better not go in the vicinity of their nests or massively threaten a single bumblebee"
     },
     "correct_answer": "E",
     "original_id": 31
   },
   {
-    "id": 40,
+    "id": 109,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "Conservation is not only about protecting the B) similarly, all of the extinct species outnumber the living species that we like; ----. ones by roughly one hundred to one",
     "left_context": "Conservation is not only about protecting the B) similarly, all of the extinct species outnumber the living species that we like;",
     "right_context": ". ones by roughly one hundred to one",
     "options": {
-      "B": "as a result, rescue projects for nature are never short of volunteers D)furthermore, huge number of species become extinct together when disasters or climate change strike C)likewise, most people are concerned about endangered mammals",
-      "A": "therefore, more and more species around the world are now facing the risk of extinction C)instead, they normally go into a slow decline, which gives better-adapted species time to take their place",
-      "E": "on the contrary, whales have a special place in wildlife conservation 7 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL"
+      "B": "as a result, rescue projects for nature are never short of volunteers",
+      "A": "therefore, more and more species around the world are now facing the risk of extinction",
+      "C": "instead, they normally go into a slow decline, which gives better-adapted species time to take their place",
+      "D": "furthermore, huge number of species become extinct together when disasters or climate change strike"
     },
     "correct_answer": "D",
     "original_id": 32
   },
   {
-    "id": 41,
+    "id": 110,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "Pure aluminium is relatively soft and not the 37. ----, the protein content of it may not be as high as strongest of metals, ----. that of duckweed or insects.",
     "left_context": "Pure aluminium is relatively soft and not the 37.",
     "right_context": ", the protein content of it may not be as high as strongest of metals, ----. that of duckweed or insects.",
     "options": {
       "A": "Although it makes financial sense to grow raw elements, it forms alloys with a wide range of useful materials around near-shore wind farms properties",
-      "B": "because it has been quite expensive to produce installing their farms near windmills aluminium metal in any quantity until recent years C)Even if some researchers believe seaweed carries the C)provided that four million tons of aluminium are greatest feed-the-world potential produced every year in the United States D)As most of us already eat mostly protein-based meals D)as long as the metal itself is known to conduct about twice as much as we require electricity about 60% as well as copper",
-      "E": "Because there is enough land to farm seaweed or"
+      "B": "because it has been quite expensive to produce installing their farms near windmills aluminium metal in any quantity until recent years",
+      "C": "Even if some researchers believe seaweed carries the"
     },
     "correct_answer": "A",
     "original_id": 35
   },
   {
-    "id": 42,
+    "id": 111,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "In the late 1980s, the production of commercial agricultural lands, ----. aerosols fell slightly ----.",
     "left_context": "In the late 1980s, the production of commercial agricultural lands,",
     "right_context": ". aerosols fell slightly ----.",
     "options": {
       "A": "because some groups became concerned about their like rice environmental effects",
-      "B": "since there have been a number of advances in single night aerosol technology C)but natural predators can stop them from causing a C)unless in many cases this substitution resulted in total disaster relatively inferior products D)unless they ruin crops that are worth billions of dollars D)in case aerosol technology helps combustion systems annually vastly improve",
-      "E": "although identifying crops that are more resistant to"
+      "B": "since there have been a number of advances in single night aerosol technology",
+      "C": "but natural predators can stop them from causing a"
     },
     "correct_answer": "A",
     "original_id": 36
   },
   {
-    "id": 43,
+    "id": 112,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "The wood of pines is used as timber for 41. ----, many humans find rats frightening and construction and furniture; ----. revolting.",
     "left_context": "The wood of pines is used as timber for 41.",
     "right_context": ", many humans find rats frightening and construction and furniture; ----. revolting.",
     "options": {
       "A": "Because the ancestor of New York's rats lived in into the environment northern China",
-      "B": "Despite the fact that rodents are seen as carriers of products including paper contagious and fatal diseases C)on the other hand, the leaves of all pines are C)Until cities radically change how they deal with their needle-like household waste D)in other words, one of the most important pines of the D)Even though rats and people have occupied shared 1800s was the eastern white pine living spaces for long",
-      "E": "however, in modern times, several other species of"
+      "B": "Despite the fact that rodents are seen as carriers of products including paper contagious and fatal diseases",
+      "C": "on the other hand, the leaves of all pines are"
     },
     "correct_answer": "B",
     "original_id": 39
   },
   {
-    "id": 44,
+    "id": 113,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "Despite minerals’ variety and complexity, ----.",
+    "left_context": "Despite minerals’ variety and complexity,",
+    "right_context": ".",
+    "options": {
+      "A": "humans have made use of minerals in various ways for a long time",
+      "B": "they must be of nonbiological, or inorganic, origin, which excludes coal and peat",
+      "C": "there are several physical characteristics they all share",
+      "D": "their hardness is defined as their ability to scratch another mineral",
+      "E": "everything that humankind consumes, uses, or produces has its origin in minerals 9 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL 42.-47. sorularda, verilen İngilizce cümleye"
+    },
+    "correct_answer": "C",
+    "original_id": 40
+  },
+  {
+    "id": 114,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "---- The latter are quite costly and typically consist continent with a vast size. of 90% fuel, 5% hull, and only 5% payload in B) While it has a vast size, Africa has fewer extensive the shape of astronauts, satellites, and other mountain ranges than do the other continents. things. The elevators, on the other hand, will be powered by solar energy and have room for much C)Considering its vast size, Africa has fewer extensive more than goods. According to a group of mountain ranges than any other continent. scientists, an elevator capsule can ferry 30 passengers to a space station some 35,000 km D)In Africa, there are not as many extensive mountain above Earth in 7.5 days. A trip to space could cost ranges as there are on any other continents despite its as much as a business-class plane-ticket very soon. vast size.",
     "left_context": "",
     "right_context": "The latter are quite costly and typically consist continent with a vast size. of 90% fuel, 5% hull, and only 5% payload in B) While it has a vast size, Africa has fewer extensive the shape of astronauts, satellites, and other mountain ranges than do the other continents. things. The elevators, on the other hand, will be powered by solar energy and have room for much C)Considering its vast size, Africa has fewer extensive more than goods. According to a group of mountain ranges than any other continent. scientists, an elevator capsule can ferry 30 passengers to a space station some 35,000 km D)In Africa, there are not as many extensive mountain above Earth in 7.5 days. A trip to space could cost ranges as there are on any other continents despite its as much as a business-class plane-ticket very soon. vast size.",
     "options": {
-      "B": "The idea of a space elevator has existed since the late 1800s, but for almost 100 years, it seemed unrealistic. C)Scientists are still not sure which method is the best for building an advanced space elevator. D)A recent satellite experiment has eventually become the predecessor of a full scale space elevator.",
+      "B": "While it has a vast size, Africa has fewer extensive the shape of astronauts, satellites, and other mountain ranges than do the other continents. things. The elevators, on the other hand, will be powered by solar energy and have room for much",
+      "C": "Considering its vast size, Africa has fewer extensive more than goods. According to a group of mountain ranges than any other continent. scientists, an elevator capsule can ferry 30 passengers to a space station some 35,000 km",
+      "D": "In Africa, there are not as many extensive mountain above Earth in 7.5 days. A trip to space could cost ranges as there are on any other continents despite its as much as a business-class plane-ticket very soon. vast size.",
       "A": "If space elevators become a reality one day, they will",
-      "E": "In theory, hundreds of kilograms are required to keep a space elevator structure stable in the orbit. 14 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL"
+      "E": "Compared to the other continents, there are fewer be a much cheaper means of transport into space extensive mountain ranges in Africa in spite of its vast than rockets. size."
     },
     "correct_answer": "A",
     "original_id": 54
   },
   {
-    "id": 45,
+    "id": 115,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "---- It is known that there are now fewer lions as a hypergiant, could hold almost 3 billion Suns. in Africa and they occupy a smaller area, but it was",
     "left_context": "",
     "right_context": "It is known that there are now fewer lions as a hypergiant, could hold almost 3 billion Suns. in Africa and they occupy a smaller area, but it was",
     "options": {
       "A": "The loss of genetic variation in the Kavango-Zambezi",
-      "B": "This drop is significant because it occurred in an area even the biggest planet, Jupiter, is a thousandth of the that is home to one of the continent’s most important Sun’s volume. lion populations. D)It may seem like an unchanging yellow ball in the sky, C)Stopping the decline in the lion’s genetic diversity will but the Sun is incredibly dynamic. require political support.",
-      "E": "The pressure inside the Sun is more than 100 billion D)In Botswana, there is political will to protect lions times greater than atmospheric pressure on Earth’s because tourism is seen so significant for the country. surface."
+      "B": "This drop is significant because it occurred in an area even the biggest planet, Jupiter, is a thousandth of the that is home to one of the continent’s most important Sun’s volume. lion populations.",
+      "C": "Earth would fit inside the Sun over one million times;"
     },
     "correct_answer": null,
     "original_id": 1895
   },
   {
-    "id": 46,
+    "id": 116,
+    "source": "YOKDIL2_Ingilizce_fen.pdf",
+    "question_text": "Earthquakes and volcanoes have affected humans’ history, culture, and civilisation. Earthquakes have been reported to result in great human casualties as well as economic destruction. ---- Earthquakes and volcanoes have terrified people both young and old with their destructive power.",
+    "left_context": "Earthquakes and volcanoes have affected humans’ history, culture, and civilisation. Earthquakes have been reported to result in great human casualties as well as economic destruction.",
+    "right_context": "Earthquakes and volcanoes have terrified people both young and old with their destructive power.",
+    "options": {
+      "A": "Humans have been adversely affected by numerous disasters including floods and tsunamis.",
+      "B": "With regard to the hazard that they present, volcanoes can be classified as active, dormant, or extinct.",
+      "C": "One would think that with all the human advances in technology, earthquakes and volcanoes would become less damaging.",
+      "D": "Volcanoes have even been credited with altering the Earth’s climate, thereby causing some of the major famines and even plagues in history.",
+      "E": "Volcanic rocks produced from partially melted continental crust usually appear red, brown, or grey in colour. 15 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "D",
+    "original_id": 57
+  },
+  {
+    "id": 117,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "Scientists determine the global water level by means 59. ---- First, wind pumps are environmentally friendly. of satellites equipped with altimeters. Every second As with the atmosphere, wind turbines will not the altimeter emits some 1700 pulses of microwave contaminate the land, they are not likely to energy towards Earth. By measuring the time contaminate the water either. Also, wind turbines passing before the reflected energy from the ocean generally do not affect the wildlife that inhabits the surface returns to the satellite, it is possible to area. Sheep, cattle, deer, and other wildlife are not determine the level of the surface with impressive bothered by the turbines, and in fact have been precision. ---- By collecting all data from multiple known to graze under them. overflights, scientists can calculate the average",
     "left_context": "Scientists determine the global water level by means 59.",
     "right_context": "First, wind pumps are environmentally friendly. of satellites equipped with altimeters. Every second As with the atmosphere, wind turbines will not the altimeter emits some 1700 pulses of microwave contaminate the land, they are not likely to energy towards Earth. By measuring the time contaminate the water either. Also, wind turbines passing before the reflected energy from the ocean generally do not affect the wildlife that inhabits the surface returns to the satellite, it is possible to area. Sheep, cattle, deer, and other wildlife are not determine the level of the surface with impressive bothered by the turbines, and in fact have been precision. ---- By collecting all data from multiple known to graze under them. overflights, scientists can calculate the average",
     "options": {
-      "A": "Before the first water-level satellite was launched in 1992, harbour water-level markers were scientists’ C)Birds have long been reported to have a tendency to most important tools. collide with wind pumps.",
-      "B": "Additionally, satellites can cover the entire planet in D)Research suggests that the impact of the wind about 10 days, providing an overall picture of water turbines on birds does not compare to that of other levels for all seas and oceans. things. C)Those satellites should be able to dismiss local",
-      "E": "Using fossil fuels to pump water is more costly than effects, such as in Scandinavia, where the land mass wind pumps. is rising compared with the rest of the world. D)A local water-level marker in a harbour in the Gulf of Bothnia would indicate that water levels there are falling by about 1 cm annually."
+      "A": "Before the first water-level satellite was launched in 1992, harbour water-level markers were scientists’",
+      "B": "Additionally, satellites can cover the entire planet in",
+      "C": "Birds have long been reported to have a tendency to most important tools. collide with wind pumps."
     },
     "correct_answer": "B",
     "original_id": 58
   },
   {
-    "id": 47,
+    "id": 118,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "(I) Pollution is not a new phenomenon.(II) In the Middle Ages, London's air was so badly polluted by smoke from coal fires that in 1273 Edward I passed a law banning coal burning. (III) In 1306 a Londoner was tried and executed for breaking this law. (IV) Coal burning remained the most serious source of pollution until modern times.(V)Despite this, pollution was not checked, and on one occasion in 1578 Elizabeth I refused to enter London because there was so much smoke in the air.",
     "left_context": "(I) Pollution is not a new phenomenon.(II) In the Middle Ages, London's air was so badly polluted by smoke from coal fires that in 1273 Edward I passed a law banning coal burning. (III) In 1306 a Londoner was tried and executed for breaking this law. (IV) Coal burning remained the most serious source of pollution until modern times.(V)Despite this, pollution was not checked, and on one occasion in 1578 Elizabeth I refused to enter London because there was so much smoke in the air.",
     "right_context": "",
     "options": {
-      "A": "was one of the few scientists who claims that chimps Chimps might have spontaneously figured out how to might copy each other use a stick to mash a potato, a skill not observed in most other primates. Wild chimpanzees in Guinea climb",
-      "B": "lacked the necessary knowledge about chimpanzees palm trees to eat the trees’ 'hearts', which look like white in Guinea and their environment asparagus. They use sticks to mash the hearts before eating them. Chimps elsewhere do not do this, C)considered the new behaviour of Guinea chimps as a suggesting that the behaviour is cultural and that typical development in primates Guinea chimps pick it up by copying each other. However, Claudio Tennie of the University of Tübingen D)suspected the development of a new behaviour in Germany is sceptical about copying. Many studies among chimps would ever be possible have demonstrated copying among chimps by showing",
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV",
       "E": "V 18 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL 66.-68. soruları aşağıda verilen parçaya göre cevaplayınız. 67. It is pointed out in the passage that Claudio Tennie ----."
     },
     "correct_answer": "D",
     "original_id": 65
   },
   {
-    "id": 48,
+    "id": 119,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "According to the passage, chimps in Guinea ----. than the boiled ones",
     "left_context": "According to the passage, chimps in Guinea",
     "right_context": ". than the boiled ones",
     "options": {
-      "A": "can be used for decorative purposes Plants have a number of properties that we do not encounter in synthetic materials: plants self-repair, they",
+      "A": "might have developed the behaviour to mash the trees’ hearts with sticks on their own",
+      "D": "could also display a new behaviour of mashing hard food with a stick before they eat",
       "B": "were unique in the way their ability to climb palm trees",
-      "E": "tend to copy the behaviours of their enemies in the wild 19 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL 69.-71. soruları aşağıda verilen parçaya göre cevaplayınız. 70. It is understood from the passage that glowing plants ----."
+      "E": "initially struggled to use sticks to mash food before",
+      "C": "learned more easily to adopt new behaviour while eating palm trees’ hearts eating"
     },
     "correct_answer": "A",
     "original_id": 66
   },
   {
-    "id": 49,
+    "id": 120,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "What is the main problem with the soil in the south of the Sahara Desert?",
     "left_context": "What is the main problem with the soil in the south of the Sahara Desert?",
     "right_context": "",
     "options": {
-      "A": "was reported to cause severe damage to the body by In pure form, menthol is a white crystalline material with the Greeks and Romans a cooling taste and odour and occurs naturally in the peppermint plant. Peppermint is one of the oldest known",
-      "B": "requires immediate medical attention when menthol is herbal remedies. Dried peppermint leaves were found in consumed by the elderly Egyptian pyramids dating to at least 1000 BCE, and its use among the ancient Greeks and Romans in cooking C)might pose more serious health threats for some and medical preparations is well known. Peppermint people than others was not introduced to Western Europe, however, until the 18th century, when it was used to treat a variety of D)is generally considered safe when it is absorbed by ailments ranging from toothaches to morning sickness. skin rather than ingested It was first brought to the United States about a century",
+      "A": "It has a great amount of chemical fertilisers.",
+      "B": "The amount of organic matter and nutrients in it is insufficient.",
+      "C": "The strategies used in farming have helped it to retain large quantities of water.",
+      "D": "The abundance of nitrogen has caused it to become infertile.",
       "E": "Perennial plants have led to a decrease in the amount of nitrogen in it. 21 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL 75.-77. soruları aşağıda verilen parçaya göre cevaplayınız. 76. According to the passage, exposure to high amounts of menthol ----."
     },
     "correct_answer": "B",
     "original_id": 72
   },
   {
-    "id": 50,
+    "id": 121,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "According to the passage, peppermint was ----. B) The Egyptians developed a method for drying",
     "left_context": "According to the passage, peppermint was",
     "right_context": ". B) The Egyptians developed a method for drying",
     "options": {
-      "B": "used for medical purposes by various ancient cultures undesirable side effects than it does today. D)Treating morning sickness has been the most frequent C)discovered almost simultaneously by the Europeans reason for the use of menthol. and the Americans",
-      "A": "the largely used herbal remedy for serious diseases in peppermint leaves, which affected later generations. Western Europe until the 18th century C)In the 18th century, menthol used to have fewer",
-      "E": "extracted from the leaves of a plant which was crystallised and purified 22 Diğer sayfaya geçiniz. 2020-YÖKDİL/2/İNGİLİZCE/FEN BİL 78.-80. soruları aşağıda verilen parçaya göre cevaplayınız. 79. It can be understood from the passage that growing corn ----."
+      "B": "used for medical purposes by various ancient cultures undesirable side effects than it does today.",
+      "A": "the largely used herbal remedy for serious diseases in peppermint leaves, which affected later generations. Western Europe until the 18th century",
+      "C": "In the 18th century, menthol used to have fewer",
+      "D": "Treating morning sickness has been the most frequent"
     },
     "correct_answer": "B",
     "original_id": 75
   },
   {
-    "id": 51,
+    "id": 122,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_text": "It is clearly stated in the passage that native C)will need a lot of sunshine to grow kernels that could Americans ----. be used next year",
     "left_context": "It is clearly stated in the passage that native C)will need a lot of sunshine to grow kernels that could Americans",
     "right_context": ". be used next year",
     "options": {
       "C": "will need a lot of sunshine to grow kernels that could Americans ----. be used next year",
-      "A": "generated corn from a kind of a grass with quite a high D)can naturally grow anywhere in the world natural mutation speed",
-      "E": "selected various seeds to grow in different places of the world TEST BİTTİ. 23 CEVAPLARINIZI KONTROL EDİNİZ. OSYM001",
-      "B": "inspired the modern farmers to mutate wild grasses for important nutritional value new species C)initially failed to make use of corn as a fuel D)started a temporary cycle of mutation for wild grasses and corn"
+      "A": "generated corn from a kind of a grass with quite a high",
+      "D": "can naturally grow anywhere in the world natural mutation speed",
+      "E": "offer various benefits and uses as well as having an",
+      "B": "inspired the modern farmers to mutate wild grasses for important nutritional value new species"
     },
     "correct_answer": "A",
     "original_id": 78
   },
   {
-    "id": 52,
+    "id": 123,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "In regions with a relatively dry climate, intensive",
+    "left_context": "In regions with a relatively dry climate, intensive",
+    "right_context": "",
+    "options": {
+      "A": "consequences",
+      "B": "firmly cultivation by farmers can have terrible ----, draining water sources, and causing soil erosion.",
+      "C": "initially",
+      "D": "mutually"
+    },
+    "correct_answer": "A",
+    "original_id": 1
+  },
+  {
+    "id": 124,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "The spectacular discoveries and ---- in molecular and humans. biology in the last fifty years have created a",
+    "left_context": "The spectacular discoveries and",
+    "right_context": "in molecular and humans. biology in the last fifty years have created a",
+    "options": {
+      "A": "delays",
+      "B": "celebrations",
+      "C": "restricted"
+    },
+    "correct_answer": "D",
+    "original_id": 2
+  },
+  {
+    "id": 125,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "In recent years ---- efforts have been made in are old enough to fly away. introducing improved forest harvesting practices to",
+    "left_context": "In recent years",
+    "right_context": "efforts have been made in are old enough to fly away. introducing improved forest harvesting practices to",
+    "options": {
+      "A": "considerable",
+      "B": "watch over tropical forests to support sustainable forest management.",
+      "C": "put on",
+      "D": "give up"
+    },
+    "correct_answer": "A",
+    "original_id": 3
+  },
+  {
+    "id": 126,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "Although smartphones ---- arguably the most 10. ---- the 20th century, the discovery of extrasolar popular gaming platform for the past couple of planets made a great contribution to the existing years, they do not have the ability ---- with desktop efforts in the search ---- extraterrestrial intelligence. computers.",
+    "left_context": "Although smartphones",
+    "right_context": "arguably the most 10. ---- the 20th century, the discovery of extrasolar popular gaming platform for the past couple of planets made a great contribution to the existing years, they do not have the ability ---- with desktop efforts in the search ---- extraterrestrial intelligence. computers.",
+    "options": {
+      "A": "have been / to compete",
+      "B": "Within / about",
+      "C": "Throughout / under",
+      "D": "During / for"
+    },
+    "correct_answer": "A",
+    "original_id": 7
+  },
+  {
+    "id": 127,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "E-mail advertising ---- a good reputation these days, as people realise that it ---- affordable and effective. C)on / in D)by / with",
+    "left_context": "E-mail advertising",
+    "right_context": "a good reputation these days, as people realise that it ---- affordable and effective. C)on / in D)by / with",
+    "options": {
+      "C": "on / in",
+      "D": "by / with",
+      "A": "gets / has to be",
+      "E": "to / through",
+      "B": "was getting / could be"
+    },
+    "correct_answer": "E",
+    "original_id": 8
+  },
+  {
+    "id": 128,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "Temperament is an emotional trait that is relatively E)Once stable ---- the life span, and is at least ---- some degree, influenced by biology.",
+    "left_context": "Temperament is an emotional trait that is relatively E)Once stable",
+    "right_context": "the life span, and is at least ---- some degree, influenced by biology.",
+    "options": {
+      "E": "Once stable ---- the life span, and is at least ---- some degree, influenced by biology.",
+      "A": "over / to",
+      "B": "into / at",
+      "C": "through / on",
+      "D": "with / of"
+    },
+    "correct_answer": "A",
+    "original_id": 9
+  },
+  {
+    "id": 129,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "Life expectancy at birth is the number of years a 16. ---- the field of seismology can be divided into newborn infant would live ---- already existing studies of the Earth's structure and of seismic patterns of mortality at the time of its birth were to sources (earthquakes, explosions, etc.), they are not stay the same throughout its life. fully separable.",
+    "left_context": "Life expectancy at birth is the number of years a 16.",
+    "right_context": "the field of seismology can be divided into newborn infant would live ---- already existing studies of the Earth's structure and of seismic patterns of mortality at the time of its birth were to sources (earthquakes, explosions, etc.), they are not stay the same throughout its life. fully separable.",
+    "options": {
+      "A": "As long as",
+      "B": "Because",
+      "C": "in case"
+    },
+    "correct_answer": "A",
+    "original_id": 13
+  },
+  {
+    "id": 130,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "Not much progress could be made in chemistry ---- 17. Today, people with rare conditions could be chemists gained a better understanding of the diagnosed quicker ---- the advances in technology materials they worked with. including 3D facial analysis.",
+    "left_context": "Not much progress could be made in chemistry",
+    "right_context": "17. Today, people with rare conditions could be chemists gained a better understanding of the diagnosed quicker ---- the advances in technology materials they worked with. including 3D facial analysis.",
+    "options": {
+      "A": "except for",
+      "B": "despite",
+      "C": "only when"
+    },
+    "correct_answer": "B",
+    "original_id": 14
+  },
+  {
+    "id": 131,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "Dogs, which are highly responsive to sensory 18. ---- the advancements in Internet service and information, look and listen to interpret their delivery, slow-loading web pages are still surroundings, ---- humans do. commonplace.",
+    "left_context": "Dogs, which are highly responsive to sensory 18.",
+    "right_context": "the advancements in Internet service and information, look and listen to interpret their delivery, slow-loading web pages are still surroundings, ---- humans do. commonplace.",
+    "options": {
+      "A": "By means of",
+      "B": "Instead of",
+      "C": "only when"
+    },
+    "correct_answer": "B",
+    "original_id": 15
+  },
+  {
+    "id": 132,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "To test a pet’s sensitivity to specific allergens, a veterinarian routinely exposes it to these allergens via ---- a daily serum under the tongue ---- a shot every one to two weeks.",
+    "left_context": "To test a pet’s sensitivity to specific allergens, a veterinarian routinely exposes it to these allergens via",
+    "right_context": "a daily serum under the tongue ---- a shot every one to two weeks.",
+    "options": {
+      "A": "such / that",
+      "B": "so / that",
+      "C": "the more / the more",
+      "D": "either / or",
+      "E": "as / as"
+    },
+    "correct_answer": "D",
+    "original_id": 19
+  },
+  {
+    "id": 133,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "Making up the inner fifth of the Sun, the core is ---- nuclear fusion creates 99 percent of the Sun’s energy.",
+    "left_context": "Making up the inner fifth of the Sun, the core is",
+    "right_context": "nuclear fusion creates 99 percent of the Sun’s energy.",
+    "options": {
+      "A": "where",
+      "B": "that",
+      "C": "who",
+      "D": "when",
+      "E": "whose 4 Diğer sayfaya geçiniz. 2019-YÖKDİL Sonbahar/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "A",
+    "original_id": 20
+  },
+  {
+    "id": 134,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "- 25. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 23. ifadeyi bulunuz.",
+    "left_context": "- 25. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 23. ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "by",
+      "B": "with Overuse of insecticides in urban areas is risky for",
+      "C": "at",
+      "D": "for several reasons. It can be avoided if several other non-chemical controls (21)----. People, pets, wildlife,",
+      "E": "into beneficial organisms, and other non-target organisms may be exposed to insecticides that have not been (22)---- applied. Such exposure could cause acute or chronic health problems. Insecticides could leak (23)---- the soil or enter groundwater and result in pollution. Frequent insecticide use against particular pests may result in resistant pest populations that are even harder to control. And, (24)---- the harmful impact of insecticides on beneficial organisms, their use 24. may also increase the risk of pest outbreaks."
+    },
+    "correct_answer": "B",
+    "original_id": 21
+  },
+  {
+    "id": 135,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "- 30. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 28. ifadeyi bulunuz.",
+    "left_context": "- 30. sorularda, aşağıdaki parçada numaralanmış yerlere uygun düşen sözcük ya da 28. ifadeyi bulunuz.",
+    "right_context": "",
+    "options": {
+      "A": "on behalf of",
+      "B": "such as When scientists first started to study nature, they",
+      "C": "according to",
+      "D": "instead of concentrated on individual living things. They travelled the world, and sent samples of those living things to",
+      "E": "despite museums (26)---- they were catalogued and identified there. Today, this work still (27)----, but scientists also study the way living things interact with each other. This research is particularly important because it helps us to understand how the changes that humans bring, (28)---- pollution and deforestation, can affect the living world. Ecology is the study of these connections. It involves living things themselves, and the raw materials and nutrients (29)---- by them. (30)---- ecology, 29. energy is important because it is the driving force that"
+    },
+    "correct_answer": "B",
+    "original_id": 26
+  },
+  {
+    "id": 136,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "As the human brain thinks, learns and remembers, ----. B) at first, scientists on ships tried to measure ocean",
     "left_context": "As the human brain thinks, learns and remembers,",
     "right_context": ". B) at first, scientists on ships tried to measure ocean",
     "options": {
-      "B": "it creates consciousness consisting of thoughts and C)only 29% of the land surface on Earth is not feelings submerged under the oceans C)some experts think it is possible to understand the D)it was not until technology improved that the first brain simply through scanning accurate maps of oceans could be drawn in the 20th century D)how identical cells produce an immense complexity is becoming clear to many scientists",
+      "B": "it creates consciousness consisting of thoughts and",
       "A": "people might be suffering from a limited perspective depths and create ocean floor maps",
-      "E": "information flow in the brains of some animals is also easy to determine"
+      "C": "some experts think it is possible to understand the"
     },
     "correct_answer": "B",
     "original_id": 31
   },
   {
-    "id": 53,
+    "id": 137,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "Since weather plays such an important role in our",
     "left_context": "Since weather plays such an important role in our",
     "right_context": "",
     "options": {
       "A": "weather conditions are a result of the atmosphere’s attempt to gain a balance",
-      "B": "everyone is interested in the weather forecast to take precautions according to the seasonal conditions C)High levels of carbon dioxide force governments to take precautions regarding the environment C)temperature and pressure are the most important parameters in meteorology D)Like methane, carbon dioxide leads to an undesired change as a greenhouse gas D)people pay less attention to weather forecasts on TV than on mobile apps",
-      "E": "Coal burning, which produces carbon dioxide, is a serious source of pollution"
+      "B": "everyone is interested in the weather forecast to take precautions according to the seasonal conditions",
+      "C": "High levels of carbon dioxide force governments to take precautions regarding the environment"
     },
     "correct_answer": "B",
     "original_id": 32
   },
   {
-    "id": 54,
+    "id": 138,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "There have been many attempts to define the term 37. Fossil fuels have traditionally been regarded as 'planet' over the centuries, ----. convenient sources of energy, ----.",
     "left_context": "There have been many attempts to define the term 37. Fossil fuels have traditionally been regarded as 'planet' over the centuries,",
     "right_context": ". convenient sources of energy, ----.",
     "options": {
       "A": "yet the burning of fossil fuels poses many serious and moves in an orbit environmental threats",
-      "B": "although fossil fuels such as petroleum, natural gas defined as a planet and coal are relatively plentiful in Earth’s crust C)even though it is claimed that Pluto is not a planet C)if they originate from ancient plants and animals which are non-renewable energy sources D)but to date there is still no universally agreed-upon scientific definition of the term D)as they raise Earth’s average temperature, worsening the effects of climate change",
-      "E": "unless a planet is by far the largest object in its orbital neighbourhood"
+      "B": "although fossil fuels such as petroleum, natural gas defined as a planet and coal are relatively plentiful in Earth’s crust",
+      "C": "even though it is claimed that Pluto is not a planet"
     },
     "correct_answer": "D",
     "original_id": 35
   },
   {
-    "id": 55,
+    "id": 139,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "Even though the term 'biodiversity' is relatively new, ----. 38. Digital libraries differ from traditional libraries ----.",
     "left_context": "Even though the term 'biodiversity' is relatively new,",
     "right_context": ". 38. Digital libraries differ from traditional libraries ----.",
     "options": {
       "A": "whereas the concept of digital libraries can be traced have studied aspects of biodiversity back to the 19th century",
-      "B": "in that they exist in the ‘cyber world’ of computers and comparing their anatomy and physiology the Internet rather than in physical buildings C)biologists will need sophisticated techniques for their C)even if information on the Internet is chaotic and studies expanding quickly and remarkably D)many of the people who have heard of the term still do D)although digital libraries have developed in parallel with not understand what it means the rapid growth of the Internet",
-      "E": "scientists are not able to examine chromosomes and"
+      "B": "in that they exist in the ‘cyber world’ of computers and comparing their anatomy and physiology the Internet rather than in physical buildings",
+      "C": "biologists will need sophisticated techniques for their"
     },
     "correct_answer": "A",
     "original_id": 36
   },
   {
-    "id": 56,
+    "id": 140,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "Mountains rarely occur as isolated individuals; ----. 41. Recent findings show that storm and hurricane",
     "left_context": "Mountains rarely occur as isolated individuals;",
     "right_context": ". 41. Recent findings show that storm and hurricane",
     "options": {
       "A": "though hurricanes are occurring in the northern",
-      "B": "but global warming models predict that storms and surface by eruptions of volcanic ash hurricanes are about to become less intense soon D)even so, their most perceived effects are related to the C)as long as the number of tropical storms and blocking of air flow hurricanes stays the same over the next 40 years",
-      "E": "conversely, their systems occur both on continents and D)unless the bigger storms and hurricanes bring higher in ocean basins water levels, taller waves and more storm damage"
+      "B": "but global warming models predict that storms and surface by eruptions of volcanic ash hurricanes are about to become less intense soon",
+      "C": "yet, some mountains have been constructed upon the"
     },
     "correct_answer": "B",
     "original_id": 39
   },
   {
-    "id": 57,
+    "id": 141,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "Ever since scientists discovered a large number of dinosaur fossils in the late 18th century, ----.",
+    "left_context": "Ever since scientists discovered a large number of dinosaur fossils in the late 18th century,",
+    "right_context": ".",
+    "options": {
+      "A": "we have wondered how a world of giant reptiles came to an end",
+      "B": "dinosaurs might not have become extinct due to a meteor crash",
+      "C": "lots of new research studies will have been conducted by the end of the 21st century",
+      "D": "many theories regarding the extinction of dinosaurs were confirmed in the 16th century",
+      "E": "it had been a big question mark whether we could discover some new species 9 Diğer sayfaya geçiniz. 2019-YÖKDİL Sonbahar/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "A",
+    "original_id": 40
+  },
+  {
+    "id": 142,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "Europa, one of the moons of Jupiter, appears to be atmosphere has a stratosphere, where temperature no more than an airless world with an icy surface. usually increases with height or, in the case of ---- The Galileo spacecraft imaging also showed Venus and Mars, decreases much less quickly than features in the ice consistent with a sub-surface in the troposphere. ocean. In addition to that, the magnetometer",
     "left_context": "Europa, one of the moons of Jupiter, appears to be atmosphere has a stratosphere, where temperature no more than an airless world with an icy surface. usually increases with height or, in the case of",
     "right_context": "The Galileo spacecraft imaging also showed Venus and Mars, decreases much less quickly than features in the ice consistent with a sub-surface in the troposphere. ocean. In addition to that, the magnetometer",
     "options": {
       "A": "For instance, there are many ecosystems on Earth that",
-      "B": "However, theoretical calculations suggest that under 8 planets, and each has its own brand of weather and the ice surface of Europa, there might be a layer of its unique chemistry. liquid water. D)Earth may differ in many ways from the other planets, C)It is possible that sunlight passes through the cracks in but not in the basic structure of its atmosphere. the ice of Europa.",
-      "E": "Earth has many planetary attributes that are important D)Europa has been the most extensively studied moon of to the study of its atmosphere and oceans. the planet Jupiter."
+      "B": "However, theoretical calculations suggest that under 8 planets, and each has its own brand of weather and the ice surface of Europa, there might be a layer of its unique chemistry. liquid water.",
+      "C": "Atmospheres are found on the Sun as well as"
     },
     "correct_answer": "B",
     "original_id": 54
   },
   {
-    "id": 58,
+    "id": 143,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "In some ways, diesel and petrol engines are constructed the same. Both are designed to convert the chemical energy of fuel into mechanical energy to power the car. ---- The biggest difference between the two engines is the way in which the explosions take place. In a petrol engine, fuel is mixed with air, compressed, and ignited by a sparking plug, while a diesel engine has no sparking plug.",
+    "left_context": "In some ways, diesel and petrol engines are constructed the same. Both are designed to convert the chemical energy of fuel into mechanical energy to power the car.",
+    "right_context": "The biggest difference between the two engines is the way in which the explosions take place. In a petrol engine, fuel is mixed with air, compressed, and ignited by a sparking plug, while a diesel engine has no sparking plug.",
+    "options": {
+      "A": "The conversion takes place via a series of small explosions.",
+      "B": "The pressure is lower in petrol engines unlike diesel engines.",
+      "C": "The diesel engine has changed very little since its invention in 1897.",
+      "D": "The introduction of petrol engines changed the world in various ways.",
+      "E": "The diesel engine was designed to make as much use of the fuel as possible. 14 Diğer sayfaya geçiniz. 2019-YÖKDİL Sonbahar/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "A",
+    "original_id": 56
+  },
+  {
+    "id": 144,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "Millions of years ago, the remains of plants and 59. Seen through a microscope, protozoans often look animals decayed and built up in thick layers. This like tiny animals living at great speed. But decayed matter from plants and animals is called protozoans are not animals, and they do not have organic material; it was once alive. ---- Pressure and eyes, mouths or even brains. Instead, they are heat changed some of this organic material into microorganisms with just a single cell. ---- Many are coal, some into oil, and some into natural gas. active predators, hunting for food, while others stay in one place and feed on anything edible that drifts",
     "left_context": "Millions of years ago, the remains of plants and 59. Seen through a microscope, protozoans often look animals decayed and built up in thick layers. This like tiny animals living at great speed. But decayed matter from plants and animals is called protozoans are not animals, and they do not have organic material; it was once alive.",
     "right_context": "Pressure and eyes, mouths or even brains. Instead, they are heat changed some of this organic material into microorganisms with just a single cell. ---- Many are coal, some into oil, and some into natural gas. active predators, hunting for food, while others stay in one place and feed on anything edible that drifts",
     "options": {
-      "A": "These protozoans can be incredibly abundant, for example, an elephant can have billions of them living in C)The search for natural gas begins with geologists its gigantic gut. locating the types of rock.",
-      "B": "Most protozoans live in water, but some are found D)Over time, the mud and soil changed to rock, covered inside other living things, and this offers them certain the organic material and trapped it beneath the rock. advantages.",
-      "E": "Scientists and engineers explore a chosen area by C)One of the fastest protozoans of all is Paramecium, a studying rock samples from the earth. slipper-shaped organism covered with fur. D)Unlike many other microorganisms, protozoans need to eat, and they get their food in different ways."
+      "A": "These protozoans can be incredibly abundant, for example, an elephant can have billions of them living in",
+      "B": "Most protozoans live in water, but some are found",
+      "C": "The search for natural gas begins with geologists its gigantic gut. locating the types of rock."
     },
     "correct_answer": "D",
     "original_id": 57
   },
   {
-    "id": 59,
+    "id": 145,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "The products of systematic study are used in biology in a few ways. - --- For example, do the specimens studied represent one species or several species? If several, what are their identities? And then, the same biologist might want to know the relationships among these entities in order to fully understand the comparative data he/she has collected. For example, are the similarities in the ecology of two species the result of convergence in a similar environment or common history?",
+    "left_context": "The products of systematic study are used in biology in a few ways. -",
+    "right_context": "For example, do the specimens studied represent one species or several species? If several, what are their identities? And then, the same biologist might want to know the relationships among these entities in order to fully understand the comparative data he/she has collected. For example, are the similarities in the ecology of two species the result of convergence in a similar environment or common history?",
+    "options": {
+      "A": "Systematists who publish species descriptions are expected to observe good taxonomic scholarship.",
+      "B": "First, a biologist may need some knowledge of species and their populations in order to conduct research.",
+      "C": "Systematics is the study of the diversity of organisms and the relationships among these organisms.",
+      "D": "Biology is one of the oldest scientific disciplines, with roots in antiquity and a formal scientific literature.",
+      "E": "Comparative sciences such as systematics use the similarities and differences among the subjects studied. 15 Diğer sayfaya geçiniz. 2019-YÖKDİL Sonbahar/İNGİLİZCE/FEN BİL"
+    },
+    "correct_answer": "B",
+    "original_id": 58
+  },
+  {
+    "id": 146,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "According to the passage, wolves ----.",
+    "left_context": "According to the passage, wolves",
+    "right_context": ".",
+    "options": {
+      "A": "are undeniably the villains of the social structure",
+      "C": "are usually illustrated as friendly and adorable in",
+      "B": "are being given a new image thanks to the recent",
+      "D": "To give information about new studies related to the studies about them nature of wolves"
+    },
+    "correct_answer": "B",
+    "original_id": 66
+  },
+  {
+    "id": 147,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "What is the passage mainly about? cevaplayınız.",
     "left_context": "What is the passage mainly about? cevaplayınız.",
     "right_context": "",
     "options": {
-      "A": "tear samples there will be out, the better for the tear bank.",
-      "B": "relief they will receive C)emotional they will get D)questions there will be",
+      "A": "Questions that are commonly asked about the way women and men cry Compared with other bodily fluids, tears are vastly",
+      "B": "Different studies seeking to determine how tears relate understudied. Collecting the salty drops is tedious – to social bonding weepy donors are rare, men hardly ever sign up and tears must be ‘fresh’ for their make-up to be properly",
+      "C": "Emotions that are conveyed during many different analysed. As a result, researchers lack a consensus stages of crying about the purpose of a basic human behaviour. Is crying a primal way to communicate that many species share,",
+      "D": "Gender differences when expressing feelings through as some chemists hypothesise? Or is it, as crying psychologists have put forward, a uniquely human key to social bonding? Neurobiologist Noam Sobel has a plan",
       "E": "The challenges involved in studying why humans cry to advance the field: He has perfected a way to and a possible solution to them flash-freeze tears and is now working to create a ‘tear bank’ for researchers around the world. Sobel hopes interested researchers will eventually be able to select tears by age and gender from the tear bank. This customised access could be of great help to experiments dealing with many unanswered questions about the chemistry of crying: Do tears of men and women differ? Do the tears affect mood or appetite? How do emotional and non-emotional tears – from, say, cutting onions – 71. Sobel thinks that the more people cry, the more ----. compare? For Sobel, the more people who cry their eyes"
     },
     "correct_answer": "E",
     "original_id": 70
   },
   {
-    "id": 60,
+    "id": 148,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "According to the passage, research about tears is E) unhealthy eyes they will have rarely carried out due to the ----.",
+    "left_context": "According to the passage, research about tears is E) unhealthy eyes they will have rarely carried out due to the",
+    "right_context": ".",
+    "options": {
+      "E": "unhealthy eyes they will have rarely carried out due to the ----.",
+      "A": "lack of consensus about its purpose",
+      "B": "questions that remain unanswered",
+      "C": "scarcity of the samples needed",
+      "D": "complicated nature of the topic"
+    },
+    "correct_answer": "C",
+    "original_id": 69
+  },
+  {
+    "id": 149,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "It can be inferred from the passage that aesthetic cevaplayınız. effects of air pollution ----.",
     "left_context": "It can be inferred from the passage that aesthetic cevaplayınız. effects of air pollution",
     "right_context": ".",
     "options": {
-      "A": "Most people pay more attention to aesthetic effects of air pollution than its health effects.",
-      "B": "Eye irritation and asthma resulting from air pollution can often be cured. C)Loss of vegetation can occur because of large groups",
+      "A": "are the most common type The effects of air pollution have been divided into several categories so that better analyses of pollutants",
+      "B": "make an area seem unattractive can be conducted. Effects include aesthetic losses, economic losses, safety hazards, personal discomfort,",
+      "C": "can increase the risk of asthma and health effects. Aesthetic effects include any changes caused by air pollution that result in the loss of",
+      "D": "are within the minor risk group visually pleasing scenery. Economic losses include the loss of vegetation and livestock due to massive",
       "E": "can result in an economic loss exposure to the gaseous air pollution. These particles can kill or sicken commercial crops and livestock. Other losses may occur as people’s possessions are damaged as a result of the pollution, which can cause the build-up of dirt or dust particles. An additional effect of air pollution is personal discomfort and health hazards. Eye irritation, asthma, bronchitis, and sinusitis are a few of the health risks caused by air pollution. However, these are some minor risks of air pollution that 74. Which of the following is true according to the are usually curable. passage?"
     },
     "correct_answer": "B",
     "original_id": 73
   },
   {
-    "id": 61,
+    "id": 150,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "The author gives the protein example in order to ----. cevaplayınız.",
+    "left_context": "The author gives the protein example in order to",
+    "right_context": ". cevaplayınız.",
+    "options": {
+      "A": "show that protein is the main element in a living organism All forms of life on Earth require water to function. Life",
+      "B": "explain how important water is for protein molecules to has been found in all kinds of extreme environments, function operating at the limits of heat and cold and even without air. But every type of life we have discovered contains",
+      "C": "emphasise the fact that protein can survive in extreme biological cells that require water in their operating environments environment. Cells simply could not function without it. It is not just a matter of keeping them inflated and moving",
+      "D": "compare the functions of tiny complex molecules chemicals around – living cells are full of tiny complex mechanisms. Many of these mechanisms rely on",
+      "E": "indicate that there are some molecules which do not different sections of molecules either working well with need air to function water, or not mixing with it. Proteins, for example, are the key worker molecules in living organisms. Proteins have to fold into particular shapes to carry out their roles, and it is the interaction between water and various parts of a protein molecule that tells it how to fold. Water is not just a solvent, a substance that dissolves other substances, but it also plays an important role in the functioning of our cells."
+    },
+    "correct_answer": "B",
+    "original_id": 76
+  },
+  {
+    "id": 151,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_text": "According to the passage, ----. C)how a protein folds depends on the amount of water available",
     "left_context": "According to the passage,",
     "right_context": ". C)how a protein folds depends on the amount of water available",
     "options": {
       "C": "how a protein folds depends on the amount of water available",
-      "A": "life can be found even in environments where there is no air D)every cell has complex mechanisms that can survive without water",
+      "A": "life can be found even in environments where there is no air",
+      "D": "every cell has complex mechanisms that can survive without water",
       "B": "it is difficult to find life in extreme environments",
-      "E": "air keeps cells inflated and moves chemicals around 21 Diğer sayfaya geçiniz. 2019-YÖKDİL Sonbahar/İNGİLİZCE/FEN BİL"
+      "E": "biological cells contain a high percentage of water in"
     },
     "correct_answer": "A",
     "original_id": 75
+  },
+  {
+    "id": 152,
+    "source": "YOKDIL_Ingilizce_fen.pdf",
+    "question_text": "It is clearly stated in the passage that ----. cevaplayınız.",
+    "left_context": "It is clearly stated in the passage that",
+    "right_context": ". cevaplayınız.",
+    "options": {
+      "A": "unfavourable environmental factors and a low number of offspring are threats for the red handfish The red handfish, found off the southeast coast of",
+      "B": "with the new discovery of the second population, the Tasmania, Australia, uses its ‘hands’, which are modified red handfish is not endangered now fins, to crawl across the bottom of the seafloor. It does not travel very far or fast, which restricts populations to",
+      "C": "the divers will start a habitat programme for the newly small areas. Classed as critically endangered, it faces discovered population of the red handfish threats from habitat degradation and low reproductive rates. Often called the world’s rarest fish, scientists only",
+      "D": "there were more than two populations of the red knew of one population, numbering between 20 and 40 handfish in the past fish, until divers discovered a second population in earlier 2018. “Finding this second population is a big",
+      "E": "the red handfish may travel to the north coast of relief as it essentially doubles the number of individuals Australia during the year we thought were left on Earth, but the danger is still on,” says diver Antonia Cooper. “It provides hope that other small populations may still exist and allows scientists to start discussing conservation options such as habitat protection and the viability of a captive breeding programme.”"
+    },
+    "correct_answer": "A",
+    "original_id": 79
   }
 ]

@@ -11,6 +11,7 @@ class NgramModel:
 
     def __init__(self, tokens=None):
         self.tokens = tokens or []
+        self.unigrams = Counter()
         self.bigrams = Counter()
         self.trigrams = Counter()
         self.quadgrams = Counter()
@@ -23,6 +24,9 @@ class NgramModel:
         n = len(self.tokens)
         print(f"N-gram sözlükleri oluşturuluyor ({n} token)...")
 
+        # Unigram (tekli kelime frekansları)
+        self.unigrams = Counter(self.tokens)
+
         for i in range(n - 1):
             self.bigrams[tuple(self.tokens[i:i + 2])] += 1
 
@@ -32,9 +36,14 @@ class NgramModel:
         for i in range(n - 3):
             self.quadgrams[tuple(self.tokens[i:i + 4])] += 1
 
+        print(f"  -> Unigram : {len(self.unigrams):,} benzersiz")
         print(f"  -> Bigram  : {len(self.bigrams):,} benzersiz")
         print(f"  -> Trigram : {len(self.trigrams):,} benzersiz")
         print(f"  -> Quadgram: {len(self.quadgrams):,} benzersiz")
+
+    def get_word_freq(self, word):
+        """Tekli kelime frekansını döndürür."""
+        return self.unigrams.get(word, 0)
 
     def get_bigram_freq(self, w1, w2):
         return self.bigrams.get((w1, w2), 0)
@@ -59,7 +68,7 @@ class NgramModel:
         """Model istatistiklerini döndürür."""
         return {
             'corpus_size': len(self.tokens),
-            'unique_tokens': len(set(self.tokens)),
+            'unique_tokens': len(self.unigrams),
             'unique_bigrams': len(self.bigrams),
             'unique_trigrams': len(self.trigrams),
             'unique_quadgrams': len(self.quadgrams),
