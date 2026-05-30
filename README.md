@@ -308,7 +308,8 @@ Herhangi bir İngilizce metin girilerek corpus ile n-gram eşleşmeleri incelene
 Bu proje akademik amaçlı geliştirilmiştir.
 
 ---
-
+## Önemli endpoint listesi
+http://127.0.0.1:5000/api/evaluation/template?top_k=50
 ## 👤 Geliştirici
 
 Doğal Dil İşleme dersi kapsamında hazırlanmıştır.
