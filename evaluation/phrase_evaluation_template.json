@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 1,
+    "phrase": "of the",
+    "frequency": 255,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 2,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 2,
+    "phrase": "in the",
+    "frequency": 201,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 3,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 3,
+    "phrase": "to the",
+    "frequency": 97,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 4,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 4,
+    "phrase": "it is",
+    "frequency": 79,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 5,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 5,
+    "phrase": "the passage",
+    "frequency": 57,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 6,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 6,
+    "phrase": "on the",
+    "frequency": 53,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 7,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 7,
+    "phrase": "as a",
+    "frequency": 52,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 8,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 8,
+    "phrase": "is a",
+    "frequency": 51,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 9,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 9,
+    "phrase": "is the",
+    "frequency": 51,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 10,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 10,
+    "phrase": "can be",
+    "frequency": 51,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 11,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 11,
+    "phrase": "have been",
+    "frequency": 49,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 12,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 12,
+    "phrase": "of a",
+    "frequency": 47,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 13,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 13,
+    "phrase": "from the",
+    "frequency": 44,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 14,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 14,
+    "phrase": "according to",
+    "frequency": 44,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 15,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 15,
+    "phrase": "to be",
+    "frequency": 42,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 16,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 16,
+    "phrase": "for the",
+    "frequency": 41,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 17,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 17,
+    "phrase": "that the",
+    "frequency": 40,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 18,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 18,
+    "phrase": "the sun",
+    "frequency": 40,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 19,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 19,
+    "phrase": "the world",
+    "frequency": 37,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 20,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 20,
+    "phrase": "number of",
+    "frequency": 36,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 21,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 21,
+    "phrase": "such as",
+    "frequency": 36,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 22,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 22,
+    "phrase": "they are",
+    "frequency": 35,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 23,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 23,
+    "phrase": "there are",
+    "frequency": 35,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 24,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 24,
+    "phrase": "the most",
+    "frequency": 34,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 25,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 25,
+    "phrase": "in a",
+    "frequency": 33,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 26,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 26,
+    "phrase": "one of",
+    "frequency": 33,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 27,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 27,
+    "phrase": "the first",
+    "frequency": 33,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 28,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 28,
+    "phrase": "b the",
+    "frequency": 33,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 29,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 29,
+    "phrase": "by the",
+    "frequency": 31,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 30,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 30,
+    "phrase": "as the",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 31,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 31,
+    "phrase": "to have",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 32,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 32,
+    "phrase": "could be",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 33,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 33,
+    "phrase": "a i",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 34,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 34,
+    "phrase": "i b",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 35,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 35,
+    "phrase": "b ii",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 36,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 36,
+    "phrase": "ii c",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 37,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 37,
+    "phrase": "c iii",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 38,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 38,
+    "phrase": "iii d",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 39,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 39,
+    "phrase": "d iv",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 40,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 40,
+    "phrase": "iv e",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 41,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 41,
+    "phrase": "e v",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 42,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 42,
+    "phrase": "the earth",
+    "frequency": 29,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 43,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 43,
+    "phrase": "e the",
+    "frequency": 29,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 44,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 44,
+    "phrase": "to a",
+    "frequency": 29,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 45,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 45,
+    "phrase": "d the",
+    "frequency": 28,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 46,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 46,
+    "phrase": "with the",
+    "frequency": 27,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 47,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 47,
+    "phrase": "c the",
+    "frequency": 26,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 48,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 48,
+    "phrase": "and the",
+    "frequency": 25,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 49,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 49,
+    "phrase": "amount of",
+    "frequency": 25,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 50,
+    "list_type": "raw",
+    "ngram_type": "bigram",
+    "rank": 50,
+    "phrase": "due to",
+    "frequency": 24,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 51,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 1,
+    "phrase": "it is",
+    "frequency": 79,
+    "score": 79,
+    "is_useful": null
+  },
+  {
+    "id": 52,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 2,
+    "phrase": "the passage",
+    "frequency": 57,
+    "score": 57,
+    "is_useful": null
+  },
+  {
+    "id": 53,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 3,
+    "phrase": "can be",
+    "frequency": 51,
+    "score": 51,
+    "is_useful": null
+  },
+  {
+    "id": 54,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 4,
+    "phrase": "have been",
+    "frequency": 49,
+    "score": 49,
+    "is_useful": null
+  },
+  {
+    "id": 55,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 5,
+    "phrase": "such as",
+    "frequency": 36,
+    "score": 44,
+    "is_useful": null
+  },
+  {
+    "id": 56,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 6,
+    "phrase": "to be",
+    "frequency": 42,
+    "score": 42,
+    "is_useful": null
+  },
+  {
+    "id": 57,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 7,
+    "phrase": "the sun",
+    "frequency": 40,
+    "score": 40,
+    "is_useful": null
+  },
+  {
+    "id": 58,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 8,
+    "phrase": "the world",
+    "frequency": 37,
+    "score": 37,
+    "is_useful": null
+  },
+  {
+    "id": 59,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 9,
+    "phrase": "they are",
+    "frequency": 35,
+    "score": 35,
+    "is_useful": null
+  },
+  {
+    "id": 60,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 10,
+    "phrase": "there are",
+    "frequency": 35,
+    "score": 35,
+    "is_useful": null
+  },
+  {
+    "id": 61,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 11,
+    "phrase": "the most",
+    "frequency": 34,
+    "score": 34,
+    "is_useful": null
+  },
+  {
+    "id": 62,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 12,
+    "phrase": "the first",
+    "frequency": 33,
+    "score": 33,
+    "is_useful": null
+  },
+  {
+    "id": 63,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 13,
+    "phrase": "to have",
+    "frequency": 30,
+    "score": 30,
+    "is_useful": null
+  },
+  {
+    "id": 64,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 14,
+    "phrase": "could be",
+    "frequency": 30,
+    "score": 30,
+    "is_useful": null
+  },
+  {
+    "id": 65,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 15,
+    "phrase": "the earth",
+    "frequency": 29,
+    "score": 29,
+    "is_useful": null
+  },
+  {
+    "id": 66,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 16,
+    "phrase": "th century",
+    "frequency": 24,
+    "score": 24,
+    "is_useful": null
+  },
+  {
+    "id": 67,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 17,
+    "phrase": "are not",
+    "frequency": 24,
+    "score": 24,
+    "is_useful": null
+  },
+  {
+    "id": 68,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 18,
+    "phrase": "in which",
+    "frequency": 19,
+    "score": 22,
+    "is_useful": null
+  },
+  {
+    "id": 69,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 19,
+    "phrase": "has been",
+    "frequency": 21,
+    "score": 21,
+    "is_useful": null
+  },
+  {
+    "id": 70,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 20,
+    "phrase": "carbon dioxide",
+    "frequency": 21,
+    "score": 21,
+    "is_useful": null
+  },
+  {
+    "id": 71,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 21,
+    "phrase": "there is",
+    "frequency": 21,
+    "score": 21,
+    "is_useful": null
+  },
+  {
+    "id": 72,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 22,
+    "phrase": "rather than",
+    "frequency": 13,
+    "score": 21,
+    "is_useful": null
+  },
+  {
+    "id": 73,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 23,
+    "phrase": "for example",
+    "frequency": 20,
+    "score": 20,
+    "is_useful": null
+  },
+  {
+    "id": 74,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 24,
+    "phrase": "the th",
+    "frequency": 20,
+    "score": 20,
+    "is_useful": null
+  },
+  {
+    "id": 75,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 25,
+    "phrase": "that is",
+    "frequency": 20,
+    "score": 20,
+    "is_useful": null
+  },
+  {
+    "id": 76,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 26,
+    "phrase": "passage that",
+    "frequency": 20,
+    "score": 20,
+    "is_useful": null
+  },
+  {
+    "id": 77,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 27,
+    "phrase": "air pollution",
+    "frequency": 20,
+    "score": 20,
+    "is_useful": null
+  },
+  {
+    "id": 78,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 28,
+    "phrase": "on earth",
+    "frequency": 17,
+    "score": 20,
+    "is_useful": null
+  },
+  {
+    "id": 79,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 29,
+    "phrase": "of their",
+    "frequency": 19,
+    "score": 19,
+    "is_useful": null
+  },
+  {
+    "id": 80,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 30,
+    "phrase": "is not",
+    "frequency": 19,
+    "score": 19,
+    "is_useful": null
+  },
+  {
+    "id": 81,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 31,
+    "phrase": "the amount",
+    "frequency": 19,
+    "score": 19,
+    "is_useful": null
+  },
+  {
+    "id": 82,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 32,
+    "phrase": "the same",
+    "frequency": 19,
+    "score": 19,
+    "is_useful": null
+  },
+  {
+    "id": 83,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 33,
+    "phrase": "as well",
+    "frequency": 16,
+    "score": 19,
+    "is_useful": null
+  },
+  {
+    "id": 84,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 34,
+    "phrase": "that are",
+    "frequency": 18,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 85,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 35,
+    "phrase": "will be",
+    "frequency": 18,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 86,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 36,
+    "phrase": "to make",
+    "frequency": 18,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 87,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 37,
+    "phrase": "more than",
+    "frequency": 18,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 88,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 38,
+    "phrase": "it was",
+    "frequency": 18,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 89,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 39,
+    "phrase": "in order",
+    "frequency": 15,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 90,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 40,
+    "phrase": "because it",
+    "frequency": 10,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 91,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 41,
+    "phrase": "the atmosphere",
+    "frequency": 17,
+    "score": 17,
+    "is_useful": null
+  },
+  {
+    "id": 92,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 42,
+    "phrase": "do not",
+    "frequency": 17,
+    "score": 17,
+    "is_useful": null
+  },
+  {
+    "id": 93,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 43,
+    "phrase": "solar water",
+    "frequency": 17,
+    "score": 17,
+    "is_useful": null
+  },
+  {
+    "id": 94,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 44,
+    "phrase": "they can",
+    "frequency": 16,
+    "score": 16,
+    "is_useful": null
+  },
+  {
+    "id": 95,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 45,
+    "phrase": "in case",
+    "frequency": 13,
+    "score": 16,
+    "is_useful": null
+  },
+  {
+    "id": 96,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 46,
+    "phrase": "the water",
+    "frequency": 15,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 97,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 47,
+    "phrase": "even if",
+    "frequency": 15,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 98,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 48,
+    "phrase": "global warming",
+    "frequency": 15,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 99,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 49,
+    "phrase": "so that",
+    "frequency": 15,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 100,
+    "list_type": "filtered",
+    "ngram_type": "bigram",
+    "rank": 50,
+    "phrase": "may be",
+    "frequency": 15,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 101,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 1,
+    "phrase": "one of the",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 102,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 2,
+    "phrase": "a i b",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 103,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 3,
+    "phrase": "i b ii",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 104,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 4,
+    "phrase": "b ii c",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 105,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 5,
+    "phrase": "ii c iii",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 106,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 6,
+    "phrase": "c iii d",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 107,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 7,
+    "phrase": "iii d iv",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 108,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 8,
+    "phrase": "d iv e",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 109,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 9,
+    "phrase": "iv e v",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 110,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 10,
+    "phrase": "according to the",
+    "frequency": 29,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 111,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 11,
+    "phrase": "e v i",
+    "frequency": 24,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 112,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 12,
+    "phrase": "to the passage",
+    "frequency": 24,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 113,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 13,
+    "phrase": "the th century",
+    "frequency": 20,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 114,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 14,
+    "phrase": "the passage that",
+    "frequency": 20,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 115,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 15,
+    "phrase": "as a result",
+    "frequency": 18,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 116,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 16,
+    "phrase": "the amount of",
+    "frequency": 18,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 117,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 17,
+    "phrase": "from the passage",
+    "frequency": 16,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 118,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 18,
+    "phrase": "a number of",
+    "frequency": 15,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 119,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 19,
+    "phrase": "as well as",
+    "frequency": 14,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 120,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 20,
+    "phrase": "the number of",
+    "frequency": 14,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 121,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 21,
+    "phrase": "the red handfish",
+    "frequency": 13,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 122,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 22,
+    "phrase": "of the world",
+    "frequency": 12,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 123,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 23,
+    "phrase": "a result of",
+    "frequency": 12,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 124,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 24,
+    "phrase": "solar water heating",
+    "frequency": 12,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 125,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 25,
+    "phrase": "water heating systems",
+    "frequency": 12,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 126,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 26,
+    "phrase": "i ngi li",
+    "frequency": 11,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 127,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 27,
+    "phrase": "ngi li zce",
+    "frequency": 11,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 128,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 28,
+    "phrase": "the earth s",
+    "frequency": 11,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 129,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 29,
+    "phrase": "the world s",
+    "frequency": 11,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 130,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 30,
+    "phrase": "plants and animals",
+    "frequency": 11,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 131,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 31,
+    "phrase": "as long as",
+    "frequency": 11,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 132,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 32,
+    "phrase": "bi li mleri",
+    "frequency": 10,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 133,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 33,
+    "phrase": "the fact that",
+    "frequency": 10,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 134,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 34,
+    "phrase": "is one of",
+    "frequency": 10,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 135,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 35,
+    "phrase": "in order to",
+    "frequency": 10,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 136,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 36,
+    "phrase": "in the th",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 137,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 37,
+    "phrase": "to have been",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 138,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 38,
+    "phrase": "in the passage",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 139,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 39,
+    "phrase": "which of the",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 140,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 40,
+    "phrase": "of the following",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 141,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 41,
+    "phrase": "the united states",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 142,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 42,
+    "phrase": "of the sun",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 143,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 43,
+    "phrase": "the sun is",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 144,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 44,
+    "phrase": "of air pollution",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 145,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 45,
+    "phrase": "it is a",
+    "frequency": 8,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 146,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 46,
+    "phrase": "what is the",
+    "frequency": 8,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 147,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 47,
+    "phrase": "in the united",
+    "frequency": 8,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 148,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 48,
+    "phrase": "most of the",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 149,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 49,
+    "phrase": "in terms of",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 150,
+    "list_type": "raw",
+    "ngram_type": "trigram",
+    "rank": 50,
+    "phrase": "the purpose of",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 151,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 1,
+    "phrase": "to the passage",
+    "frequency": 24,
+    "score": 26,
+    "is_useful": null
+  },
+  {
+    "id": 152,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 2,
+    "phrase": "as well as",
+    "frequency": 14,
+    "score": 19,
+    "is_useful": null
+  },
+  {
+    "id": 153,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 3,
+    "phrase": "from the passage",
+    "frequency": 16,
+    "score": 18,
+    "is_useful": null
+  },
+  {
+    "id": 154,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 4,
+    "phrase": "as long as",
+    "frequency": 11,
+    "score": 16,
+    "is_useful": null
+  },
+  {
+    "id": 155,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 5,
+    "phrase": "of the world",
+    "frequency": 12,
+    "score": 14,
+    "is_useful": null
+  },
+  {
+    "id": 156,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 6,
+    "phrase": "solar water heating",
+    "frequency": 12,
+    "score": 14,
+    "is_useful": null
+  },
+  {
+    "id": 157,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 7,
+    "phrase": "water heating systems",
+    "frequency": 12,
+    "score": 14,
+    "is_useful": null
+  },
+  {
+    "id": 158,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 8,
+    "phrase": "in the th",
+    "frequency": 9,
+    "score": 14,
+    "is_useful": null
+  },
+  {
+    "id": 159,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 9,
+    "phrase": "in the passage",
+    "frequency": 9,
+    "score": 14,
+    "is_useful": null
+  },
+  {
+    "id": 160,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 10,
+    "phrase": "due to hawking",
+    "frequency": 4,
+    "score": 14,
+    "is_useful": null
+  },
+  {
+    "id": 161,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 11,
+    "phrase": "ngi li zce",
+    "frequency": 11,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 162,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 12,
+    "phrase": "plants and animals",
+    "frequency": 11,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 163,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 13,
+    "phrase": "in the united",
+    "frequency": 8,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 164,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 14,
+    "phrase": "effects of air",
+    "frequency": 6,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 165,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 15,
+    "phrase": "although there are",
+    "frequency": 3,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 166,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 16,
+    "phrase": "bi li mleri",
+    "frequency": 10,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 167,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 17,
+    "phrase": "in the universe",
+    "frequency": 7,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 168,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 18,
+    "phrase": "on the surface",
+    "frequency": 7,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 169,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 19,
+    "phrase": "on the other",
+    "frequency": 7,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 170,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 20,
+    "phrase": "solid scientific evidence",
+    "frequency": 5,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 171,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 21,
+    "phrase": "due to global",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 172,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 22,
+    "phrase": "although it is",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 173,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 23,
+    "phrase": "despite the fact",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 174,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 24,
+    "phrase": "because of their",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 175,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 25,
+    "phrase": "because there is",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 176,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 26,
+    "phrase": "because they can",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 177,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 27,
+    "phrase": "such as fungi",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 178,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 28,
+    "phrase": "due to their",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 179,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 29,
+    "phrase": "such as bones",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 180,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 30,
+    "phrase": "because it is",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 181,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 31,
+    "phrase": "according to theoretical",
+    "frequency": 2,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 182,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 32,
+    "phrase": "to have been",
+    "frequency": 9,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 183,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 33,
+    "phrase": "of the following",
+    "frequency": 9,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 184,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 34,
+    "phrase": "of the sun",
+    "frequency": 9,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 185,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 35,
+    "phrase": "of air pollution",
+    "frequency": 9,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 186,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 36,
+    "phrase": "evidence to support",
+    "frequency": 4,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 187,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 37,
+    "phrase": "for scientific research",
+    "frequency": 4,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 188,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 38,
+    "phrase": "in the first",
+    "frequency": 5,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 189,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 39,
+    "phrase": "in the late",
+    "frequency": 5,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 190,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 40,
+    "phrase": "in which seals",
+    "frequency": 5,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 191,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 41,
+    "phrase": "by johannes gutenberg",
+    "frequency": 5,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 192,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 42,
+    "phrase": "on the lives",
+    "frequency": 5,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 193,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 43,
+    "phrase": "is the study",
+    "frequency": 3,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 194,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 44,
+    "phrase": "printing process devised",
+    "frequency": 3,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 195,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 45,
+    "phrase": "important because it",
+    "frequency": 3,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 196,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 46,
+    "phrase": "its energy due",
+    "frequency": 3,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 197,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 47,
+    "phrase": "of the most",
+    "frequency": 7,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 198,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 48,
+    "phrase": "have long been",
+    "frequency": 7,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 199,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 49,
+    "phrase": "as soon as",
+    "frequency": 4,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 200,
+    "list_type": "filtered",
+    "ngram_type": "trigram",
+    "rank": 50,
+    "phrase": "in the us",
+    "frequency": 4,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 201,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 1,
+    "phrase": "a i b ii",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 202,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 2,
+    "phrase": "i b ii c",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 203,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 3,
+    "phrase": "b ii c iii",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 204,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 4,
+    "phrase": "ii c iii d",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 205,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 5,
+    "phrase": "c iii d iv",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 206,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 6,
+    "phrase": "iii d iv e",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 207,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 7,
+    "phrase": "d iv e v",
+    "frequency": 30,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 208,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 8,
+    "phrase": "iv e v i",
+    "frequency": 24,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 209,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 9,
+    "phrase": "according to the passage",
+    "frequency": 24,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 210,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 10,
+    "phrase": "from the passage that",
+    "frequency": 13,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 211,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 11,
+    "phrase": "solar water heating systems",
+    "frequency": 12,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 212,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 12,
+    "phrase": "i ngi li zce",
+    "frequency": 11,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 213,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 13,
+    "phrase": "as a result of",
+    "frequency": 10,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 214,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 14,
+    "phrase": "is one of the",
+    "frequency": 10,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 215,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 15,
+    "phrase": "in the th century",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 216,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 16,
+    "phrase": "which of the following",
+    "frequency": 9,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 217,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 17,
+    "phrase": "in the passage that",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 218,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 18,
+    "phrase": "understood from the passage",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 219,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 19,
+    "phrase": "of the following is",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 220,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 20,
+    "phrase": "the passage that a",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 221,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 21,
+    "phrase": "in the united states",
+    "frequency": 7,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 222,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 22,
+    "phrase": "ngi li zce fen",
+    "frequency": 6,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 223,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 23,
+    "phrase": "li zce fen bi",
+    "frequency": 6,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 224,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 24,
+    "phrase": "of the th century",
+    "frequency": 6,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 225,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 25,
+    "phrase": "on the other hand",
+    "frequency": 6,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 226,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 26,
+    "phrase": "of the sun s",
+    "frequency": 6,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 227,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 27,
+    "phrase": "effects of air pollution",
+    "frequency": 6,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 228,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 28,
+    "phrase": "zce fen bi li",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 229,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 29,
+    "phrase": "fen bi li mleri",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 230,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 30,
+    "phrase": "ngi li zce fe",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 231,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 31,
+    "phrase": "en bi li mleri",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 232,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 32,
+    "phrase": "unfit for human consumption",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 233,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 33,
+    "phrase": "like a wise old",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 234,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 34,
+    "phrase": "a wise old soul",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 235,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 35,
+    "phrase": "many occurrences in the",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 236,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 36,
+    "phrase": "occurrences in the universe",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 237,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 37,
+    "phrase": "originally formed around a",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 238,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 38,
+    "phrase": "formed around a sun",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 239,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 39,
+    "phrase": "around a sun like",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 240,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 40,
+    "phrase": "a sun like star",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 241,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 41,
+    "phrase": "sun like star billion",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 242,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 42,
+    "phrase": "like star billion years",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 243,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 43,
+    "phrase": "star billion years ago",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 244,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 44,
+    "phrase": "willingness to make announcements",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 245,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 45,
+    "phrase": "to make announcements about",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 246,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 46,
+    "phrase": "make announcements about his",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 247,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 47,
+    "phrase": "announcements about his inventions",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 248,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 48,
+    "phrase": "a technology in which",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 249,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 49,
+    "phrase": "technology in which seals",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 250,
+    "list_type": "raw",
+    "ngram_type": "quadgram",
+    "rank": 50,
+    "phrase": "in which seals were",
+    "frequency": 5,
+    "score": null,
+    "is_useful": null
+  },
+  {
+    "id": 251,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 1,
+    "phrase": "according to the passage",
+    "frequency": 24,
+    "score": 35,
+    "is_useful": null
+  },
+  {
+    "id": 252,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 2,
+    "phrase": "from the passage that",
+    "frequency": 13,
+    "score": 16,
+    "is_useful": null
+  },
+  {
+    "id": 253,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 3,
+    "phrase": "solar water heating systems",
+    "frequency": 12,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 254,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 4,
+    "phrase": "in the th century",
+    "frequency": 9,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 255,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 5,
+    "phrase": "due to hawking radiation",
+    "frequency": 4,
+    "score": 15,
+    "is_useful": null
+  },
+  {
+    "id": 256,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 6,
+    "phrase": "effects of air pollution",
+    "frequency": 6,
+    "score": 14,
+    "is_useful": null
+  },
+  {
+    "id": 257,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 7,
+    "phrase": "in the passage that",
+    "frequency": 7,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 258,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 8,
+    "phrase": "in the united states",
+    "frequency": 7,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 259,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 9,
+    "phrase": "due to global warming",
+    "frequency": 2,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 260,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 10,
+    "phrase": "despite the fact that",
+    "frequency": 2,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 261,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 11,
+    "phrase": "such as the hubble",
+    "frequency": 2,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 262,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 12,
+    "phrase": "according to theoretical calculations",
+    "frequency": 2,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 263,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 13,
+    "phrase": "in terms of their",
+    "frequency": 2,
+    "score": 13,
+    "is_useful": null
+  },
+  {
+    "id": 264,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 14,
+    "phrase": "which of the following",
+    "frequency": 9,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 265,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 15,
+    "phrase": "on the other hand",
+    "frequency": 6,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 266,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 16,
+    "phrase": "is solid scientific evidence",
+    "frequency": 4,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 267,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 17,
+    "phrase": "scientific evidence to support",
+    "frequency": 4,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 268,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 18,
+    "phrase": "used for scientific research",
+    "frequency": 4,
+    "score": 12,
+    "is_useful": null
+  },
+  {
+    "id": 269,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 19,
+    "phrase": "in which seals were",
+    "frequency": 5,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 270,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 20,
+    "phrase": "process devised by johannes",
+    "frequency": 3,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 271,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 21,
+    "phrase": "all its energy due",
+    "frequency": 3,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 272,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 22,
+    "phrase": "energy due to hawking",
+    "frequency": 3,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 273,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 23,
+    "phrase": "aesthetic effects of air",
+    "frequency": 3,
+    "score": 11,
+    "is_useful": null
+  },
+  {
+    "id": 274,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 24,
+    "phrase": "understood from the passage",
+    "frequency": 7,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 275,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 25,
+    "phrase": "of the following is",
+    "frequency": 7,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 276,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 26,
+    "phrase": "in the dead tissues",
+    "frequency": 4,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 277,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 27,
+    "phrase": "in controlling water carriage",
+    "frequency": 4,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 278,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 28,
+    "phrase": "can increase the levels",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 279,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 29,
+    "phrase": "increase in the number",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 280,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 30,
+    "phrase": "effects of global warming",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 281,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 31,
+    "phrase": "evidence to support it",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 282,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 32,
+    "phrase": "other living beings such",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 283,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 33,
+    "phrase": "living beings such as",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 284,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 34,
+    "phrase": "beings such as fungi",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 285,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 35,
+    "phrase": "study has found that",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 286,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 36,
+    "phrase": "however the association does",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 287,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 37,
+    "phrase": "result of the warming",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 288,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 38,
+    "phrase": "ages the printing process",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 289,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 39,
+    "phrase": "printing process which was",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 290,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 40,
+    "phrase": "effect on the lives",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 291,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 41,
+    "phrase": "petrified body parts such",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 292,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 42,
+    "phrase": "body parts such as",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 293,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 43,
+    "phrase": "parts such as bones",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 294,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 44,
+    "phrase": "caused by air pollution",
+    "frequency": 2,
+    "score": 10,
+    "is_useful": null
+  },
+  {
+    "id": 295,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 45,
+    "phrase": "ngi li zce fen",
+    "frequency": 6,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 296,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 46,
+    "phrase": "li zce fen bi",
+    "frequency": 6,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 297,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 47,
+    "phrase": "of the th century",
+    "frequency": 6,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 298,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 48,
+    "phrase": "in the late th",
+    "frequency": 3,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 299,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 49,
+    "phrase": "in groundwater which could",
+    "frequency": 3,
+    "score": 9,
+    "is_useful": null
+  },
+  {
+    "id": 300,
+    "list_type": "filtered",
+    "ngram_type": "quadgram",
+    "rank": 50,
+    "phrase": "in the northern hemisphere",
+    "frequency": 3,
+    "score": 9,
+    "is_useful": null
+  }
+]

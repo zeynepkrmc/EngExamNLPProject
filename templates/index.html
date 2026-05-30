@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="YÖKDİL Sınavı N-Gram Tabanlı NLP Analiz ve Tahmin Sistemi">
-    <title>YÖKDİL NLP — N-Gram Analiz Sistemi</title>
+    <meta name="description" content="YÖKDİL Science N-Gram Tabanlı NLP Analiz ve Öğrenme Sistemi">
+    <title>YÖKDİL NLP — N-Gram Phrase Learning System</title>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,13 +12,16 @@
 
     <!-- Bootstrap 5 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
     <!-- Bootstrap Icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 
     <link rel="stylesheet" href="/static/css/style.css">
 </head>
+
 <body>
 
     <!-- ═══ NAVBAR ═══ -->
@@ -27,26 +30,44 @@
             <a class="navbar-brand" href="#">
                 <i class="bi bi-mortarboard-fill me-2"></i>YÖKDİL NLP
             </a>
+
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navContent">
                 <span class="navbar-toggler-icon"></span>
             </button>
+
             <div class="collapse navbar-collapse" id="navContent">
                 <ul class="navbar-nav ms-auto">
+
                     <li class="nav-item">
                         <a class="nav-link active" href="#" data-tab="analyze" id="navAnalyze">
                             <i class="bi bi-search me-1"></i>Metin Analizi
                         </a>
                     </li>
+
                     <li class="nav-item">
-                        <a class="nav-link" href="#" data-tab="cloze" id="navCloze">
-                            <i class="bi bi-pencil-square me-1"></i>Cloze Test
+                        <a class="nav-link" href="#" data-tab="phrases" id="navPhrases">
+                            <i class="bi bi-journal-text me-1"></i>Phrase Guide
                         </a>
                     </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" data-tab="practice" id="navPractice">
+                            <i class="bi bi-patch-question me-1"></i>N-Gram Practice
+                        </a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#" data-tab="cloze" id="navCloze">
+                            <i class="bi bi-pencil-square me-1"></i>Real Cloze
+                        </a>
+                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="#" data-tab="results" id="navResults">
                             <i class="bi bi-bar-chart-line me-1"></i>Sonuçlar
                         </a>
                     </li>
+
                 </ul>
             </div>
         </div>
@@ -55,29 +76,43 @@
     <!-- ═══ HERO SECTION ═══ -->
     <header class="hero-section" id="heroSection">
         <div class="container text-center">
-            <div class="hero-badge">N-Gram Tabanlı NLP</div>
-            <h1 class="hero-title">YÖKDİL Sınav Analiz Sistemi</h1>
+
+            <div class="hero-badge">N-Gram Based Academic Phrase Learning</div>
+
+            <h1 class="hero-title">YÖKDİL Science NLP Sistemi</h1>
+
             <p class="hero-subtitle">
-                Akademik İngilizce sınav metinlerinden oluşturulan corpus üzerinde
-                N-gram tabanlı boşluk doldurma tahmin algoritması
+                YÖKDİL Science sınav metinlerinden çıkarılan bigram, trigram ve quadgram
+                akademik kelime gruplarıyla öğrencilere phrase-based çalışma rehberi sunar.
             </p>
+
             <div class="hero-stats" id="heroStats">
+
                 <div class="stat-card">
                     <span class="stat-value" id="statCorpus">—</span>
                     <span class="stat-label">Corpus Kelime</span>
                 </div>
+
                 <div class="stat-card">
                     <span class="stat-value" id="statBigram">—</span>
                     <span class="stat-label">Bigram</span>
                 </div>
+
                 <div class="stat-card">
                     <span class="stat-value" id="statTrigram">—</span>
                     <span class="stat-label">Trigram</span>
                 </div>
+
+                <div class="stat-card">
+                    <span class="stat-value" id="statQuadgram">—</span>
+                    <span class="stat-label">Quadgram</span>
+                </div>
+
                 <div class="stat-card">
                     <span class="stat-value" id="statQuestions">—</span>
-                    <span class="stat-label">Test Sorusu</span>
+                    <span class="stat-label">Real Cloze</span>
                 </div>
+
             </div>
         </div>
     </header>
@@ -95,19 +130,27 @@
             <div class="row g-4">
                 <div class="col-lg-6">
                     <div class="glass-card">
-                        <h5 class="card-title"><i class="bi bi-textarea-t me-2"></i>Metin Girişi</h5>
+                        <h5 class="card-title">
+                            <i class="bi bi-textarea-t me-2"></i>Metin Girişi
+                        </h5>
+
                         <textarea class="form-control custom-textarea" id="inputText" rows="10"
                             placeholder="Analiz edilecek İngilizce metni buraya yapıştırın...&#10;&#10;Örnek: The process of photosynthesis involves the conversion of light energy into chemical energy, which is essential for plant growth and development."></textarea>
+
                         <button class="btn btn-primary btn-analyze mt-3" id="btnAnalyze">
                             <i class="bi bi-cpu me-2"></i>Analiz Et
                         </button>
                     </div>
                 </div>
+
                 <div class="col-lg-6">
                     <div class="glass-card" id="analysisResults" style="display:none;">
-                        <h5 class="card-title"><i class="bi bi-clipboard-data me-2"></i>Analiz Sonuçları</h5>
+                        <h5 class="card-title">
+                            <i class="bi bi-clipboard-data me-2"></i>Analiz Sonuçları
+                        </h5>
                         <div id="analysisContent"></div>
                     </div>
+
                     <div class="glass-card text-center text-muted" id="analysisPlaceholder">
                         <i class="bi bi-arrow-left" style="font-size:2rem;"></i>
                         <p class="mt-2">Analiz sonuçları burada görünecek</p>
@@ -116,37 +159,197 @@
             </div>
         </section>
 
-        <!-- ── TAB 2: CLOZE TEST ── -->
+        <!-- ── TAB 2: PHRASE GUIDE ── -->
+        <section class="tab-panel" id="panelPhrases">
+            <div class="section-header">
+                <h2><i class="bi bi-journal-text me-2"></i>Student Phrase Guide</h2>
+                <p>
+                    Corpus'tan çıkarılan en faydalı akademik bigram, trigram ve quadgram kelime grupları.
+                </p>
+            </div>
+
+            <div class="glass-card mb-4">
+                <div class="row g-3 align-items-end">
+
+                    <div class="col-md-4">
+                        <label class="form-label">N-Gram Türü</label>
+                        <select class="form-select" id="phraseN">
+                            <option value="2">Bigram</option>
+                            <option value="3">Trigram</option>
+                            <option value="4">Quadgram</option>
+                        </select>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label class="form-label">Sonuç Sayısı</label>
+                        <select class="form-select" id="phraseTopK">
+                            <option value="10">Top 10</option>
+                            <option value="20">Top 20</option>
+                            <option value="30" selected>Top 30</option>
+                            <option value="50">Top 50</option>
+                        </select>
+                    </div>
+
+                    <div class="col-md-4">
+                        <button class="btn btn-primary w-100" id="btnLoadPhrases">
+                            <i class="bi bi-list-stars me-2"></i>Phrase Listesini Getir
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="glass-card">
+                <h5 class="card-title">
+                    <i class="bi bi-stars me-2"></i>Useful Academic Phrases
+                </h5>
+
+                <div id="phrasesPlaceholder" class="text-muted text-center py-4">
+                    Phrase listesi burada görünecek.
+                </div>
+
+                <div class="table-responsive" id="phrasesTableWrapper" style="display:none;">
+                    <table class="table table-dark table-hover">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Phrase</th>
+                                <th>Type</th>
+                                <th>Frequency</th>
+                                <th>Score</th>
+                            </tr>
+                        </thead>
+                        <tbody id="phrasesTableBody"></tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- ── TAB 3: N-GRAM PRACTICE ── -->
+        <section class="tab-panel" id="panelPractice">
+            <div class="section-header">
+                <h2><i class="bi bi-patch-question me-2"></i>N-Gram Practice Test</h2>
+                <p>
+                    Çıkarılan bigram, trigram ve quadgram phrase'lerden oluşturulan 10 veya 50 soruluk çalışma testi.
+                </p>
+            </div>
+
+            <div class="glass-card mb-4">
+                <div class="row g-3 align-items-end">
+
+                    <div class="col-md-4">
+                        <label class="form-label">Test Boyutu</label>
+                        <select class="form-select" id="practiceSize">
+                            <option value="10" selected>10 Soruluk Mini Test</option>
+                            <option value="50">50 Soruluk Full Test</option>
+                        </select>
+                    </div>
+
+                    <div class="col-md-4">
+                        <button class="btn btn-primary w-100" id="btnStartPractice">
+                            <i class="bi bi-play-circle me-2"></i>Teste Başla
+                        </button>
+                    </div>
+
+                    <div class="col-md-4">
+                        <button class="btn btn-success w-100" id="btnSubmitPractice" style="display:none;">
+                            <i class="bi bi-check2-circle me-2"></i>Cevapları Kontrol Et
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+
+            <div id="practiceArea"></div>
+
+            <div class="glass-card mt-4" id="practiceResultArea" style="display:none;">
+                <h5 class="card-title">
+                    <i class="bi bi-clipboard-check me-2"></i>Practice Sonucu
+                </h5>
+
+                <div class="row g-4 mb-3">
+
+                    <div class="col-md-4">
+                        <div class="metric-value" id="practiceScore">—</div>
+                        <div class="metric-label">Skor</div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="metric-value" id="practiceCorrect">—</div>
+                        <div class="metric-label">Doğru</div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="metric-value" id="practiceWrong">—</div>
+                        <div class="metric-label">Yanlış</div>
+                    </div>
+
+                </div>
+
+                <div class="table-responsive">
+                    <table class="table table-dark table-hover">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Soru</th>
+                                <th>Sizin Cevap</th>
+                                <th>Doğru</th>
+                                <th>Phrase</th>
+                                <th>Sonuç</th>
+                            </tr>
+                        </thead>
+                        <tbody id="practiceResultBody"></tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- ── TAB 4: REAL CLOZE TEST ── -->
         <section class="tab-panel" id="panelCloze">
             <div class="section-header">
-                <h2><i class="bi bi-pencil-square me-2"></i>Cloze Test — Boşluk Doldurma</h2>
-                <p>Soruyu okuyun, tahmininizi yapın. Model de kendi tahminini gösterecek.</p>
+                <h2><i class="bi bi-pencil-square me-2"></i>Real Cloze Test — Boşluk Doldurma</h2>
+                <p>
+                    PDF'lerden çıkarılmış gerçek YÖKDİL cloze sorularını çözün.
+                    Model de kendi tahminini gösterecek.
+                </p>
             </div>
 
             <!-- Skor Tablosu -->
             <div class="score-board">
+
                 <div class="score-item">
                     <span class="score-label">Soru</span>
                     <span class="score-value" id="scoreQuestion">0 / 0</span>
                 </div>
+
                 <div class="score-item user-score">
-                    <span class="score-label"><i class="bi bi-person-fill me-1"></i>Siz</span>
+                    <span class="score-label">
+                        <i class="bi bi-person-fill me-1"></i>Siz
+                    </span>
                     <span class="score-value" id="scoreUser">0</span>
                 </div>
+
                 <div class="score-item model-score">
-                    <span class="score-label"><i class="bi bi-robot me-1"></i>Model</span>
+                    <span class="score-label">
+                        <i class="bi bi-robot me-1"></i>Model
+                    </span>
                     <span class="score-value" id="scoreModel">0</span>
                 </div>
+
             </div>
 
             <!-- Soru Kartı -->
             <div class="glass-card question-card" id="questionCard">
                 <div class="question-source" id="questionSource"></div>
+
                 <div class="question-text" id="questionText">
                     Sorular yükleniyor...
                 </div>
+
                 <div class="options-grid" id="optionsGrid"></div>
+
                 <div class="feedback-area" id="feedbackArea" style="display:none;"></div>
+
                 <div class="text-center mt-3">
                     <button class="btn btn-outline-light btn-next" id="btnNext" style="display:none;">
                         Sonraki Soru <i class="bi bi-arrow-right ms-1"></i>
@@ -155,11 +358,13 @@
             </div>
         </section>
 
-        <!-- ── TAB 3: SONUÇLAR ── -->
+        <!-- ── TAB 5: SONUÇLAR ── -->
         <section class="tab-panel" id="panelResults">
             <div class="section-header">
                 <h2><i class="bi bi-bar-chart-line me-2"></i>Model Performansı</h2>
-                <p>N-gram modelinin test seti üzerindeki başarı metrikleri</p>
+                <p>
+                    Real cloze test seti üzerinde n-gram modelinin başarı metrikleri.
+                </p>
             </div>
 
             <div class="text-center mb-4">
@@ -169,59 +374,81 @@
             </div>
 
             <div id="testResultsArea" style="display:none;">
+
                 <div class="row g-4 mb-4">
+
                     <div class="col-md-4">
                         <div class="glass-card text-center">
                             <div class="metric-value" id="metricAccuracy">—</div>
                             <div class="metric-label">Accuracy</div>
                         </div>
                     </div>
+
                     <div class="col-md-4">
                         <div class="glass-card text-center">
                             <div class="metric-value" id="metricCorrect">—</div>
                             <div class="metric-label">Doğru / Toplam</div>
                         </div>
                     </div>
+
                     <div class="col-md-4">
                         <div class="glass-card text-center">
                             <div class="metric-value" id="metricWrong">—</div>
                             <div class="metric-label">Yanlış</div>
                         </div>
                     </div>
+
                 </div>
 
                 <div class="row g-4 mb-4">
+
                     <div class="col-md-6">
                         <div class="glass-card">
-                            <h5 class="card-title"><i class="bi bi-pie-chart me-2"></i>Doğru / Yanlış Dağılımı</h5>
+                            <h5 class="card-title">
+                                <i class="bi bi-pie-chart me-2"></i>Doğru / Yanlış Dağılımı
+                            </h5>
                             <canvas id="chartPie" height="250"></canvas>
                         </div>
                     </div>
+
                     <div class="col-md-6">
                         <div class="glass-card">
-                            <h5 class="card-title"><i class="bi bi-layers me-2"></i>N-Gram Katkı Dağılımı</h5>
+                            <h5 class="card-title">
+                                <i class="bi bi-layers me-2"></i>N-Gram Katkı Dağılımı
+                            </h5>
                             <canvas id="chartNgram" height="250"></canvas>
                         </div>
                     </div>
+
                 </div>
 
                 <div class="row g-4 mb-4">
+
                     <div class="col-md-6">
                         <div class="glass-card">
-                            <h5 class="card-title"><i class="bi bi-bar-chart me-2"></i>Şık Dağılımı: Tahmin vs Doğru</h5>
+                            <h5 class="card-title">
+                                <i class="bi bi-bar-chart me-2"></i>Şık Dağılımı: Tahmin vs Doğru
+                            </h5>
                             <canvas id="chartDistribution" height="250"></canvas>
                         </div>
                     </div>
+
                     <div class="col-md-6">
                         <div class="glass-card">
-                            <h5 class="card-title"><i class="bi bi-graph-up me-2"></i>Soru Bazlı Sonuçlar</h5>
+                            <h5 class="card-title">
+                                <i class="bi bi-graph-up me-2"></i>Soru Bazlı Sonuçlar
+                            </h5>
                             <canvas id="chartBar" height="250"></canvas>
                         </div>
                     </div>
+
                 </div>
 
                 <div class="glass-card mt-4">
-                    <h5 class="card-title"><i class="bi bi-table me-2"></i>Detaylı Sonuç Tablosu</h5>
+                    <h5 class="card-title">
+                        <i class="bi bi-table me-2"></i>Detaylı Sonuç Tablosu
+                    </h5>
+
                     <div class="table-responsive">
                         <table class="table table-dark table-hover" id="resultsTable">
                             <thead>
@@ -237,20 +464,25 @@
                         </table>
                     </div>
                 </div>
+
             </div>
         </section>
+
     </main>
 
     <!-- ═══ FOOTER ═══ -->
     <footer class="site-footer">
         <div class="container text-center">
-            <p>YÖKDİL NLP Analiz Sistemi — N-Gram Tabanlı Boşluk Doldurma Tahmini</p>
+            <p>YÖKDİL NLP Analiz Sistemi — N-Gram Tabanlı Phrase Learning ve Practice Module</p>
             <p class="small text-muted">Doğal Dil İşleme Dersi Projesi</p>
         </div>
     </footer>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- App JS -->
     <script src="/static/js/app.js"></script>
+
 </body>
 </html>

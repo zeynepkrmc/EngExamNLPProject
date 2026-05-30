@@ -14,7 +14,11 @@
       "E": "replacement"
     },
     "correct_answer": "B",
-    "original_id": 1
+    "original_id": 1,
+    "dataset_original_id": 1,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 2,
@@ -31,7 +35,11 @@
       "E": "appeal"
     },
     "correct_answer": "C",
-    "original_id": 2
+    "original_id": 2,
+    "dataset_original_id": 2,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 3,
@@ -48,7 +56,11 @@
       "E": "trivial"
     },
     "correct_answer": "A",
-    "original_id": 3
+    "original_id": 3,
+    "dataset_original_id": 3,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 4,
@@ -65,7 +77,11 @@
       "E": "irresponsibly"
     },
     "correct_answer": "D",
-    "original_id": 4
+    "original_id": 4,
+    "dataset_original_id": 4,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 5,
@@ -82,7 +98,11 @@
       "E": "contains"
     },
     "correct_answer": "E",
-    "original_id": 5
+    "original_id": 5,
+    "dataset_original_id": 5,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 6,
@@ -99,7 +119,11 @@
       "E": "figure out"
     },
     "correct_answer": "E",
-    "original_id": 6
+    "original_id": 6,
+    "dataset_original_id": 6,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 7,
@@ -116,7 +140,11 @@
       "E": "will be taking up / had existed"
     },
     "correct_answer": "B",
-    "original_id": 7
+    "original_id": 7,
+    "dataset_original_id": 7,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
     "id": 8,
@@ -133,7 +161,11 @@
       "E": "having inhabited / will always form"
     },
     "correct_answer": "D",
-    "original_id": 8
+    "original_id": 8,
+    "dataset_original_id": 8,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
     "id": 9,
@@ -150,7 +182,11 @@
       "E": "for / along"
     },
     "correct_answer": "D",
-    "original_id": 9
+    "original_id": 9,
+    "dataset_original_id": 9,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
     "id": 10,
@@ -167,7 +203,11 @@
       "E": "at / with"
     },
     "correct_answer": "C",
-    "original_id": 10
+    "original_id": 10,
+    "dataset_original_id": 10,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
     "id": 11,
@@ -184,7 +224,11 @@
       "E": "on / from"
     },
     "correct_answer": "A",
-    "original_id": 11
+    "original_id": 11,
+    "dataset_original_id": 11,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
     "id": 12,
@@ -201,7 +245,11 @@
       "E": "accordingly"
     },
     "correct_answer": "D",
-    "original_id": 12
+    "original_id": 12,
+    "dataset_original_id": 12,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 13,
@@ -218,7 +266,11 @@
       "E": "Just as"
     },
     "correct_answer": "B",
-    "original_id": 13
+    "original_id": 13,
+    "dataset_original_id": 13,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 14,
@@ -235,7 +287,11 @@
       "E": "until"
     },
     "correct_answer": "B",
-    "original_id": 14
+    "original_id": 14,
+    "dataset_original_id": 14,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 15,
@@ -249,10 +305,14 @@
       "B": "by the time",
       "C": "provided that",
       "D": "since",
-      "E": "so that "
+      "E": "so that"
     },
     "correct_answer": "A",
-    "original_id": 15
+    "original_id": 15,
+    "dataset_original_id": 15,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 16,
@@ -269,7 +329,11 @@
       "E": "still"
     },
     "correct_answer": "B",
-    "original_id": 16
+    "original_id": 16,
+    "dataset_original_id": 16,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 17,
@@ -286,7 +350,11 @@
       "E": "Unlike"
     },
     "correct_answer": "B",
-    "original_id": 17
+    "original_id": 17,
+    "dataset_original_id": 17,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 18,
@@ -303,7 +371,11 @@
       "E": "In the absence of"
     },
     "correct_answer": "B",
-    "original_id": 18
+    "original_id": 18,
+    "dataset_original_id": 18,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
     "id": 19,
@@ -320,27 +392,14 @@
       "E": "the more / the more"
     },
     "correct_answer": "D",
-    "original_id": 19
+    "original_id": 19,
+    "dataset_original_id": 19,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
     "id": 20,
-    "source": "YOKDIL1_Ingilizce_fen (1).pdf",
-    "question_type": "real_cloze",
-    "question_text": "The author's attitude towards the emotional reactions of the subjects to the robot in the test is ----.",
-    "left_context": "The author's attitude towards the emotional reactions of the subjects to the robot in the test is",
-    "right_context": ".",
-    "options": {
-      "A": "Sarcastic",
-      "B": "Pessimistic",
-      "C": "Overcritical",
-      "D": "Favouring",
-      "E": "Annoying"
-    },
-    "correct_answer": "D",
-    "original_id": 80
-  },
-  {
-    "id": 21,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Scientific discoveries may be made simultaneously by scientists working independently, but almost every ---- depends on previous work and theories.",
@@ -354,10 +413,14 @@
       "E": "decline"
     },
     "correct_answer": "D",
-    "original_id": 1
+    "original_id": 1,
+    "dataset_original_id": 21,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 22,
+    "id": 21,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Artificial selection is the conscious attempt by human beings to change the environments or ---- of other organisms so as to alter the evolution of these organisms.",
@@ -371,10 +434,14 @@
       "E": "causes"
     },
     "correct_answer": "B",
-    "original_id": 2
+    "original_id": 2,
+    "dataset_original_id": 22,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 23,
+    "id": 22,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Taxonomy is the area of biological science comprising three ---- but highly interrelated disciplines: classification, naming and identification of organisms.",
@@ -388,10 +455,14 @@
       "E": "consistent"
     },
     "correct_answer": "C",
-    "original_id": 3
+    "original_id": 3,
+    "dataset_original_id": 23,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 24,
+    "id": 23,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "A volcanic catastrophe is often thousands of years in the making – many volcanoes gain strength for millennia before an ---- powerful explosion occurs.",
@@ -405,10 +476,14 @@
       "E": "elaborately"
     },
     "correct_answer": "A",
-    "original_id": 4
+    "original_id": 4,
+    "dataset_original_id": 24,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 25,
+    "id": 24,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Swifts, one of the fastest small birds, can be ---- from the superficially-similar African swallows by their characteristic style of flight.",
@@ -422,10 +497,14 @@
       "E": "obtained"
     },
     "correct_answer": "D",
-    "original_id": 5
+    "original_id": 5,
+    "dataset_original_id": 25,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 26,
+    "id": 25,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Bioinformatics is a new field that ---- the development and application of computational methods to organise, integrate, and analyse gene-related data.",
@@ -439,10 +518,14 @@
       "E": "puts off"
     },
     "correct_answer": "A",
-    "original_id": 6
+    "original_id": 6,
+    "dataset_original_id": 26,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 27,
+    "id": 26,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "At the end of the 17th century, Isaac Newton ---- his laws of motion and gravity, making science more precise and mathematical than it ---- before.",
@@ -456,10 +539,14 @@
       "E": "had been setting down / would be"
     },
     "correct_answer": "C",
-    "original_id": 7
+    "original_id": 7,
+    "dataset_original_id": 27,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 28,
+    "id": 27,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Over the past 100 years, the relativity theories and quantum mechanics ---- major triumphs at the cost of us, ---- our classic conception of time.",
@@ -473,10 +560,14 @@
       "E": "were celebrated / to be lost"
     },
     "correct_answer": "A",
-    "original_id": 8
+    "original_id": 8,
+    "dataset_original_id": 28,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 29,
+    "id": 28,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "The Enlightenment period saw astronomical observatories grow ---- size and number, ---- a growing emphasis on the housing of larger telescopes.",
@@ -490,10 +581,14 @@
       "E": "in / with"
     },
     "correct_answer": "E",
-    "original_id": 9
+    "original_id": 9,
+    "dataset_original_id": 29,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 30,
+    "id": 29,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "The boiling point of a liquid substance is the temperature ---- which the vapour pressure of the liquid equals the external pressure ---- the liquid.",
@@ -507,10 +602,14 @@
       "E": "in / under"
     },
     "correct_answer": "C",
-    "original_id": 10
+    "original_id": 10,
+    "dataset_original_id": 30,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 31,
+    "id": 30,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "After 13 years in Saturn’s orbit, the Cassini spacecraft ended its mission in September 2017 ---- making a planned dive ---- the planet’s atmosphere.",
@@ -524,10 +623,14 @@
       "E": "from / through"
     },
     "correct_answer": "D",
-    "original_id": 11
+    "original_id": 11,
+    "dataset_original_id": 31,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 32,
+    "id": 31,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- the Earth's long history, scientists divide its 4.5-billion-year existence using the geologic time scale, which makes this history manageable.",
@@ -541,10 +644,14 @@
       "E": "Similar to"
     },
     "correct_answer": "D",
-    "original_id": 12
+    "original_id": 12,
+    "dataset_original_id": 32,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 33,
+    "id": 32,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "It takes up to five years ---- a cocoa tree bears fruit, and it then produces around 1,000 beans a year, but that is only enough for one kilogramme of chocolate.",
@@ -558,10 +665,14 @@
       "E": "as soon as"
     },
     "correct_answer": "C",
-    "original_id": 13
+    "original_id": 13,
+    "dataset_original_id": 33,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 34,
+    "id": 33,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- continental islands are part of their nearby continental land mass, oceanic islands are the result of undersea volcanoes or tectonic plate activity pushing up the sea floor.",
@@ -575,10 +686,14 @@
       "E": "As long as"
     },
     "correct_answer": "C",
-    "original_id": 14
+    "original_id": 14,
+    "dataset_original_id": 34,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 35,
+    "id": 34,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Like people, animals can also have reactions to pollen and other environmental allergens, ---- they have different symptoms than we do and should be treated differently as well.",
@@ -589,13 +704,17 @@
       "B": "once",
       "C": "but",
       "D": "so",
-      "E": "since 3"
+      "E": "since"
     },
     "correct_answer": "C",
-    "original_id": 15
+    "original_id": 15,
+    "dataset_original_id": 35,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 36,
+    "id": 35,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "The solid core inside the Moon is similar to that of Earth; ----, the Moon’s core is gradually cooling, which creates cracks on the surface, in contrast to the Earth’s warming core.",
@@ -609,10 +728,14 @@
       "E": "in brief"
     },
     "correct_answer": "A",
-    "original_id": 16
+    "original_id": 16,
+    "dataset_original_id": 36,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 37,
+    "id": 36,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Atmosphere observation includes such well-known instruments as the thermometer and barometer ---- less familiar devices such as the radiosonde.",
@@ -626,10 +749,14 @@
       "E": "as well as"
     },
     "correct_answer": "E",
-    "original_id": 17
+    "original_id": 17,
+    "dataset_original_id": 37,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 38,
+    "id": 37,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "According to a study, a common species of wasp appears to be becoming smaller in number ---- the ongoing global rise in temperatures.",
@@ -643,10 +770,14 @@
       "E": "in pursuit of"
     },
     "correct_answer": "C",
-    "original_id": 18
+    "original_id": 18,
+    "dataset_original_id": 38,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 39,
+    "id": 38,
     "source": "YOKDIL1_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Studies have shown that flying animals manage well ---- due to the fact that they can escape predators by taking flight, ---- because flight has supplied them with a number of advantageous qualities.",
@@ -660,27 +791,14 @@
       "E": "as / as"
     },
     "correct_answer": "D",
-    "original_id": 19
+    "original_id": 19,
+    "dataset_original_id": 39,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 40,
-    "source": "YOKDIL1_Ingilizce_fen.pdf",
-    "question_type": "real_cloze",
-    "question_text": "It is stated in the passage that it is a challenge for many teachers to ----.",
-    "left_context": "It is stated in the passage that it is a challenge for many teachers to",
-    "right_context": ".",
-    "options": {
-      "A": "prepare students for high-tech careers",
-      "B": "adapt themselves to technological changes",
-      "C": "use videogames effectively in class",
-      "D": "attract and keep students' attention and interest",
-      "E": "help students gain new learning strategies"
-    },
-    "correct_answer": "D",
-    "original_id": 76
-  },
-  {
-    "id": 41,
+    "id": 39,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "Beginning in the 1970s, a number of highly-publicised hazardous waste crises led public health authorities to recognise hazardous wastes as a significant ---- to the environment.",
@@ -694,10 +812,14 @@
       "E": "investment"
     },
     "correct_answer": "C",
-    "original_id": 1
+    "original_id": 1,
+    "dataset_original_id": 41,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 42,
+    "id": 40,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "Like most creatures of wetlands, certain species of toads have suffered large population ---- through losses of their natural habitats.",
@@ -711,10 +833,14 @@
       "E": "productions"
     },
     "correct_answer": "C",
-    "original_id": 2
+    "original_id": 2,
+    "dataset_original_id": 42,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 43,
+    "id": 41,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "Engineers have long recognised that the movement of tidal currents might be an environmentally safe and ---- source of power for human use.",
@@ -728,10 +854,14 @@
       "E": "irregular"
     },
     "correct_answer": "B",
-    "original_id": 3
+    "original_id": 3,
+    "dataset_original_id": 43,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 44,
+    "id": 42,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "When Venus passed in front of the Sun in 1769, astronomers were able to measure the distance from Earth to the Sun ---- for the first time.",
@@ -745,10 +875,14 @@
       "E": "slightly"
     },
     "correct_answer": "D",
-    "original_id": 4
+    "original_id": 4,
+    "dataset_original_id": 44,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 45,
+    "id": 43,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "The Italian scientist Spallanzani was the first to ---- the mystery of how bats could see and hunt in total darkness with some ingenious experiments.",
@@ -762,10 +896,14 @@
       "E": "magnify"
     },
     "correct_answer": "B",
-    "original_id": 5
+    "original_id": 5,
+    "dataset_original_id": 45,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 46,
+    "id": 44,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "The term bacterial growth generally ---- growth of a population of bacteria rather than growth of an individual cell.",
@@ -779,10 +917,14 @@
       "E": "gets through"
     },
     "correct_answer": "B",
-    "original_id": 6
+    "original_id": 6,
+    "dataset_original_id": 46,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 47,
+    "id": 45,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "Although humans ---- Mercury from Earth for thousands of years, its close proximity to the Sun ----it difficult for astronomers to learn much about the planet.",
@@ -796,10 +938,14 @@
       "E": "were observing / had made"
     },
     "correct_answer": "D",
-    "original_id": 7
+    "original_id": 7,
+    "dataset_original_id": 47,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 48,
+    "id": 46,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "In 1957, the Soviet Union ---- the first man-made object in orbit around the Earth, and since then, numerous launch vehicles ---- to improve the reliability and cost of placing objects in orbit.",
@@ -813,10 +959,14 @@
       "E": "was placing / were developed"
     },
     "correct_answer": "C",
-    "original_id": 8
+    "original_id": 8,
+    "dataset_original_id": 48,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 49,
+    "id": 47,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "Because technology should not be confused ---- science, philosophy of technology should be separated ---- philosophy of science.",
@@ -830,10 +980,14 @@
       "E": "on / without"
     },
     "correct_answer": "B",
-    "original_id": 9
+    "original_id": 9,
+    "dataset_original_id": 49,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 50,
+    "id": 48,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "In the United States, thunderstorms usually occur ---- summer months, when large amounts of tropical maritime air move ---- the country.",
@@ -847,10 +1001,14 @@
       "E": "during / across"
     },
     "correct_answer": "E",
-    "original_id": 10
+    "original_id": 10,
+    "dataset_original_id": 50,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 51,
+    "id": 49,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "The Turing Award, considered the Nobel Prize in computing, is awarded annually ---- an individual who has made a lasting contribution of major technical importance ---- the field of computer science.",
@@ -864,10 +1022,14 @@
       "E": "to / in"
     },
     "correct_answer": "E",
-    "original_id": 11
+    "original_id": 11,
+    "dataset_original_id": 51,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 52,
+    "id": 50,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "Astronauts in microgravity environments such as the International Space Station have to fix themselves into a secured sleeping bag; ----, they would just float about.",
@@ -881,10 +1043,14 @@
       "E": "otherwise"
     },
     "correct_answer": "E",
-    "original_id": 12
+    "original_id": 12,
+    "dataset_original_id": 52,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 53,
+    "id": 51,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "DNA has emerged as a potential way to store digital information in recent years, ---- it comes with a significant problem: the molecule is so fragile that individual DNA strands rapidly degrade.",
@@ -898,10 +1064,14 @@
       "E": "furthermore"
     },
     "correct_answer": "D",
-    "original_id": 13
+    "original_id": 13,
+    "dataset_original_id": 53,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 54,
+    "id": 52,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "---- climate change intensifies, architects, designers and scientists are devising better ways to deal with almost anything nature throws on our way.",
@@ -915,10 +1085,14 @@
       "E": "Unless"
     },
     "correct_answer": "C",
-    "original_id": 14
+    "original_id": 14,
+    "dataset_original_id": 54,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 55,
+    "id": 53,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "No single individual can be given complete credit for the development of radio astronomy; ----, Karl Jansky has long been considered as one of the most important pioneers in the field.",
@@ -932,10 +1106,14 @@
       "E": "similarly"
     },
     "correct_answer": "B",
-    "original_id": 15
+    "original_id": 15,
+    "dataset_original_id": 55,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 56,
+    "id": 54,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "In simple animals, the brain simply functions like a switchboard passing information to muscles, ---- in more advanced forms, particularly vertebrates, a more analytical brain coordinates complex behaviours.",
@@ -949,10 +1127,14 @@
       "E": "now that"
     },
     "correct_answer": "D",
-    "original_id": 16
+    "original_id": 16,
+    "dataset_original_id": 56,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 57,
+    "id": 55,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "Acetone is produced in many parts of the world in great quantities ---- its importance as a solvent and as a starting material for several chemical processes.",
@@ -966,10 +1148,14 @@
       "E": "such as"
     },
     "correct_answer": "C",
-    "original_id": 17
+    "original_id": 17,
+    "dataset_original_id": 57,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 58,
+    "id": 56,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "---- the apparent impossibility of answering all philosophical questions through science, quite a few contemporary philosophers do believe that science is the only legitimate path to knowledge.",
@@ -983,10 +1169,14 @@
       "E": "For the sake of"
     },
     "correct_answer": "D",
-    "original_id": 18
+    "original_id": 18,
+    "dataset_original_id": 58,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 59,
+    "id": 57,
     "source": "YOKDIL2_Ingilizce_fen (1).pdf",
     "question_type": "real_cloze",
     "question_text": "The famous astronomer Carl Sagan was ---- interested in whether life exists elsewhere, ---- in whether intelligent beings might exist.",
@@ -1000,10 +1190,14 @@
       "E": "no sooner / than"
     },
     "correct_answer": "A",
-    "original_id": 19
+    "original_id": 19,
+    "dataset_original_id": 59,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 60,
+    "id": 58,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "At just the right distance from the Sun for water to exist in liquid form on the surface, Earth has vast oceans, an oxygen-rich atmosphere, and a huge ---- of life forms from bacteria to plants and animals.",
@@ -1017,10 +1211,14 @@
       "E": "identification"
     },
     "correct_answer": "A",
-    "original_id": 1
+    "original_id": 1,
+    "dataset_original_id": 60,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 61,
+    "id": 59,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Titanium is the element most commonly added to steel because it increases its strength and ---- to corrosion.",
@@ -1034,10 +1232,14 @@
       "E": "resistance"
     },
     "correct_answer": "E",
-    "original_id": 2
+    "original_id": 2,
+    "dataset_original_id": 61,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 62,
+    "id": 60,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "From its invention until the telephone became a ---- system, the telegraph was the standard means of communicating both between and within metropolitan areas.",
@@ -1051,10 +1253,14 @@
       "E": "repetitive"
     },
     "correct_answer": "D",
-    "original_id": 3
+    "original_id": 3,
+    "dataset_original_id": 62,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 63,
+    "id": 61,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Global warming is a very complex issue that one cannot ---- understand without looking at extensive data and studying the changes to climate systems.",
@@ -1068,10 +1274,14 @@
       "E": "desperately"
     },
     "correct_answer": "D",
-    "original_id": 4
+    "original_id": 4,
+    "dataset_original_id": 63,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 64,
+    "id": 62,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "If our petroleum-based civilisation keeps burning fuel at current or increased rates, some scientists ---- that the concentration of carbon dioxide in the earth's air will double the preindustrial levels by the year 2030.",
@@ -1085,10 +1295,14 @@
       "E": "appreciate"
     },
     "correct_answer": "C",
-    "original_id": 5
+    "original_id": 5,
+    "dataset_original_id": 64,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 65,
+    "id": 63,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "The very earliest explorations of the sea ---- human endurance, that is, how deep a person could dive.",
@@ -1102,10 +1316,14 @@
       "E": "worked out"
     },
     "correct_answer": "D",
-    "original_id": 6
+    "original_id": 6,
+    "dataset_original_id": 65,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 66,
+    "id": 64,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "In the past 100 years, astrophysicists ---- that space-time ---- at an accelerating rate and that the universe is about 14 billion years old.",
@@ -1119,10 +1337,14 @@
       "E": "deduce / had expanded"
     },
     "correct_answer": "B",
-    "original_id": 7
+    "original_id": 7,
+    "dataset_original_id": 66,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 67,
+    "id": 65,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Evidence that drinkable water once flowed on Mars, as ---- by NASA’s Opportunity rover, suggests that the planet ---- life in the past.",
@@ -1136,10 +1358,14 @@
       "E": "to have been found / would harbour"
     },
     "correct_answer": "C",
-    "original_id": 8
+    "original_id": 8,
+    "dataset_original_id": 67,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 68,
+    "id": 66,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "An organism’s metabolism is a set of chemical processes by which it obtains energy ---- the nutrients it consumes and then uses this energy ---- basic life functions.",
@@ -1153,10 +1379,14 @@
       "E": "to / over"
     },
     "correct_answer": "C",
-    "original_id": 9
+    "original_id": 9,
+    "dataset_original_id": 68,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 69,
+    "id": 67,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Although most of the known amino acids were identified ---- the nineteenth century, the chemical structures of many were not known ---- much later.",
@@ -1170,10 +1400,14 @@
       "E": "during / until"
     },
     "correct_answer": "E",
-    "original_id": 10
+    "original_id": 10,
+    "dataset_original_id": 69,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 70,
+    "id": 68,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Canines, members of the dog family, originated ---- North America during the Eocene era, ---- there they spread throughout the world.",
@@ -1187,10 +1421,14 @@
       "E": "for / around"
     },
     "correct_answer": "A",
-    "original_id": 11
+    "original_id": 11,
+    "dataset_original_id": 70,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 71,
+    "id": 69,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- there are various ways to define desert climate, a classification system widely used by modern scientists defines it as that averaging at least twice as much potential evaporation as rainfall during the year.",
@@ -1204,10 +1442,14 @@
       "E": "Given that"
     },
     "correct_answer": "B",
-    "original_id": 12
+    "original_id": 12,
+    "dataset_original_id": 71,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 72,
+    "id": 70,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- the major technical problems associated with reducing emissions from gasoline-fueled cars are solved, such reductions alone might not be sufficient to solve the air pollution problems.",
@@ -1221,10 +1463,14 @@
       "E": "Until"
     },
     "correct_answer": "C",
-    "original_id": 13
+    "original_id": 13,
+    "dataset_original_id": 72,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 73,
+    "id": 71,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Global warming is likely to make many parts of the world uninhabitable, ---- there are ways to limit the impact before it is too late.",
@@ -1238,10 +1484,14 @@
       "E": "once"
     },
     "correct_answer": "D",
-    "original_id": 14
+    "original_id": 14,
+    "dataset_original_id": 73,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 74,
+    "id": 72,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- jaguars are secretive and rare, biologists have not been able to determine the exact number remaining in the wild.",
@@ -1255,10 +1505,14 @@
       "E": "As if"
     },
     "correct_answer": "D",
-    "original_id": 15
+    "original_id": 15,
+    "dataset_original_id": 74,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 75,
+    "id": 73,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Unlike other waves, tsunami is caused neither by wind nor by tidal movement; ----, it is the result of major disturbances on the ocean floor.",
@@ -1272,10 +1526,14 @@
       "E": "similarly"
     },
     "correct_answer": "D",
-    "original_id": 16
+    "original_id": 16,
+    "dataset_original_id": 75,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 76,
+    "id": 74,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- failures such as those in the Bay Bridge and the Tacoma Narrows Bridge, engineers have developed methods for making bridges more aerodynamically sound.",
@@ -1289,10 +1547,14 @@
       "E": "Regardless of"
     },
     "correct_answer": "A",
-    "original_id": 17
+    "original_id": 17,
+    "dataset_original_id": 76,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 77,
+    "id": 75,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Titan – Saturn’s largest satellite – is the only place in the solar system ---- Earth that has stable liquid on its surface.",
@@ -1306,10 +1568,14 @@
       "E": "other than"
     },
     "correct_answer": "E",
-    "original_id": 18
+    "original_id": 18,
+    "dataset_original_id": 77,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 78,
+    "id": 76,
     "source": "YOKDIL2_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "By analysing the spectrum of light from a star or galaxy, astronomers can tell how fast it is moving, and ---- it is moving toward ---- away from Earth.",
@@ -1323,10 +1589,14 @@
       "E": "as / as"
     },
     "correct_answer": "D",
-    "original_id": 19
+    "original_id": 19,
+    "dataset_original_id": 78,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 79,
+    "id": 77,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "In regions with a relatively dry climate, intensive cultivation by farmers can have terrible ----, draining water sources, and causing soil erosion.",
@@ -1340,10 +1610,14 @@
       "E": "observations"
     },
     "correct_answer": "A",
-    "original_id": 1
+    "original_id": 1,
+    "dataset_original_id": 79,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 80,
+    "id": 78,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "The spectacular discoveries and ---- in molecular biology in the last fifty years have created a gene-based medical revolution.",
@@ -1357,10 +1631,14 @@
       "E": "limitations"
     },
     "correct_answer": "D",
-    "original_id": 2
+    "original_id": 2,
+    "dataset_original_id": 80,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 81,
+    "id": 79,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "In recent years ---- efforts have been made in introducing improved forest harvesting practices to tropical forests to support sustainable forest management.",
@@ -1374,10 +1652,14 @@
       "E": "changeable"
     },
     "correct_answer": "A",
-    "original_id": 3
+    "original_id": 3,
+    "dataset_original_id": 81,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 82,
+    "id": 80,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Asian sea bass, a fish species farmed in several Asian countries, feed ---- on small crustaceans (crab, shrimp, etc.) and later switch to fish as they grow up.",
@@ -1391,10 +1673,14 @@
       "E": "virtually"
     },
     "correct_answer": "C",
-    "original_id": 4
+    "original_id": 4,
+    "dataset_original_id": 82,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 83,
+    "id": 81,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Infectious microbes from animals can be ---- directly to humans through an animal bite, or indirectly through the bite of insects that feed on both animals and humans.",
@@ -1408,10 +1694,14 @@
       "E": "adjusted"
     },
     "correct_answer": "D",
-    "original_id": 5
+    "original_id": 5,
+    "dataset_original_id": 83,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 84,
+    "id": 82,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Known for their devoted parental care, treehopper mothers ---- their offspring until the young hoppers are old enough to fly away.",
@@ -1425,10 +1715,14 @@
       "E": "keep off"
     },
     "correct_answer": "B",
-    "original_id": 6
+    "original_id": 6,
+    "dataset_original_id": 84,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 85,
+    "id": 83,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Although smartphones ---- arguably the most popular gaming platform for the past couple of years, they do not have the ability ---- with desktop computers.",
@@ -1442,10 +1736,14 @@
       "E": "must have been / compete"
     },
     "correct_answer": "A",
-    "original_id": 7
+    "original_id": 7,
+    "dataset_original_id": 85,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 86,
+    "id": 84,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "E-mail advertising ---- a good reputation these days, as people realise that it ---- affordable and effective.",
@@ -1459,10 +1757,14 @@
       "E": "is getting / can be"
     },
     "correct_answer": "E",
-    "original_id": 8
+    "original_id": 8,
+    "dataset_original_id": 86,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 87,
+    "id": 85,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Temperament is an emotional trait that is relatively stable ---- the life span, and is at least ---- some degree, influenced by biology.",
@@ -1476,10 +1778,14 @@
       "E": "about / from"
     },
     "correct_answer": "A",
-    "original_id": 9
+    "original_id": 9,
+    "dataset_original_id": 87,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 88,
+    "id": 86,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- the 20th century, the discovery of extrasolar planets made a great contribution to the existing efforts in the search ---- extraterrestrial intelligence.",
@@ -1493,10 +1799,14 @@
       "E": "With / above"
     },
     "correct_answer": "D",
-    "original_id": 10
+    "original_id": 10,
+    "dataset_original_id": 88,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 89,
+    "id": 87,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "The arrival of the printing press had a profound effect ---- Renaissance Europe and introduced an era of mass communication ---- many different languages.",
@@ -1510,10 +1820,14 @@
       "E": "to / through"
     },
     "correct_answer": "C",
-    "original_id": 11
+    "original_id": 11,
+    "dataset_original_id": 89,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   },
   {
-    "id": 90,
+    "id": 88,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- all greenhouse gas emissions were stopped tomorrow, the average global temperature would still keep rising for the next 30 years.",
@@ -1527,10 +1841,14 @@
       "E": "Once"
     },
     "correct_answer": "B",
-    "original_id": 12
+    "original_id": 12,
+    "dataset_original_id": 90,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 91,
+    "id": 89,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Life expectancy at birth is the number of years a newborn infant would live ---- already existing patterns of mortality at the time of its birth were to stay the same throughout its life.",
@@ -1544,10 +1862,14 @@
       "E": "although"
     },
     "correct_answer": "A",
-    "original_id": 13
+    "original_id": 13,
+    "dataset_original_id": 91,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 92,
+    "id": 90,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Not much progress could be made in chemistry ---- chemists gained a better understanding of the materials they worked with.",
@@ -1561,10 +1883,14 @@
       "E": "if"
     },
     "correct_answer": "B",
-    "original_id": 14
+    "original_id": 14,
+    "dataset_original_id": 92,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 93,
+    "id": 91,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Dogs, which are highly responsive to sensory information, look and listen to interpret their surroundings, ---- humans do.",
@@ -1578,10 +1904,14 @@
       "E": "as long as"
     },
     "correct_answer": "B",
-    "original_id": 15
+    "original_id": 15,
+    "dataset_original_id": 93,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 94,
+    "id": 92,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- the field of seismology can be divided into studies of the Earth's structure and of seismic sources (earthquakes, explosions, etc.), they are not fully separable.",
@@ -1595,10 +1925,14 @@
       "E": "Once"
     },
     "correct_answer": "C",
-    "original_id": 16
+    "original_id": 16,
+    "dataset_original_id": 94,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 95,
+    "id": 93,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "Today, people with rare conditions could be diagnosed quicker ---- the advances in technology including 3D facial analysis.",
@@ -1612,10 +1946,14 @@
       "E": "unlike"
     },
     "correct_answer": "D",
-    "original_id": 17
+    "original_id": 17,
+    "dataset_original_id": 95,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 96,
+    "id": 94,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "---- the advancements in Internet service and delivery, slow-loading web pages are still commonplace.",
@@ -1629,10 +1967,14 @@
       "E": "As well as"
     },
     "correct_answer": "C",
-    "original_id": 18
+    "original_id": 18,
+    "dataset_original_id": 96,
+    "blank_count": 1,
+    "blank_type": "single_blank",
+    "evaluation_subset": "single_blank_clean"
   },
   {
-    "id": 97,
+    "id": 95,
     "source": "YOKDIL_Ingilizce_fen.pdf",
     "question_type": "real_cloze",
     "question_text": "To test a pet’s sensitivity to specific allergens, a veterinarian routinely exposes it to these allergens via ---- a daily serum under the tongue ---- a shot every one to two weeks.",
@@ -1646,23 +1988,10 @@
       "E": "as / as"
     },
     "correct_answer": "D",
-    "original_id": 19
-  },
-  {
-    "id": 98,
-    "source": "YOKDIL_Ingilizce_fen.pdf",
-    "question_type": "real_cloze",
-    "question_text": "It can be inferred from the passage that aesthetic effects of air pollution ----.",
-    "left_context": "It can be inferred from the passage that aesthetic effects of air pollution",
-    "right_context": ".",
-    "options": {
-      "A": "are the most common type",
-      "B": "make an area seem unattractive",
-      "C": "can increase the risk of asthma",
-      "D": "are within the minor risk group",
-      "E": "can result in an economic loss"
-    },
-    "correct_answer": "B",
-    "original_id": 73
+    "original_id": 19,
+    "dataset_original_id": 97,
+    "blank_count": 2,
+    "blank_type": "multi_blank",
+    "evaluation_subset": "multi_blank_clean"
   }
 ]

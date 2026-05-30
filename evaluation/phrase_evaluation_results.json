@@ -1,0 +1,91 @@
+{
+  "overall": {
+    "total": 300,
+    "useful": 77,
+    "not_useful": 223,
+    "precision": 0.2567,
+    "precision_pct": "25.7%"
+  },
+  "raw_overall": {
+    "total": 150,
+    "useful": 27,
+    "not_useful": 123,
+    "precision": 0.18,
+    "precision_pct": "18.0%"
+  },
+  "filtered_overall": {
+    "total": 150,
+    "useful": 50,
+    "not_useful": 100,
+    "precision": 0.3333,
+    "precision_pct": "33.3%"
+  },
+  "filtering_improvement": {
+    "raw_precision": 0.18,
+    "filtered_precision": 0.3333,
+    "absolute_gain": 0.1533,
+    "absolute_gain_pct": "15.3%"
+  },
+  "by_type": {
+    "bigram": {
+      "raw": {
+        "total": 50,
+        "useful": 5,
+        "not_useful": 45,
+        "precision": 0.1,
+        "precision_pct": "10.0%"
+      },
+      "filtered": {
+        "total": 50,
+        "useful": 13,
+        "not_useful": 37,
+        "precision": 0.26,
+        "precision_pct": "26.0%"
+      },
+      "improvement": {
+        "absolute_gain": 0.16,
+        "absolute_gain_pct": "16.0%"
+      }
+    },
+    "trigram": {
+      "raw": {
+        "total": 50,
+        "useful": 16,
+        "not_useful": 34,
+        "precision": 0.32,
+        "precision_pct": "32.0%"
+      },
+      "filtered": {
+        "total": 50,
+        "useful": 16,
+        "not_useful": 34,
+        "precision": 0.32,
+        "precision_pct": "32.0%"
+      },
+      "improvement": {
+        "absolute_gain": 0.0,
+        "absolute_gain_pct": "0.0%"
+      }
+    },
+    "quadgram": {
+      "raw": {
+        "total": 50,
+        "useful": 6,
+        "not_useful": 44,
+        "precision": 0.12,
+        "precision_pct": "12.0%"
+      },
+      "filtered": {
+        "total": 50,
+        "useful": 21,
+        "not_useful": 29,
+        "precision": 0.42,
+        "precision_pct": "42.0%"
+      },
+      "improvement": {
+        "absolute_gain": 0.3,
+        "absolute_gain_pct": "30.0%"
+      }
+    }
+  }
+}
