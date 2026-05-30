@@ -302,6 +302,23 @@ Herhangi bir İngilizce metin girilerek corpus ile n-gram eşleşmeleri incelene
 - **Detaylı sonuç tablosu**
 
 ---
+# Evolution
+| N-Gram Type | Raw Useful / Total | Raw Precision@50 | Filtered Useful / Total | Filtered Precision@50 | Improvement |
+| ----------- | -----------------: | ---------------: | ----------------------: | --------------------: | ----------: |
+| Bigram      |             5 / 50 |            10.0% |                 13 / 50 |                 26.0% |       +16.0 |
+| Trigram     |            16 / 50 |            32.0% |                 16 / 50 |                 32.0% |        +0.0 |
+| Quadgram    |             6 / 50 |            12.0% |                 21 / 50 |                 42.0% |       +30.0 |
+| **Overall** |       **27 / 150** |        **18.0%** |            **50 / 150** |             **33.3%** |   **+15.3** |
+
+# Overall Manual Evaluation Summary
+Metric	Value
+Total evaluated phrases	300
+Useful phrases	77
+Not useful phrases	223
+Overall precision	25.7%
+Raw overall precision	18.0%
+Filtered overall precision	33.3%
+Filtering improvement	+15.3 percentage points
 
 ## 📜 Lisans
 
