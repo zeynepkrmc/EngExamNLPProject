@@ -312,6 +312,8 @@ Bu proje akademik amaçlı geliştirilmiştir.
 http://127.0.0.1:5000/api/evaluation/template?top_k=50
 
 http://127.0.0.1:5000/api/evaluation/results
+
+## single-reviewer manual annotation
 ## 👤 Geliştirici
 
 Doğal Dil İşleme dersi kapsamında hazırlanmıştır.
